@@ -2,7 +2,7 @@
 
 This page is a core feature of **GivEat**, where users (e.g., restaurants, event organizers) can input details about their food and predict possible waste.  
 
-![Food Waste Prediction Demo]("Screenshot 2025-08-30 043333.png")
+![Food Waste Prediction](Screenshot%202025-08-30%20043333.png)
 
 ### 🔑 How it Works:  
 1. **Inputs**:  
