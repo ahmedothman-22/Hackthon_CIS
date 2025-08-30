@@ -1,0 +1,3001 @@
+NGO_name,location,needed_quantity,food_type,contact
+Charity_1,Cairo,374,Dairy,+20-1482079907
+Charity_2,Upper Egypt,255,Vegetables,+20-1798343956
+Charity_3,Mansoura,477,Bakery,+20-1710401558
+Charity_4,Mansoura,124,Meat,+20-1668093326
+Charity_5,Giza,373,Fruits,+20-1633187276
+Charity_6,Delta,459,Meat,+20-1900748674
+Charity_7,Cairo,55,Fruits,+20-1710640269
+Charity_8,Giza,121,Fruits,+20-1628577993
+Charity_9,Giza,439,Vegetables,+20-1691919737
+Charity_10,Upper Egypt,283,Meat,+20-1855333554
+Charity_11,Giza,130,Vegetables,+20-1132755072
+Charity_12,Cairo,380,Dairy,+20-1387044869
+Charity_13,Delta,223,Bakery,+20-1629725989
+Charity_14,Upper Egypt,115,Fruits,+20-1964428168
+Charity_15,Giza,334,Dairy,+20-1231100258
+Charity_16,Giza,362,Fruits,+20-1194889047
+Charity_17,Alexandria,221,Vegetables,+20-1870107397
+Charity_18,Cairo,219,Bakery,+20-1962044760
+Charity_19,Upper Egypt,61,Vegetables,+20-1778338775
+Charity_20,Delta,254,Meat,+20-1965450537
+Charity_21,Mansoura,72,Fruits,+20-1693154395
+Charity_22,Cairo,138,Vegetables,+20-1381478637
+Charity_23,Cairo,264,Fruits,+20-1422590594
+Charity_24,Mansoura,184,Dairy,+20-1963979514
+Charity_25,Mansoura,404,Bakery,+20-1466216173
+Charity_26,Cairo,417,Bakery,+20-1125011506
+Charity_27,Alexandria,495,Meat,+20-1781358254
+Charity_28,Delta,423,Bakery,+20-1642303462
+Charity_29,Alexandria,273,Dairy,+20-1838531118
+Charity_30,Alexandria,154,Meat,+20-1200683004
+Charity_31,Mansoura,218,Fruits,+20-1563228518
+Charity_32,Giza,162,Bakery,+20-1700075651
+Charity_33,Mansoura,321,Bakery,+20-1648091959
+Charity_34,Mansoura,422,Dairy,+20-1473226993
+Charity_35,Mansoura,406,Bakery,+20-1769413951
+Charity_36,Giza,87,Vegetables,+20-1518064414
+Charity_37,Upper Egypt,76,Dairy,+20-1794876670
+Charity_38,Giza,120,Bakery,+20-1124728380
+Charity_39,Cairo,100,Vegetables,+20-1697013957
+Charity_40,Mansoura,54,Fruits,+20-1617537545
+Charity_41,Delta,191,Dairy,+20-1185514406
+Charity_42,Delta,365,Meat,+20-1330123335
+Charity_43,Delta,58,Vegetables,+20-1453552017
+Charity_44,Cairo,439,Fruits,+20-1659478974
+Charity_45,Delta,458,Fruits,+20-1883673320
+Charity_46,Giza,336,Vegetables,+20-1871223779
+Charity_47,Delta,198,Fruits,+20-1178831808
+Charity_48,Delta,414,Meat,+20-1378760003
+Charity_49,Mansoura,464,Bakery,+20-1884987950
+Charity_50,Cairo,235,Vegetables,+20-1430310347
+Charity_51,Mansoura,115,Bakery,+20-1357019953
+Charity_52,Delta,233,Meat,+20-1889647519
+Charity_53,Mansoura,292,Vegetables,+20-1786770338
+Charity_54,Cairo,469,Bakery,+20-1455817797
+Charity_55,Upper Egypt,163,Vegetables,+20-1805993817
+Charity_56,Upper Egypt,251,Dairy,+20-1108403679
+Charity_57,Delta,180,Bakery,+20-1915119497
+Charity_58,Delta,256,Bakery,+20-1903389382
+Charity_59,Mansoura,477,Fruits,+20-1508019579
+Charity_60,Upper Egypt,388,Vegetables,+20-1736730173
+Charity_61,Giza,238,Bakery,+20-1812481064
+Charity_62,Giza,496,Vegetables,+20-1664291201
+Charity_63,Giza,417,Bakery,+20-1101729162
+Charity_64,Cairo,319,Vegetables,+20-1265638001
+Charity_65,Giza,241,Vegetables,+20-1144811985
+Charity_66,Mansoura,311,Bakery,+20-1468130294
+Charity_67,Mansoura,324,Fruits,+20-1831764020
+Charity_68,Mansoura,298,Dairy,+20-1786269852
+Charity_69,Mansoura,307,Meat,+20-1755854223
+Charity_70,Mansoura,192,Fruits,+20-1960829732
+Charity_71,Delta,162,Dairy,+20-1388622680
+Charity_72,Upper Egypt,193,Bakery,+20-1449453338
+Charity_73,Delta,293,Fruits,+20-1257366852
+Charity_74,Cairo,168,Fruits,+20-1783091325
+Charity_75,Giza,91,Dairy,+20-1446149901
+Charity_76,Alexandria,400,Fruits,+20-1743923268
+Charity_77,Upper Egypt,131,Bakery,+20-1851640984
+Charity_78,Delta,300,Fruits,+20-1677081516
+Charity_79,Upper Egypt,284,Fruits,+20-1193400066
+Charity_80,Upper Egypt,82,Fruits,+20-1665393090
+Charity_81,Mansoura,400,Vegetables,+20-1560143854
+Charity_82,Mansoura,215,Meat,+20-1903364932
+Charity_83,Upper Egypt,110,Bakery,+20-1764451451
+Charity_84,Mansoura,267,Fruits,+20-1459322523
+Charity_85,Giza,187,Bakery,+20-1536217455
+Charity_86,Alexandria,453,Fruits,+20-1177246574
+Charity_87,Alexandria,448,Dairy,+20-1433590651
+Charity_88,Cairo,363,Dairy,+20-1573090340
+Charity_89,Delta,356,Dairy,+20-1355102635
+Charity_90,Upper Egypt,54,Meat,+20-1707442086
+Charity_91,Giza,229,Bakery,+20-1978510324
+Charity_92,Giza,81,Meat,+20-1525204529
+Charity_93,Giza,478,Meat,+20-1192193071
+Charity_94,Upper Egypt,217,Bakery,+20-1610456846
+Charity_95,Upper Egypt,377,Vegetables,+20-1285276246
+Charity_96,Alexandria,124,Vegetables,+20-1662990246
+Charity_97,Alexandria,438,Bakery,+20-1950274999
+Charity_98,Upper Egypt,160,Fruits,+20-1929243703
+Charity_99,Upper Egypt,357,Vegetables,+20-1614963740
+Charity_100,Mansoura,260,Bakery,+20-1152419938
+Charity_101,Delta,371,Bakery,+20-1922800018
+Charity_102,Alexandria,273,Meat,+20-1188919422
+Charity_103,Upper Egypt,497,Bakery,+20-1136062760
+Charity_104,Alexandria,54,Vegetables,+20-1311027924
+Charity_105,Alexandria,333,Meat,+20-1177298097
+Charity_106,Alexandria,495,Vegetables,+20-1570979210
+Charity_107,Upper Egypt,173,Fruits,+20-1953152858
+Charity_108,Delta,254,Dairy,+20-1901946435
+Charity_109,Mansoura,103,Fruits,+20-1450357670
+Charity_110,Alexandria,189,Dairy,+20-1116935610
+Charity_111,Alexandria,175,Bakery,+20-1265615076
+Charity_112,Mansoura,70,Bakery,+20-1569674465
+Charity_113,Mansoura,488,Fruits,+20-1902878197
+Charity_114,Mansoura,374,Vegetables,+20-1632331787
+Charity_115,Giza,74,Fruits,+20-1904647951
+Charity_116,Giza,252,Fruits,+20-1770069531
+Charity_117,Delta,82,Meat,+20-1743494332
+Charity_118,Upper Egypt,128,Bakery,+20-1981554550
+Charity_119,Alexandria,259,Dairy,+20-1893372662
+Charity_120,Upper Egypt,399,Vegetables,+20-1962235694
+Charity_121,Delta,236,Meat,+20-1283301143
+Charity_122,Cairo,500,Fruits,+20-1444652149
+Charity_123,Upper Egypt,485,Vegetables,+20-1698163109
+Charity_124,Giza,490,Meat,+20-1823248462
+Charity_125,Mansoura,282,Fruits,+20-1443624866
+Charity_126,Delta,121,Meat,+20-1270418799
+Charity_127,Mansoura,143,Dairy,+20-1378981328
+Charity_128,Giza,360,Fruits,+20-1526989497
+Charity_129,Mansoura,378,Bakery,+20-1386683631
+Charity_130,Alexandria,433,Dairy,+20-1102714084
+Charity_131,Mansoura,337,Bakery,+20-1934041342
+Charity_132,Cairo,475,Dairy,+20-1991351746
+Charity_133,Alexandria,92,Bakery,+20-1848362992
+Charity_134,Delta,101,Bakery,+20-1642102655
+Charity_135,Cairo,283,Dairy,+20-1502271249
+Charity_136,Alexandria,85,Vegetables,+20-1714810201
+Charity_137,Upper Egypt,402,Fruits,+20-1420979374
+Charity_138,Cairo,456,Fruits,+20-1748556509
+Charity_139,Giza,223,Vegetables,+20-1821752427
+Charity_140,Cairo,269,Fruits,+20-1765625990
+Charity_141,Delta,141,Bakery,+20-1915330243
+Charity_142,Upper Egypt,439,Vegetables,+20-1655499523
+Charity_143,Upper Egypt,222,Bakery,+20-1610960165
+Charity_144,Alexandria,275,Dairy,+20-1566404531
+Charity_145,Alexandria,244,Fruits,+20-1725292387
+Charity_146,Cairo,296,Meat,+20-1488313090
+Charity_147,Alexandria,205,Bakery,+20-1382741969
+Charity_148,Upper Egypt,456,Vegetables,+20-1785742036
+Charity_149,Alexandria,163,Dairy,+20-1676646026
+Charity_150,Mansoura,386,Dairy,+20-1209359090
+Charity_151,Alexandria,490,Dairy,+20-1959748394
+Charity_152,Delta,139,Vegetables,+20-1879454950
+Charity_153,Cairo,474,Bakery,+20-1385219633
+Charity_154,Delta,489,Meat,+20-1622780076
+Charity_155,Mansoura,405,Vegetables,+20-1420467011
+Charity_156,Cairo,227,Vegetables,+20-1486484788
+Charity_157,Delta,287,Dairy,+20-1234206305
+Charity_158,Cairo,389,Meat,+20-1217885943
+Charity_159,Cairo,220,Fruits,+20-1596437722
+Charity_160,Mansoura,489,Vegetables,+20-1923022843
+Charity_161,Alexandria,364,Fruits,+20-1358118876
+Charity_162,Upper Egypt,86,Fruits,+20-1845428502
+Charity_163,Delta,297,Vegetables,+20-1285702339
+Charity_164,Alexandria,237,Dairy,+20-1637387937
+Charity_165,Alexandria,255,Fruits,+20-1211521396
+Charity_166,Giza,225,Fruits,+20-1795954125
+Charity_167,Upper Egypt,374,Dairy,+20-1431808353
+Charity_168,Cairo,251,Bakery,+20-1453045244
+Charity_169,Upper Egypt,241,Dairy,+20-1329777179
+Charity_170,Delta,390,Fruits,+20-1262831498
+Charity_171,Giza,490,Vegetables,+20-1675962281
+Charity_172,Alexandria,240,Fruits,+20-1693443888
+Charity_173,Cairo,477,Bakery,+20-1943699457
+Charity_174,Alexandria,298,Bakery,+20-1423638533
+Charity_175,Mansoura,235,Bakery,+20-1204927181
+Charity_176,Upper Egypt,259,Dairy,+20-1147578908
+Charity_177,Giza,453,Bakery,+20-1930445270
+Charity_178,Alexandria,371,Meat,+20-1933969528
+Charity_179,Giza,260,Vegetables,+20-1355911507
+Charity_180,Giza,429,Fruits,+20-1576783883
+Charity_181,Cairo,203,Meat,+20-1599305000
+Charity_182,Cairo,178,Dairy,+20-1966363382
+Charity_183,Delta,277,Meat,+20-1373251640
+Charity_184,Upper Egypt,302,Bakery,+20-1625209840
+Charity_185,Upper Egypt,464,Vegetables,+20-1412293724
+Charity_186,Cairo,334,Fruits,+20-1866269878
+Charity_187,Alexandria,342,Fruits,+20-1144818105
+Charity_188,Delta,414,Vegetables,+20-1636134020
+Charity_189,Alexandria,240,Dairy,+20-1139813931
+Charity_190,Cairo,286,Meat,+20-1305045498
+Charity_191,Delta,472,Dairy,+20-1208204128
+Charity_192,Cairo,89,Dairy,+20-1473591936
+Charity_193,Delta,397,Meat,+20-1807653295
+Charity_194,Cairo,438,Meat,+20-1570652648
+Charity_195,Upper Egypt,68,Dairy,+20-1593934037
+Charity_196,Delta,454,Fruits,+20-1716997878
+Charity_197,Cairo,300,Bakery,+20-1564367736
+Charity_198,Upper Egypt,355,Vegetables,+20-1668011655
+Charity_199,Alexandria,210,Meat,+20-1527208012
+Charity_200,Upper Egypt,129,Meat,+20-1904512999
+Charity_201,Alexandria,346,Vegetables,+20-1813589993
+Charity_202,Delta,444,Bakery,+20-1555503305
+Charity_203,Mansoura,255,Vegetables,+20-1478967068
+Charity_204,Giza,454,Dairy,+20-1622705078
+Charity_205,Giza,238,Fruits,+20-1855088496
+Charity_206,Delta,354,Dairy,+20-1148828886
+Charity_207,Mansoura,79,Dairy,+20-1237532507
+Charity_208,Giza,323,Bakery,+20-1330208899
+Charity_209,Alexandria,448,Meat,+20-1329384746
+Charity_210,Giza,460,Fruits,+20-1980761249
+Charity_211,Cairo,435,Vegetables,+20-1757228527
+Charity_212,Cairo,88,Fruits,+20-1303540138
+Charity_213,Cairo,359,Dairy,+20-1432739139
+Charity_214,Giza,302,Fruits,+20-1759799861
+Charity_215,Giza,271,Dairy,+20-1821954037
+Charity_216,Giza,210,Dairy,+20-1864791379
+Charity_217,Upper Egypt,340,Dairy,+20-1574195992
+Charity_218,Cairo,405,Fruits,+20-1658517601
+Charity_219,Cairo,150,Meat,+20-1813171907
+Charity_220,Cairo,283,Vegetables,+20-1963924852
+Charity_221,Alexandria,446,Dairy,+20-1491655300
+Charity_222,Delta,466,Vegetables,+20-1518578816
+Charity_223,Cairo,312,Vegetables,+20-1467976839
+Charity_224,Giza,392,Dairy,+20-1354782376
+Charity_225,Upper Egypt,291,Bakery,+20-1383915098
+Charity_226,Upper Egypt,448,Meat,+20-1251924223
+Charity_227,Delta,492,Bakery,+20-1519124621
+Charity_228,Mansoura,348,Meat,+20-1194983900
+Charity_229,Giza,394,Vegetables,+20-1310586614
+Charity_230,Giza,88,Fruits,+20-1772831310
+Charity_231,Upper Egypt,135,Fruits,+20-1270796560
+Charity_232,Mansoura,92,Meat,+20-1728762664
+Charity_233,Mansoura,454,Bakery,+20-1709465264
+Charity_234,Giza,481,Fruits,+20-1969743735
+Charity_235,Delta,492,Fruits,+20-1523391898
+Charity_236,Alexandria,281,Fruits,+20-1775573615
+Charity_237,Upper Egypt,189,Dairy,+20-1499755720
+Charity_238,Upper Egypt,159,Vegetables,+20-1502421988
+Charity_239,Upper Egypt,469,Fruits,+20-1400823845
+Charity_240,Alexandria,89,Meat,+20-1659174581
+Charity_241,Cairo,458,Bakery,+20-1814825057
+Charity_242,Upper Egypt,225,Meat,+20-1329597323
+Charity_243,Mansoura,280,Vegetables,+20-1648906908
+Charity_244,Cairo,401,Fruits,+20-1255031661
+Charity_245,Cairo,155,Bakery,+20-1986405524
+Charity_246,Upper Egypt,379,Bakery,+20-1207661176
+Charity_247,Upper Egypt,353,Vegetables,+20-1577341760
+Charity_248,Upper Egypt,269,Bakery,+20-1423097753
+Charity_249,Cairo,324,Fruits,+20-1633279331
+Charity_250,Cairo,183,Dairy,+20-1820223816
+Charity_251,Giza,134,Meat,+20-1179994634
+Charity_252,Alexandria,388,Bakery,+20-1361810586
+Charity_253,Giza,174,Fruits,+20-1386649296
+Charity_254,Cairo,99,Meat,+20-1298195656
+Charity_255,Mansoura,136,Bakery,+20-1322327712
+Charity_256,Mansoura,55,Vegetables,+20-1101738851
+Charity_257,Delta,296,Dairy,+20-1412544635
+Charity_258,Mansoura,297,Meat,+20-1886316777
+Charity_259,Delta,55,Dairy,+20-1810173108
+Charity_260,Upper Egypt,297,Dairy,+20-1216401532
+Charity_261,Delta,171,Dairy,+20-1505033079
+Charity_262,Giza,429,Bakery,+20-1500695256
+Charity_263,Cairo,297,Dairy,+20-1802448013
+Charity_264,Mansoura,402,Meat,+20-1783445927
+Charity_265,Mansoura,144,Meat,+20-1635783912
+Charity_266,Giza,71,Fruits,+20-1685833703
+Charity_267,Delta,482,Bakery,+20-1523861585
+Charity_268,Delta,75,Fruits,+20-1210571823
+Charity_269,Delta,249,Bakery,+20-1338768340
+Charity_270,Cairo,165,Vegetables,+20-1515669761
+Charity_271,Alexandria,385,Fruits,+20-1954532354
+Charity_272,Mansoura,181,Bakery,+20-1561064446
+Charity_273,Mansoura,202,Meat,+20-1732243160
+Charity_274,Delta,92,Dairy,+20-1139733784
+Charity_275,Alexandria,417,Vegetables,+20-1754151548
+Charity_276,Upper Egypt,60,Dairy,+20-1942487295
+Charity_277,Alexandria,457,Bakery,+20-1135637879
+Charity_278,Delta,418,Dairy,+20-1792749155
+Charity_279,Cairo,167,Fruits,+20-1240325588
+Charity_280,Alexandria,466,Meat,+20-1857167893
+Charity_281,Delta,280,Meat,+20-1232481302
+Charity_282,Delta,85,Fruits,+20-1699849352
+Charity_283,Delta,101,Vegetables,+20-1526389360
+Charity_284,Delta,122,Bakery,+20-1520112061
+Charity_285,Mansoura,55,Dairy,+20-1397718559
+Charity_286,Giza,110,Fruits,+20-1364787805
+Charity_287,Cairo,356,Vegetables,+20-1784635297
+Charity_288,Mansoura,423,Vegetables,+20-1938548183
+Charity_289,Alexandria,137,Dairy,+20-1954580714
+Charity_290,Cairo,121,Vegetables,+20-1221420441
+Charity_291,Mansoura,342,Meat,+20-1690990656
+Charity_292,Upper Egypt,311,Dairy,+20-1493889731
+Charity_293,Alexandria,313,Meat,+20-1252003776
+Charity_294,Delta,168,Vegetables,+20-1929683109
+Charity_295,Alexandria,329,Vegetables,+20-1911754549
+Charity_296,Delta,473,Fruits,+20-1306291716
+Charity_297,Upper Egypt,479,Bakery,+20-1785883028
+Charity_298,Cairo,52,Dairy,+20-1488788775
+Charity_299,Mansoura,172,Fruits,+20-1190689340
+Charity_300,Mansoura,209,Fruits,+20-1372431012
+Charity_301,Mansoura,343,Vegetables,+20-1928379283
+Charity_302,Upper Egypt,411,Fruits,+20-1231122932
+Charity_303,Cairo,498,Vegetables,+20-1888560979
+Charity_304,Cairo,205,Meat,+20-1967376347
+Charity_305,Cairo,127,Bakery,+20-1362576565
+Charity_306,Giza,94,Bakery,+20-1454784757
+Charity_307,Alexandria,312,Bakery,+20-1858634790
+Charity_308,Mansoura,339,Bakery,+20-1112814508
+Charity_309,Giza,223,Bakery,+20-1587259523
+Charity_310,Cairo,302,Dairy,+20-1187451877
+Charity_311,Mansoura,408,Meat,+20-1306422125
+Charity_312,Cairo,226,Dairy,+20-1637211316
+Charity_313,Mansoura,79,Bakery,+20-1425842831
+Charity_314,Cairo,116,Fruits,+20-1850166555
+Charity_315,Mansoura,52,Fruits,+20-1200097076
+Charity_316,Mansoura,179,Bakery,+20-1968819669
+Charity_317,Giza,439,Bakery,+20-1734148327
+Charity_318,Alexandria,156,Vegetables,+20-1581270450
+Charity_319,Mansoura,336,Fruits,+20-1223805985
+Charity_320,Delta,282,Dairy,+20-1591242358
+Charity_321,Mansoura,493,Dairy,+20-1165112794
+Charity_322,Cairo,248,Fruits,+20-1340991350
+Charity_323,Alexandria,216,Bakery,+20-1957960619
+Charity_324,Upper Egypt,282,Vegetables,+20-1185930369
+Charity_325,Upper Egypt,440,Dairy,+20-1916370466
+Charity_326,Giza,72,Vegetables,+20-1342449056
+Charity_327,Giza,185,Bakery,+20-1949592974
+Charity_328,Mansoura,433,Dairy,+20-1457911424
+Charity_329,Mansoura,185,Fruits,+20-1224887333
+Charity_330,Cairo,204,Bakery,+20-1401620687
+Charity_331,Delta,489,Meat,+20-1729909212
+Charity_332,Alexandria,408,Dairy,+20-1878851291
+Charity_333,Giza,481,Meat,+20-1681325221
+Charity_334,Cairo,226,Dairy,+20-1120974168
+Charity_335,Alexandria,482,Fruits,+20-1274158708
+Charity_336,Mansoura,76,Dairy,+20-1738180055
+Charity_337,Delta,234,Bakery,+20-1871074443
+Charity_338,Alexandria,461,Dairy,+20-1544052965
+Charity_339,Cairo,103,Meat,+20-1155002408
+Charity_340,Mansoura,344,Dairy,+20-1521126592
+Charity_341,Alexandria,280,Fruits,+20-1411309968
+Charity_342,Upper Egypt,430,Fruits,+20-1549175816
+Charity_343,Alexandria,286,Vegetables,+20-1649472420
+Charity_344,Delta,454,Dairy,+20-1262887371
+Charity_345,Giza,248,Bakery,+20-1325580609
+Charity_346,Alexandria,309,Fruits,+20-1388152727
+Charity_347,Upper Egypt,62,Vegetables,+20-1722738059
+Charity_348,Cairo,361,Bakery,+20-1376833320
+Charity_349,Upper Egypt,244,Bakery,+20-1474601470
+Charity_350,Upper Egypt,263,Meat,+20-1565867862
+Charity_351,Mansoura,420,Bakery,+20-1882665318
+Charity_352,Delta,143,Dairy,+20-1172670133
+Charity_353,Giza,315,Vegetables,+20-1539984049
+Charity_354,Delta,293,Meat,+20-1770869311
+Charity_355,Mansoura,275,Dairy,+20-1571407952
+Charity_356,Delta,241,Dairy,+20-1143894791
+Charity_357,Upper Egypt,155,Bakery,+20-1706665007
+Charity_358,Mansoura,123,Dairy,+20-1339252357
+Charity_359,Mansoura,289,Bakery,+20-1297286769
+Charity_360,Upper Egypt,463,Dairy,+20-1174903247
+Charity_361,Upper Egypt,452,Meat,+20-1159242764
+Charity_362,Mansoura,438,Vegetables,+20-1483959761
+Charity_363,Cairo,116,Bakery,+20-1741103254
+Charity_364,Mansoura,138,Vegetables,+20-1809409274
+Charity_365,Cairo,258,Bakery,+20-1801323114
+Charity_366,Giza,197,Vegetables,+20-1276054417
+Charity_367,Giza,148,Vegetables,+20-1155711888
+Charity_368,Giza,160,Bakery,+20-1732849071
+Charity_369,Giza,179,Fruits,+20-1507039662
+Charity_370,Cairo,453,Dairy,+20-1974450336
+Charity_371,Upper Egypt,64,Dairy,+20-1707736561
+Charity_372,Alexandria,412,Vegetables,+20-1830199142
+Charity_373,Cairo,254,Bakery,+20-1469141527
+Charity_374,Upper Egypt,116,Vegetables,+20-1466171220
+Charity_375,Mansoura,325,Dairy,+20-1446946056
+Charity_376,Giza,356,Fruits,+20-1197006089
+Charity_377,Giza,308,Fruits,+20-1360318076
+Charity_378,Mansoura,416,Meat,+20-1135440208
+Charity_379,Mansoura,491,Fruits,+20-1372524696
+Charity_380,Delta,473,Bakery,+20-1461133470
+Charity_381,Alexandria,322,Dairy,+20-1937381589
+Charity_382,Alexandria,175,Meat,+20-1225034990
+Charity_383,Delta,373,Bakery,+20-1941064931
+Charity_384,Cairo,181,Vegetables,+20-1488812650
+Charity_385,Alexandria,209,Vegetables,+20-1668446743
+Charity_386,Cairo,215,Vegetables,+20-1576812652
+Charity_387,Mansoura,439,Fruits,+20-1241747015
+Charity_388,Alexandria,220,Meat,+20-1615043106
+Charity_389,Delta,490,Dairy,+20-1691254392
+Charity_390,Delta,376,Dairy,+20-1684498292
+Charity_391,Mansoura,64,Vegetables,+20-1145143576
+Charity_392,Giza,419,Bakery,+20-1239652351
+Charity_393,Giza,112,Vegetables,+20-1180703238
+Charity_394,Mansoura,67,Meat,+20-1767257628
+Charity_395,Upper Egypt,216,Bakery,+20-1530875143
+Charity_396,Mansoura,156,Bakery,+20-1932886336
+Charity_397,Delta,388,Vegetables,+20-1679762155
+Charity_398,Mansoura,339,Bakery,+20-1934014168
+Charity_399,Mansoura,131,Bakery,+20-1633717363
+Charity_400,Giza,473,Meat,+20-1370151616
+Charity_401,Giza,462,Fruits,+20-1709223875
+Charity_402,Alexandria,458,Dairy,+20-1286488707
+Charity_403,Delta,468,Meat,+20-1608834927
+Charity_404,Upper Egypt,345,Dairy,+20-1432548063
+Charity_405,Alexandria,108,Dairy,+20-1108957120
+Charity_406,Giza,149,Vegetables,+20-1681862817
+Charity_407,Delta,309,Meat,+20-1605740329
+Charity_408,Cairo,59,Fruits,+20-1184375586
+Charity_409,Upper Egypt,71,Vegetables,+20-1665938224
+Charity_410,Mansoura,209,Fruits,+20-1835271285
+Charity_411,Cairo,126,Meat,+20-1257989915
+Charity_412,Upper Egypt,131,Meat,+20-1188335734
+Charity_413,Upper Egypt,300,Fruits,+20-1419499873
+Charity_414,Alexandria,189,Meat,+20-1527723815
+Charity_415,Alexandria,321,Dairy,+20-1765198077
+Charity_416,Giza,387,Meat,+20-1159650257
+Charity_417,Alexandria,257,Dairy,+20-1241313055
+Charity_418,Mansoura,213,Meat,+20-1937431590
+Charity_419,Cairo,232,Vegetables,+20-1535674804
+Charity_420,Upper Egypt,398,Bakery,+20-1580302423
+Charity_421,Alexandria,191,Vegetables,+20-1986091105
+Charity_422,Cairo,167,Dairy,+20-1159487622
+Charity_423,Mansoura,323,Fruits,+20-1413913415
+Charity_424,Upper Egypt,327,Vegetables,+20-1316534203
+Charity_425,Cairo,343,Fruits,+20-1645126493
+Charity_426,Mansoura,122,Vegetables,+20-1839587442
+Charity_427,Delta,160,Dairy,+20-1674353853
+Charity_428,Upper Egypt,379,Meat,+20-1557676725
+Charity_429,Cairo,457,Meat,+20-1378760265
+Charity_430,Alexandria,278,Bakery,+20-1264850681
+Charity_431,Giza,118,Dairy,+20-1621222806
+Charity_432,Cairo,187,Bakery,+20-1467478195
+Charity_433,Delta,410,Meat,+20-1766751583
+Charity_434,Upper Egypt,285,Meat,+20-1202707466
+Charity_435,Alexandria,72,Meat,+20-1707197001
+Charity_436,Mansoura,304,Bakery,+20-1619033172
+Charity_437,Upper Egypt,117,Meat,+20-1762955229
+Charity_438,Giza,229,Meat,+20-1713597585
+Charity_439,Giza,73,Meat,+20-1703819871
+Charity_440,Giza,331,Fruits,+20-1235643510
+Charity_441,Giza,166,Vegetables,+20-1706773699
+Charity_442,Mansoura,480,Meat,+20-1992645294
+Charity_443,Alexandria,344,Vegetables,+20-1909548558
+Charity_444,Mansoura,349,Fruits,+20-1642798899
+Charity_445,Giza,353,Meat,+20-1469013930
+Charity_446,Delta,373,Fruits,+20-1446511440
+Charity_447,Cairo,89,Dairy,+20-1326573048
+Charity_448,Delta,380,Dairy,+20-1189423283
+Charity_449,Alexandria,357,Vegetables,+20-1120827652
+Charity_450,Mansoura,221,Dairy,+20-1425025868
+Charity_451,Upper Egypt,489,Meat,+20-1950099000
+Charity_452,Alexandria,143,Fruits,+20-1702678846
+Charity_453,Mansoura,473,Vegetables,+20-1725802391
+Charity_454,Mansoura,131,Dairy,+20-1239893582
+Charity_455,Alexandria,357,Meat,+20-1655265685
+Charity_456,Delta,171,Meat,+20-1290929805
+Charity_457,Alexandria,384,Bakery,+20-1950109382
+Charity_458,Mansoura,422,Dairy,+20-1353010546
+Charity_459,Upper Egypt,272,Dairy,+20-1615413748
+Charity_460,Giza,434,Fruits,+20-1418973243
+Charity_461,Giza,375,Fruits,+20-1312120884
+Charity_462,Upper Egypt,225,Fruits,+20-1768550205
+Charity_463,Mansoura,315,Dairy,+20-1276942899
+Charity_464,Delta,493,Dairy,+20-1488590565
+Charity_465,Mansoura,106,Fruits,+20-1536047200
+Charity_466,Upper Egypt,485,Fruits,+20-1339230170
+Charity_467,Delta,493,Meat,+20-1996486198
+Charity_468,Giza,364,Bakery,+20-1150331916
+Charity_469,Giza,188,Bakery,+20-1795005253
+Charity_470,Cairo,378,Fruits,+20-1234605410
+Charity_471,Alexandria,291,Bakery,+20-1549641925
+Charity_472,Cairo,370,Meat,+20-1874162472
+Charity_473,Cairo,340,Fruits,+20-1110183118
+Charity_474,Delta,83,Dairy,+20-1850547382
+Charity_475,Alexandria,297,Vegetables,+20-1613122164
+Charity_476,Mansoura,115,Fruits,+20-1280165951
+Charity_477,Mansoura,245,Vegetables,+20-1235174163
+Charity_478,Alexandria,183,Bakery,+20-1265130452
+Charity_479,Cairo,163,Dairy,+20-1939548124
+Charity_480,Delta,168,Meat,+20-1739341065
+Charity_481,Cairo,417,Fruits,+20-1991403502
+Charity_482,Upper Egypt,80,Meat,+20-1828823641
+Charity_483,Alexandria,125,Dairy,+20-1359552189
+Charity_484,Cairo,413,Meat,+20-1907606463
+Charity_485,Mansoura,144,Vegetables,+20-1525203859
+Charity_486,Alexandria,83,Fruits,+20-1627574783
+Charity_487,Alexandria,265,Bakery,+20-1946065080
+Charity_488,Cairo,499,Meat,+20-1780896642
+Charity_489,Cairo,317,Fruits,+20-1235155873
+Charity_490,Delta,458,Vegetables,+20-1333461156
+Charity_491,Alexandria,362,Bakery,+20-1891306642
+Charity_492,Alexandria,279,Fruits,+20-1275646884
+Charity_493,Giza,344,Bakery,+20-1784372398
+Charity_494,Giza,477,Fruits,+20-1761915446
+Charity_495,Mansoura,400,Dairy,+20-1844682433
+Charity_496,Mansoura,453,Dairy,+20-1956041059
+Charity_497,Cairo,230,Vegetables,+20-1739014339
+Charity_498,Cairo,454,Vegetables,+20-1278417333
+Charity_499,Mansoura,443,Vegetables,+20-1896452140
+Charity_500,Alexandria,288,Vegetables,+20-1532378701
+Charity_501,Alexandria,55,Meat,+20-1872775112
+Charity_502,Giza,123,Bakery,+20-1704267134
+Charity_503,Cairo,344,Meat,+20-1855024113
+Charity_504,Upper Egypt,78,Dairy,+20-1422781818
+Charity_505,Mansoura,258,Meat,+20-1792478875
+Charity_506,Alexandria,204,Vegetables,+20-1584912652
+Charity_507,Delta,300,Vegetables,+20-1891933630
+Charity_508,Upper Egypt,216,Fruits,+20-1378966292
+Charity_509,Upper Egypt,76,Fruits,+20-1289017333
+Charity_510,Upper Egypt,177,Meat,+20-1530089808
+Charity_511,Delta,302,Bakery,+20-1254198191
+Charity_512,Upper Egypt,411,Meat,+20-1888886023
+Charity_513,Mansoura,276,Fruits,+20-1971260733
+Charity_514,Alexandria,342,Vegetables,+20-1767838217
+Charity_515,Giza,206,Vegetables,+20-1834342656
+Charity_516,Delta,254,Bakery,+20-1120642389
+Charity_517,Alexandria,213,Vegetables,+20-1893862134
+Charity_518,Upper Egypt,352,Vegetables,+20-1949527899
+Charity_519,Upper Egypt,227,Vegetables,+20-1651242041
+Charity_520,Mansoura,335,Vegetables,+20-1459031225
+Charity_521,Mansoura,151,Vegetables,+20-1988237335
+Charity_522,Delta,100,Vegetables,+20-1364433958
+Charity_523,Cairo,296,Vegetables,+20-1397677952
+Charity_524,Alexandria,177,Vegetables,+20-1154195645
+Charity_525,Giza,167,Dairy,+20-1433102802
+Charity_526,Cairo,482,Vegetables,+20-1263774656
+Charity_527,Alexandria,438,Dairy,+20-1372191501
+Charity_528,Cairo,374,Bakery,+20-1678460869
+Charity_529,Alexandria,147,Dairy,+20-1268880832
+Charity_530,Cairo,173,Vegetables,+20-1472417418
+Charity_531,Cairo,215,Meat,+20-1529240240
+Charity_532,Cairo,114,Vegetables,+20-1982078248
+Charity_533,Giza,217,Meat,+20-1979237335
+Charity_534,Cairo,299,Meat,+20-1492600292
+Charity_535,Alexandria,216,Bakery,+20-1635428127
+Charity_536,Cairo,461,Bakery,+20-1386445481
+Charity_537,Upper Egypt,407,Meat,+20-1393542591
+Charity_538,Giza,127,Fruits,+20-1466026739
+Charity_539,Mansoura,206,Meat,+20-1184499439
+Charity_540,Delta,367,Vegetables,+20-1498718714
+Charity_541,Alexandria,488,Meat,+20-1241300031
+Charity_542,Alexandria,169,Bakery,+20-1959835682
+Charity_543,Cairo,298,Bakery,+20-1180925466
+Charity_544,Delta,96,Vegetables,+20-1982933108
+Charity_545,Upper Egypt,226,Meat,+20-1475054281
+Charity_546,Upper Egypt,430,Vegetables,+20-1883000444
+Charity_547,Upper Egypt,208,Bakery,+20-1372653510
+Charity_548,Cairo,365,Dairy,+20-1218192329
+Charity_549,Alexandria,404,Dairy,+20-1912232510
+Charity_550,Alexandria,233,Dairy,+20-1230219625
+Charity_551,Mansoura,271,Vegetables,+20-1286484949
+Charity_552,Delta,373,Vegetables,+20-1398142837
+Charity_553,Mansoura,175,Meat,+20-1941635335
+Charity_554,Mansoura,111,Dairy,+20-1244018707
+Charity_555,Cairo,393,Bakery,+20-1805591320
+Charity_556,Alexandria,416,Dairy,+20-1354956283
+Charity_557,Alexandria,117,Meat,+20-1936556320
+Charity_558,Cairo,284,Dairy,+20-1178552321
+Charity_559,Alexandria,71,Fruits,+20-1265187382
+Charity_560,Cairo,210,Bakery,+20-1703847723
+Charity_561,Upper Egypt,247,Bakery,+20-1968308911
+Charity_562,Alexandria,391,Dairy,+20-1739570485
+Charity_563,Mansoura,285,Meat,+20-1428642243
+Charity_564,Giza,401,Vegetables,+20-1843813587
+Charity_565,Mansoura,62,Bakery,+20-1145132431
+Charity_566,Upper Egypt,441,Bakery,+20-1140739923
+Charity_567,Cairo,72,Meat,+20-1405511316
+Charity_568,Mansoura,425,Meat,+20-1153746317
+Charity_569,Upper Egypt,160,Bakery,+20-1259772218
+Charity_570,Mansoura,475,Bakery,+20-1663118528
+Charity_571,Delta,335,Meat,+20-1677616179
+Charity_572,Delta,156,Meat,+20-1401772547
+Charity_573,Mansoura,386,Meat,+20-1514328767
+Charity_574,Giza,334,Bakery,+20-1222279518
+Charity_575,Mansoura,310,Dairy,+20-1859910216
+Charity_576,Delta,425,Fruits,+20-1195128140
+Charity_577,Delta,468,Fruits,+20-1551469867
+Charity_578,Delta,73,Fruits,+20-1773999030
+Charity_579,Cairo,388,Bakery,+20-1509964781
+Charity_580,Alexandria,254,Bakery,+20-1675850774
+Charity_581,Giza,244,Dairy,+20-1289082936
+Charity_582,Delta,67,Meat,+20-1614502084
+Charity_583,Giza,415,Dairy,+20-1268140443
+Charity_584,Cairo,420,Bakery,+20-1220538092
+Charity_585,Upper Egypt,392,Fruits,+20-1580422796
+Charity_586,Giza,373,Vegetables,+20-1591882626
+Charity_587,Giza,230,Dairy,+20-1403565996
+Charity_588,Cairo,288,Bakery,+20-1339740916
+Charity_589,Upper Egypt,420,Meat,+20-1672806127
+Charity_590,Giza,75,Dairy,+20-1748175471
+Charity_591,Mansoura,316,Bakery,+20-1727052650
+Charity_592,Upper Egypt,341,Fruits,+20-1210853329
+Charity_593,Upper Egypt,180,Fruits,+20-1405002393
+Charity_594,Delta,330,Vegetables,+20-1542012377
+Charity_595,Mansoura,90,Fruits,+20-1516105256
+Charity_596,Mansoura,184,Bakery,+20-1137923057
+Charity_597,Mansoura,244,Bakery,+20-1653086731
+Charity_598,Upper Egypt,263,Dairy,+20-1500048549
+Charity_599,Cairo,494,Bakery,+20-1462523469
+Charity_600,Mansoura,101,Meat,+20-1556325857
+Charity_601,Alexandria,231,Dairy,+20-1148784188
+Charity_602,Alexandria,392,Bakery,+20-1954274605
+Charity_603,Alexandria,470,Dairy,+20-1322509601
+Charity_604,Alexandria,177,Meat,+20-1640930428
+Charity_605,Cairo,370,Dairy,+20-1324958653
+Charity_606,Delta,125,Meat,+20-1872835526
+Charity_607,Cairo,118,Fruits,+20-1668284276
+Charity_608,Alexandria,269,Fruits,+20-1914349140
+Charity_609,Giza,172,Dairy,+20-1855383659
+Charity_610,Mansoura,296,Vegetables,+20-1119787476
+Charity_611,Upper Egypt,152,Meat,+20-1506441492
+Charity_612,Mansoura,402,Bakery,+20-1616503488
+Charity_613,Cairo,353,Vegetables,+20-1546336674
+Charity_614,Cairo,240,Fruits,+20-1687880005
+Charity_615,Mansoura,394,Vegetables,+20-1113545506
+Charity_616,Cairo,123,Fruits,+20-1813808912
+Charity_617,Cairo,120,Fruits,+20-1978390084
+Charity_618,Alexandria,222,Fruits,+20-1125528300
+Charity_619,Upper Egypt,79,Fruits,+20-1417599303
+Charity_620,Delta,66,Bakery,+20-1899267436
+Charity_621,Upper Egypt,68,Bakery,+20-1729372871
+Charity_622,Delta,481,Vegetables,+20-1709915949
+Charity_623,Mansoura,255,Dairy,+20-1354371107
+Charity_624,Delta,311,Dairy,+20-1245067480
+Charity_625,Alexandria,243,Meat,+20-1520614508
+Charity_626,Giza,56,Vegetables,+20-1957204592
+Charity_627,Alexandria,177,Bakery,+20-1335964428
+Charity_628,Upper Egypt,80,Meat,+20-1132114179
+Charity_629,Delta,90,Fruits,+20-1339875676
+Charity_630,Alexandria,130,Bakery,+20-1429867878
+Charity_631,Delta,165,Meat,+20-1627978826
+Charity_632,Upper Egypt,415,Fruits,+20-1214199522
+Charity_633,Mansoura,340,Bakery,+20-1791294306
+Charity_634,Mansoura,210,Fruits,+20-1543790696
+Charity_635,Mansoura,128,Bakery,+20-1764857971
+Charity_636,Mansoura,404,Vegetables,+20-1485716301
+Charity_637,Cairo,317,Bakery,+20-1957326215
+Charity_638,Mansoura,130,Vegetables,+20-1461661757
+Charity_639,Giza,281,Fruits,+20-1778429144
+Charity_640,Mansoura,78,Meat,+20-1278169832
+Charity_641,Giza,177,Meat,+20-1239199119
+Charity_642,Giza,196,Meat,+20-1499732959
+Charity_643,Mansoura,430,Dairy,+20-1584910302
+Charity_644,Cairo,144,Fruits,+20-1184624287
+Charity_645,Upper Egypt,238,Bakery,+20-1705442225
+Charity_646,Upper Egypt,72,Fruits,+20-1209831955
+Charity_647,Delta,485,Vegetables,+20-1929146444
+Charity_648,Delta,56,Fruits,+20-1174571085
+Charity_649,Mansoura,256,Dairy,+20-1146648196
+Charity_650,Upper Egypt,327,Meat,+20-1292943702
+Charity_651,Giza,346,Vegetables,+20-1623767642
+Charity_652,Delta,333,Fruits,+20-1928202966
+Charity_653,Alexandria,298,Bakery,+20-1136126550
+Charity_654,Delta,335,Dairy,+20-1958625571
+Charity_655,Giza,263,Meat,+20-1450453257
+Charity_656,Giza,292,Dairy,+20-1756591953
+Charity_657,Alexandria,474,Bakery,+20-1970067577
+Charity_658,Alexandria,205,Fruits,+20-1266744343
+Charity_659,Cairo,124,Vegetables,+20-1958182491
+Charity_660,Alexandria,405,Bakery,+20-1260175725
+Charity_661,Alexandria,324,Bakery,+20-1998069228
+Charity_662,Mansoura,147,Meat,+20-1362332697
+Charity_663,Mansoura,170,Dairy,+20-1182473484
+Charity_664,Alexandria,237,Meat,+20-1343056235
+Charity_665,Cairo,478,Meat,+20-1672318964
+Charity_666,Cairo,406,Vegetables,+20-1508300030
+Charity_667,Upper Egypt,244,Bakery,+20-1972064462
+Charity_668,Cairo,184,Meat,+20-1748843691
+Charity_669,Giza,392,Bakery,+20-1538907227
+Charity_670,Cairo,246,Meat,+20-1126314492
+Charity_671,Alexandria,282,Meat,+20-1638331892
+Charity_672,Delta,476,Meat,+20-1992085406
+Charity_673,Cairo,467,Bakery,+20-1963543372
+Charity_674,Delta,114,Fruits,+20-1506266415
+Charity_675,Upper Egypt,396,Bakery,+20-1253560731
+Charity_676,Alexandria,421,Dairy,+20-1539382623
+Charity_677,Delta,332,Vegetables,+20-1410811784
+Charity_678,Cairo,73,Vegetables,+20-1381141727
+Charity_679,Cairo,193,Meat,+20-1312605333
+Charity_680,Cairo,314,Meat,+20-1219039671
+Charity_681,Delta,374,Meat,+20-1435061642
+Charity_682,Cairo,225,Meat,+20-1848835684
+Charity_683,Upper Egypt,168,Vegetables,+20-1438081409
+Charity_684,Upper Egypt,109,Dairy,+20-1730550994
+Charity_685,Upper Egypt,51,Fruits,+20-1434813242
+Charity_686,Mansoura,69,Bakery,+20-1487790966
+Charity_687,Mansoura,50,Bakery,+20-1899766026
+Charity_688,Alexandria,455,Meat,+20-1966157627
+Charity_689,Mansoura,282,Meat,+20-1417733288
+Charity_690,Upper Egypt,468,Bakery,+20-1592601928
+Charity_691,Delta,158,Meat,+20-1123387118
+Charity_692,Giza,103,Fruits,+20-1969005258
+Charity_693,Alexandria,440,Dairy,+20-1391806811
+Charity_694,Alexandria,292,Vegetables,+20-1920951326
+Charity_695,Giza,284,Fruits,+20-1810164638
+Charity_696,Mansoura,357,Fruits,+20-1948856783
+Charity_697,Cairo,282,Fruits,+20-1129336116
+Charity_698,Giza,159,Dairy,+20-1385104918
+Charity_699,Alexandria,366,Bakery,+20-1758672817
+Charity_700,Delta,280,Meat,+20-1748828476
+Charity_701,Giza,176,Bakery,+20-1214399266
+Charity_702,Upper Egypt,167,Dairy,+20-1902937649
+Charity_703,Delta,197,Meat,+20-1299524991
+Charity_704,Upper Egypt,257,Fruits,+20-1176029916
+Charity_705,Cairo,476,Dairy,+20-1118169192
+Charity_706,Giza,135,Dairy,+20-1915053296
+Charity_707,Mansoura,229,Vegetables,+20-1170187957
+Charity_708,Upper Egypt,380,Bakery,+20-1148826562
+Charity_709,Alexandria,300,Dairy,+20-1359239811
+Charity_710,Cairo,400,Meat,+20-1187203073
+Charity_711,Cairo,323,Bakery,+20-1535988990
+Charity_712,Upper Egypt,220,Fruits,+20-1537016895
+Charity_713,Cairo,134,Fruits,+20-1342514695
+Charity_714,Mansoura,69,Dairy,+20-1409903820
+Charity_715,Cairo,81,Fruits,+20-1573318637
+Charity_716,Alexandria,316,Dairy,+20-1598086439
+Charity_717,Delta,203,Bakery,+20-1506487543
+Charity_718,Upper Egypt,375,Bakery,+20-1976504659
+Charity_719,Delta,352,Fruits,+20-1646282887
+Charity_720,Alexandria,314,Meat,+20-1601756431
+Charity_721,Cairo,382,Vegetables,+20-1535174145
+Charity_722,Cairo,62,Meat,+20-1589620796
+Charity_723,Mansoura,52,Meat,+20-1577295191
+Charity_724,Mansoura,441,Vegetables,+20-1802057639
+Charity_725,Mansoura,210,Bakery,+20-1432798029
+Charity_726,Delta,151,Vegetables,+20-1976037270
+Charity_727,Cairo,277,Bakery,+20-1210878255
+Charity_728,Cairo,87,Dairy,+20-1214479227
+Charity_729,Delta,410,Dairy,+20-1993511454
+Charity_730,Cairo,68,Fruits,+20-1761518815
+Charity_731,Cairo,137,Meat,+20-1387815984
+Charity_732,Alexandria,200,Meat,+20-1969895920
+Charity_733,Alexandria,221,Bakery,+20-1554057568
+Charity_734,Mansoura,193,Vegetables,+20-1349496920
+Charity_735,Giza,390,Bakery,+20-1425384653
+Charity_736,Upper Egypt,339,Dairy,+20-1853047008
+Charity_737,Alexandria,241,Vegetables,+20-1345684788
+Charity_738,Delta,105,Dairy,+20-1933390007
+Charity_739,Upper Egypt,63,Vegetables,+20-1880495122
+Charity_740,Giza,234,Vegetables,+20-1101355379
+Charity_741,Cairo,209,Bakery,+20-1845962571
+Charity_742,Delta,348,Vegetables,+20-1513097268
+Charity_743,Upper Egypt,256,Fruits,+20-1330255706
+Charity_744,Upper Egypt,247,Meat,+20-1894245956
+Charity_745,Delta,294,Dairy,+20-1352713768
+Charity_746,Cairo,282,Vegetables,+20-1709804832
+Charity_747,Alexandria,440,Dairy,+20-1845682121
+Charity_748,Giza,189,Bakery,+20-1631834991
+Charity_749,Upper Egypt,420,Vegetables,+20-1310535131
+Charity_750,Upper Egypt,465,Bakery,+20-1983349385
+Charity_751,Alexandria,483,Bakery,+20-1503851259
+Charity_752,Alexandria,388,Vegetables,+20-1997211782
+Charity_753,Delta,128,Dairy,+20-1807438097
+Charity_754,Mansoura,333,Dairy,+20-1812729887
+Charity_755,Cairo,183,Meat,+20-1359229220
+Charity_756,Alexandria,345,Vegetables,+20-1949362954
+Charity_757,Cairo,441,Dairy,+20-1753863724
+Charity_758,Mansoura,275,Meat,+20-1562161128
+Charity_759,Cairo,237,Fruits,+20-1700452586
+Charity_760,Upper Egypt,101,Dairy,+20-1345882044
+Charity_761,Alexandria,286,Bakery,+20-1234534905
+Charity_762,Cairo,500,Meat,+20-1517235860
+Charity_763,Giza,223,Meat,+20-1522196864
+Charity_764,Upper Egypt,465,Bakery,+20-1698387973
+Charity_765,Delta,146,Fruits,+20-1905430244
+Charity_766,Alexandria,251,Fruits,+20-1530188347
+Charity_767,Giza,469,Bakery,+20-1674575107
+Charity_768,Upper Egypt,355,Dairy,+20-1116724094
+Charity_769,Cairo,201,Fruits,+20-1487211937
+Charity_770,Mansoura,52,Vegetables,+20-1743493239
+Charity_771,Upper Egypt,171,Fruits,+20-1810185724
+Charity_772,Giza,293,Meat,+20-1877709698
+Charity_773,Delta,252,Dairy,+20-1902475071
+Charity_774,Delta,127,Fruits,+20-1445910463
+Charity_775,Giza,359,Meat,+20-1453547833
+Charity_776,Cairo,368,Vegetables,+20-1518147424
+Charity_777,Cairo,53,Meat,+20-1815980906
+Charity_778,Cairo,451,Meat,+20-1816424534
+Charity_779,Upper Egypt,78,Meat,+20-1978295327
+Charity_780,Alexandria,267,Meat,+20-1545901527
+Charity_781,Cairo,483,Bakery,+20-1593570246
+Charity_782,Giza,337,Fruits,+20-1945873732
+Charity_783,Alexandria,444,Bakery,+20-1773020773
+Charity_784,Delta,91,Vegetables,+20-1194188663
+Charity_785,Giza,50,Meat,+20-1822183660
+Charity_786,Upper Egypt,334,Bakery,+20-1250250467
+Charity_787,Upper Egypt,441,Vegetables,+20-1670002069
+Charity_788,Alexandria,390,Dairy,+20-1993576614
+Charity_789,Delta,369,Meat,+20-1920512735
+Charity_790,Upper Egypt,401,Bakery,+20-1534735527
+Charity_791,Mansoura,115,Vegetables,+20-1823544998
+Charity_792,Giza,87,Meat,+20-1383141489
+Charity_793,Upper Egypt,184,Bakery,+20-1234076996
+Charity_794,Mansoura,396,Dairy,+20-1774414062
+Charity_795,Giza,371,Dairy,+20-1489554188
+Charity_796,Alexandria,421,Dairy,+20-1175384500
+Charity_797,Delta,120,Vegetables,+20-1177117953
+Charity_798,Delta,330,Vegetables,+20-1250011536
+Charity_799,Cairo,260,Vegetables,+20-1906007418
+Charity_800,Cairo,319,Dairy,+20-1982559290
+Charity_801,Alexandria,112,Dairy,+20-1512753325
+Charity_802,Cairo,376,Vegetables,+20-1989562867
+Charity_803,Cairo,129,Vegetables,+20-1543949290
+Charity_804,Alexandria,441,Meat,+20-1841180257
+Charity_805,Upper Egypt,273,Bakery,+20-1356340650
+Charity_806,Mansoura,309,Vegetables,+20-1440230297
+Charity_807,Upper Egypt,362,Bakery,+20-1170993244
+Charity_808,Mansoura,483,Dairy,+20-1566589584
+Charity_809,Alexandria,57,Vegetables,+20-1258207194
+Charity_810,Giza,450,Bakery,+20-1815568561
+Charity_811,Cairo,415,Bakery,+20-1888311889
+Charity_812,Giza,387,Vegetables,+20-1468604197
+Charity_813,Giza,453,Bakery,+20-1260186149
+Charity_814,Upper Egypt,462,Dairy,+20-1964408627
+Charity_815,Mansoura,102,Vegetables,+20-1508595597
+Charity_816,Delta,173,Dairy,+20-1726177624
+Charity_817,Alexandria,359,Bakery,+20-1709531524
+Charity_818,Alexandria,482,Vegetables,+20-1300252933
+Charity_819,Alexandria,144,Bakery,+20-1545038393
+Charity_820,Alexandria,182,Fruits,+20-1834218365
+Charity_821,Delta,192,Vegetables,+20-1960534077
+Charity_822,Upper Egypt,372,Dairy,+20-1923285016
+Charity_823,Upper Egypt,423,Bakery,+20-1567084419
+Charity_824,Delta,107,Meat,+20-1179870836
+Charity_825,Alexandria,450,Vegetables,+20-1337067647
+Charity_826,Cairo,268,Fruits,+20-1126100708
+Charity_827,Delta,412,Bakery,+20-1126330091
+Charity_828,Alexandria,337,Dairy,+20-1614217966
+Charity_829,Cairo,480,Fruits,+20-1440659652
+Charity_830,Upper Egypt,228,Bakery,+20-1824576278
+Charity_831,Upper Egypt,450,Meat,+20-1927772720
+Charity_832,Upper Egypt,248,Vegetables,+20-1937517273
+Charity_833,Mansoura,321,Dairy,+20-1754713900
+Charity_834,Cairo,137,Fruits,+20-1719685716
+Charity_835,Cairo,402,Vegetables,+20-1116977346
+Charity_836,Upper Egypt,423,Fruits,+20-1518945592
+Charity_837,Giza,289,Vegetables,+20-1224800844
+Charity_838,Mansoura,141,Dairy,+20-1524417704
+Charity_839,Upper Egypt,61,Vegetables,+20-1256502391
+Charity_840,Giza,215,Bakery,+20-1418854850
+Charity_841,Cairo,324,Meat,+20-1288129328
+Charity_842,Delta,213,Fruits,+20-1806408246
+Charity_843,Delta,351,Bakery,+20-1625817673
+Charity_844,Mansoura,444,Vegetables,+20-1874687467
+Charity_845,Mansoura,457,Bakery,+20-1309986710
+Charity_846,Delta,475,Fruits,+20-1624914563
+Charity_847,Delta,211,Fruits,+20-1172421770
+Charity_848,Delta,379,Vegetables,+20-1373649419
+Charity_849,Upper Egypt,281,Fruits,+20-1832495547
+Charity_850,Cairo,87,Meat,+20-1614842322
+Charity_851,Upper Egypt,160,Dairy,+20-1589679540
+Charity_852,Cairo,161,Bakery,+20-1557088161
+Charity_853,Giza,231,Dairy,+20-1801084706
+Charity_854,Mansoura,491,Dairy,+20-1211747485
+Charity_855,Cairo,132,Fruits,+20-1696582757
+Charity_856,Alexandria,423,Vegetables,+20-1320424480
+Charity_857,Giza,65,Meat,+20-1683085262
+Charity_858,Cairo,235,Dairy,+20-1367624478
+Charity_859,Cairo,430,Bakery,+20-1851002240
+Charity_860,Giza,345,Vegetables,+20-1774609027
+Charity_861,Alexandria,376,Bakery,+20-1249588757
+Charity_862,Delta,288,Vegetables,+20-1283914316
+Charity_863,Cairo,70,Dairy,+20-1833314026
+Charity_864,Upper Egypt,317,Bakery,+20-1317671940
+Charity_865,Cairo,137,Dairy,+20-1346453529
+Charity_866,Upper Egypt,268,Fruits,+20-1918724586
+Charity_867,Alexandria,328,Fruits,+20-1260358936
+Charity_868,Giza,51,Dairy,+20-1243596143
+Charity_869,Cairo,82,Bakery,+20-1582313142
+Charity_870,Cairo,331,Fruits,+20-1247882962
+Charity_871,Delta,290,Fruits,+20-1990780975
+Charity_872,Upper Egypt,85,Dairy,+20-1832161353
+Charity_873,Upper Egypt,132,Dairy,+20-1758281046
+Charity_874,Upper Egypt,270,Vegetables,+20-1775631259
+Charity_875,Mansoura,217,Meat,+20-1268588373
+Charity_876,Delta,424,Fruits,+20-1479548891
+Charity_877,Alexandria,96,Meat,+20-1119671355
+Charity_878,Alexandria,91,Meat,+20-1651116857
+Charity_879,Cairo,366,Fruits,+20-1839416834
+Charity_880,Delta,443,Fruits,+20-1862362383
+Charity_881,Giza,115,Dairy,+20-1285669527
+Charity_882,Giza,403,Meat,+20-1113813584
+Charity_883,Giza,264,Meat,+20-1585113126
+Charity_884,Giza,116,Vegetables,+20-1446001274
+Charity_885,Cairo,128,Bakery,+20-1347941792
+Charity_886,Cairo,411,Vegetables,+20-1819047911
+Charity_887,Alexandria,399,Vegetables,+20-1979689710
+Charity_888,Upper Egypt,190,Vegetables,+20-1590589031
+Charity_889,Alexandria,463,Vegetables,+20-1716666731
+Charity_890,Cairo,272,Bakery,+20-1251983656
+Charity_891,Delta,65,Bakery,+20-1220105773
+Charity_892,Mansoura,413,Dairy,+20-1337418852
+Charity_893,Cairo,266,Dairy,+20-1757362259
+Charity_894,Mansoura,478,Bakery,+20-1605995936
+Charity_895,Upper Egypt,396,Fruits,+20-1109931839
+Charity_896,Giza,155,Meat,+20-1372987211
+Charity_897,Alexandria,192,Fruits,+20-1169017556
+Charity_898,Cairo,249,Meat,+20-1568037732
+Charity_899,Mansoura,185,Bakery,+20-1598546675
+Charity_900,Cairo,65,Bakery,+20-1408587274
+Charity_901,Alexandria,453,Fruits,+20-1693048052
+Charity_902,Cairo,101,Fruits,+20-1882616250
+Charity_903,Upper Egypt,98,Dairy,+20-1537245699
+Charity_904,Alexandria,123,Bakery,+20-1543320252
+Charity_905,Upper Egypt,137,Bakery,+20-1103857880
+Charity_906,Delta,116,Fruits,+20-1202963941
+Charity_907,Cairo,233,Meat,+20-1441290051
+Charity_908,Cairo,384,Bakery,+20-1965493516
+Charity_909,Mansoura,365,Bakery,+20-1857072989
+Charity_910,Mansoura,100,Vegetables,+20-1231178008
+Charity_911,Alexandria,478,Vegetables,+20-1860583176
+Charity_912,Alexandria,240,Vegetables,+20-1849612343
+Charity_913,Giza,406,Vegetables,+20-1242978518
+Charity_914,Upper Egypt,456,Bakery,+20-1151533382
+Charity_915,Alexandria,307,Bakery,+20-1307346560
+Charity_916,Mansoura,381,Dairy,+20-1782857949
+Charity_917,Alexandria,170,Fruits,+20-1390998275
+Charity_918,Upper Egypt,79,Fruits,+20-1633589559
+Charity_919,Mansoura,139,Fruits,+20-1901174635
+Charity_920,Upper Egypt,151,Bakery,+20-1490984192
+Charity_921,Cairo,445,Meat,+20-1193350704
+Charity_922,Cairo,218,Vegetables,+20-1977323687
+Charity_923,Alexandria,213,Bakery,+20-1836397010
+Charity_924,Mansoura,477,Vegetables,+20-1597149811
+Charity_925,Mansoura,410,Bakery,+20-1692880813
+Charity_926,Delta,140,Dairy,+20-1143354299
+Charity_927,Giza,92,Dairy,+20-1396739691
+Charity_928,Delta,350,Meat,+20-1355507439
+Charity_929,Cairo,180,Fruits,+20-1961507786
+Charity_930,Delta,458,Bakery,+20-1107508747
+Charity_931,Upper Egypt,438,Bakery,+20-1605611981
+Charity_932,Cairo,478,Bakery,+20-1563605672
+Charity_933,Cairo,459,Fruits,+20-1987788318
+Charity_934,Giza,141,Bakery,+20-1336422165
+Charity_935,Alexandria,409,Fruits,+20-1843175867
+Charity_936,Alexandria,388,Fruits,+20-1740226364
+Charity_937,Giza,73,Fruits,+20-1890759554
+Charity_938,Alexandria,338,Dairy,+20-1575618953
+Charity_939,Alexandria,277,Dairy,+20-1743798814
+Charity_940,Delta,486,Meat,+20-1214863278
+Charity_941,Upper Egypt,146,Dairy,+20-1736099923
+Charity_942,Delta,164,Meat,+20-1860897688
+Charity_943,Alexandria,438,Fruits,+20-1602227590
+Charity_944,Mansoura,123,Dairy,+20-1368557996
+Charity_945,Alexandria,442,Meat,+20-1194234956
+Charity_946,Mansoura,50,Bakery,+20-1712018971
+Charity_947,Alexandria,321,Bakery,+20-1599026682
+Charity_948,Cairo,458,Meat,+20-1474339197
+Charity_949,Upper Egypt,135,Vegetables,+20-1224860827
+Charity_950,Giza,153,Dairy,+20-1861626451
+Charity_951,Delta,354,Dairy,+20-1165270507
+Charity_952,Cairo,313,Vegetables,+20-1392374097
+Charity_953,Mansoura,271,Meat,+20-1239484115
+Charity_954,Upper Egypt,309,Bakery,+20-1654281693
+Charity_955,Delta,366,Vegetables,+20-1107551049
+Charity_956,Upper Egypt,303,Fruits,+20-1519205858
+Charity_957,Cairo,429,Meat,+20-1902837921
+Charity_958,Giza,424,Bakery,+20-1748859977
+Charity_959,Upper Egypt,295,Bakery,+20-1738225757
+Charity_960,Giza,288,Meat,+20-1780109353
+Charity_961,Alexandria,406,Dairy,+20-1152225319
+Charity_962,Giza,158,Bakery,+20-1826664403
+Charity_963,Mansoura,433,Bakery,+20-1657324572
+Charity_964,Upper Egypt,230,Vegetables,+20-1651220413
+Charity_965,Alexandria,425,Bakery,+20-1760103807
+Charity_966,Delta,253,Bakery,+20-1800037935
+Charity_967,Cairo,329,Fruits,+20-1933161731
+Charity_968,Giza,344,Dairy,+20-1525122007
+Charity_969,Upper Egypt,174,Meat,+20-1864251060
+Charity_970,Delta,54,Meat,+20-1604942089
+Charity_971,Giza,304,Bakery,+20-1405551653
+Charity_972,Delta,348,Bakery,+20-1940692477
+Charity_973,Upper Egypt,384,Fruits,+20-1939487638
+Charity_974,Alexandria,210,Dairy,+20-1834429782
+Charity_975,Upper Egypt,387,Fruits,+20-1958962208
+Charity_976,Alexandria,191,Meat,+20-1146401617
+Charity_977,Mansoura,256,Bakery,+20-1989422181
+Charity_978,Giza,430,Dairy,+20-1245425147
+Charity_979,Mansoura,377,Fruits,+20-1405811598
+Charity_980,Upper Egypt,168,Fruits,+20-1925269638
+Charity_981,Mansoura,475,Fruits,+20-1709933751
+Charity_982,Cairo,402,Dairy,+20-1133278013
+Charity_983,Upper Egypt,182,Vegetables,+20-1466019861
+Charity_984,Delta,383,Bakery,+20-1324731976
+Charity_985,Delta,314,Fruits,+20-1772886791
+Charity_986,Upper Egypt,413,Bakery,+20-1895398019
+Charity_987,Cairo,286,Bakery,+20-1855960167
+Charity_988,Delta,269,Fruits,+20-1643615681
+Charity_989,Alexandria,280,Bakery,+20-1912100892
+Charity_990,Giza,394,Dairy,+20-1454190560
+Charity_991,Mansoura,390,Bakery,+20-1177355969
+Charity_992,Mansoura,294,Bakery,+20-1432247966
+Charity_993,Giza,206,Meat,+20-1624851130
+Charity_994,Upper Egypt,157,Meat,+20-1575513846
+Charity_995,Upper Egypt,393,Meat,+20-1965833550
+Charity_996,Upper Egypt,480,Dairy,+20-1600032687
+Charity_997,Mansoura,98,Vegetables,+20-1439627700
+Charity_998,Upper Egypt,63,Meat,+20-1628205318
+Charity_999,Delta,323,Vegetables,+20-1516508961
+Charity_1000,Delta,130,Vegetables,+20-1304813417
+Charity_1001,Giza,416,Bakery,+20-1445258294
+Charity_1002,Alexandria,56,Vegetables,+20-1303034274
+Charity_1003,Mansoura,347,Bakery,+20-1748555923
+Charity_1004,Alexandria,116,Bakery,+20-1457588944
+Charity_1005,Upper Egypt,442,Meat,+20-1881732811
+Charity_1006,Giza,164,Meat,+20-1921390264
+Charity_1007,Giza,470,Dairy,+20-1438294185
+Charity_1008,Giza,131,Dairy,+20-1355435539
+Charity_1009,Alexandria,405,Fruits,+20-1968509000
+Charity_1010,Cairo,195,Bakery,+20-1583710292
+Charity_1011,Giza,184,Bakery,+20-1840851713
+Charity_1012,Cairo,146,Vegetables,+20-1237394847
+Charity_1013,Giza,187,Dairy,+20-1623233169
+Charity_1014,Cairo,199,Dairy,+20-1950629699
+Charity_1015,Delta,218,Meat,+20-1728310830
+Charity_1016,Giza,413,Fruits,+20-1437115542
+Charity_1017,Alexandria,226,Dairy,+20-1144991551
+Charity_1018,Giza,68,Meat,+20-1541386565
+Charity_1019,Cairo,290,Fruits,+20-1179073471
+Charity_1020,Giza,264,Fruits,+20-1385045116
+Charity_1021,Alexandria,338,Fruits,+20-1958264042
+Charity_1022,Mansoura,459,Dairy,+20-1219353997
+Charity_1023,Giza,105,Bakery,+20-1705288080
+Charity_1024,Giza,389,Bakery,+20-1200119756
+Charity_1025,Upper Egypt,125,Dairy,+20-1826924077
+Charity_1026,Upper Egypt,436,Meat,+20-1549335146
+Charity_1027,Alexandria,65,Dairy,+20-1889138945
+Charity_1028,Mansoura,102,Vegetables,+20-1281311983
+Charity_1029,Giza,327,Vegetables,+20-1804605755
+Charity_1030,Upper Egypt,373,Meat,+20-1491569744
+Charity_1031,Mansoura,201,Fruits,+20-1550162323
+Charity_1032,Delta,405,Fruits,+20-1366644863
+Charity_1033,Upper Egypt,52,Fruits,+20-1498335005
+Charity_1034,Alexandria,215,Fruits,+20-1723449205
+Charity_1035,Alexandria,76,Vegetables,+20-1537968479
+Charity_1036,Giza,411,Fruits,+20-1560317312
+Charity_1037,Cairo,305,Dairy,+20-1623222117
+Charity_1038,Delta,360,Fruits,+20-1952105962
+Charity_1039,Giza,168,Vegetables,+20-1624156335
+Charity_1040,Mansoura,489,Vegetables,+20-1719074820
+Charity_1041,Upper Egypt,357,Meat,+20-1382236203
+Charity_1042,Upper Egypt,471,Dairy,+20-1137973579
+Charity_1043,Cairo,316,Vegetables,+20-1845478462
+Charity_1044,Upper Egypt,472,Vegetables,+20-1529826789
+Charity_1045,Delta,243,Vegetables,+20-1555361948
+Charity_1046,Delta,58,Vegetables,+20-1836213139
+Charity_1047,Giza,126,Meat,+20-1705841406
+Charity_1048,Mansoura,241,Fruits,+20-1826423485
+Charity_1049,Cairo,255,Meat,+20-1591678787
+Charity_1050,Delta,69,Dairy,+20-1790754201
+Charity_1051,Mansoura,62,Meat,+20-1465888604
+Charity_1052,Upper Egypt,105,Vegetables,+20-1141524671
+Charity_1053,Cairo,156,Bakery,+20-1324181309
+Charity_1054,Alexandria,208,Bakery,+20-1135610217
+Charity_1055,Mansoura,273,Bakery,+20-1610696630
+Charity_1056,Giza,108,Dairy,+20-1295766241
+Charity_1057,Upper Egypt,87,Bakery,+20-1796915811
+Charity_1058,Giza,401,Vegetables,+20-1910577570
+Charity_1059,Upper Egypt,468,Vegetables,+20-1731538641
+Charity_1060,Upper Egypt,375,Meat,+20-1895248213
+Charity_1061,Delta,130,Bakery,+20-1505793302
+Charity_1062,Upper Egypt,362,Vegetables,+20-1220769011
+Charity_1063,Cairo,485,Fruits,+20-1340873925
+Charity_1064,Cairo,295,Meat,+20-1271385746
+Charity_1065,Giza,263,Meat,+20-1159757272
+Charity_1066,Delta,114,Vegetables,+20-1648583131
+Charity_1067,Giza,384,Dairy,+20-1577247574
+Charity_1068,Upper Egypt,193,Vegetables,+20-1587510995
+Charity_1069,Cairo,211,Fruits,+20-1766195088
+Charity_1070,Delta,215,Dairy,+20-1889563316
+Charity_1071,Delta,324,Dairy,+20-1947489355
+Charity_1072,Giza,330,Vegetables,+20-1166721791
+Charity_1073,Mansoura,149,Vegetables,+20-1270488105
+Charity_1074,Upper Egypt,388,Bakery,+20-1991844364
+Charity_1075,Upper Egypt,432,Meat,+20-1184986962
+Charity_1076,Giza,265,Bakery,+20-1694215473
+Charity_1077,Cairo,199,Fruits,+20-1546630719
+Charity_1078,Upper Egypt,264,Fruits,+20-1640381436
+Charity_1079,Delta,215,Vegetables,+20-1895268646
+Charity_1080,Alexandria,301,Dairy,+20-1114109978
+Charity_1081,Delta,263,Meat,+20-1794423601
+Charity_1082,Mansoura,475,Fruits,+20-1572404216
+Charity_1083,Giza,405,Fruits,+20-1976784946
+Charity_1084,Alexandria,140,Fruits,+20-1595029276
+Charity_1085,Giza,281,Bakery,+20-1600123607
+Charity_1086,Upper Egypt,178,Dairy,+20-1631306826
+Charity_1087,Delta,324,Fruits,+20-1115133323
+Charity_1088,Mansoura,51,Bakery,+20-1392685500
+Charity_1089,Mansoura,212,Dairy,+20-1602621465
+Charity_1090,Mansoura,447,Meat,+20-1565978543
+Charity_1091,Cairo,122,Bakery,+20-1651848643
+Charity_1092,Delta,360,Dairy,+20-1264446975
+Charity_1093,Delta,206,Vegetables,+20-1528300073
+Charity_1094,Delta,81,Bakery,+20-1246384139
+Charity_1095,Delta,457,Vegetables,+20-1530628139
+Charity_1096,Upper Egypt,418,Meat,+20-1859611953
+Charity_1097,Upper Egypt,437,Dairy,+20-1376120772
+Charity_1098,Cairo,274,Meat,+20-1101406394
+Charity_1099,Alexandria,150,Dairy,+20-1180027935
+Charity_1100,Upper Egypt,314,Dairy,+20-1135729181
+Charity_1101,Alexandria,248,Dairy,+20-1682772025
+Charity_1102,Delta,55,Vegetables,+20-1179747572
+Charity_1103,Upper Egypt,479,Dairy,+20-1505873223
+Charity_1104,Alexandria,291,Bakery,+20-1999917737
+Charity_1105,Alexandria,375,Meat,+20-1254989517
+Charity_1106,Mansoura,348,Bakery,+20-1304986072
+Charity_1107,Cairo,500,Vegetables,+20-1917084755
+Charity_1108,Alexandria,118,Bakery,+20-1835204180
+Charity_1109,Alexandria,171,Fruits,+20-1821824369
+Charity_1110,Upper Egypt,188,Meat,+20-1528325882
+Charity_1111,Cairo,93,Bakery,+20-1748465184
+Charity_1112,Cairo,365,Bakery,+20-1831125317
+Charity_1113,Alexandria,334,Meat,+20-1660814797
+Charity_1114,Mansoura,51,Meat,+20-1606034235
+Charity_1115,Cairo,404,Bakery,+20-1936922124
+Charity_1116,Upper Egypt,400,Dairy,+20-1621729941
+Charity_1117,Cairo,237,Vegetables,+20-1142315720
+Charity_1118,Mansoura,289,Meat,+20-1877959387
+Charity_1119,Cairo,291,Fruits,+20-1162508055
+Charity_1120,Alexandria,165,Vegetables,+20-1555963196
+Charity_1121,Delta,346,Fruits,+20-1885989218
+Charity_1122,Mansoura,355,Dairy,+20-1586417614
+Charity_1123,Upper Egypt,127,Fruits,+20-1542686437
+Charity_1124,Cairo,392,Meat,+20-1451675231
+Charity_1125,Cairo,96,Meat,+20-1989785451
+Charity_1126,Delta,50,Meat,+20-1826156118
+Charity_1127,Mansoura,76,Meat,+20-1632964809
+Charity_1128,Delta,427,Fruits,+20-1130147501
+Charity_1129,Upper Egypt,140,Meat,+20-1499672481
+Charity_1130,Cairo,126,Fruits,+20-1814171212
+Charity_1131,Alexandria,339,Dairy,+20-1275527063
+Charity_1132,Upper Egypt,440,Vegetables,+20-1855194295
+Charity_1133,Upper Egypt,366,Vegetables,+20-1135188788
+Charity_1134,Cairo,56,Vegetables,+20-1765831649
+Charity_1135,Mansoura,236,Bakery,+20-1948852893
+Charity_1136,Delta,292,Fruits,+20-1796238067
+Charity_1137,Mansoura,395,Fruits,+20-1787198747
+Charity_1138,Giza,494,Bakery,+20-1553399240
+Charity_1139,Alexandria,354,Dairy,+20-1903337225
+Charity_1140,Alexandria,180,Vegetables,+20-1472103760
+Charity_1141,Giza,246,Bakery,+20-1919857431
+Charity_1142,Upper Egypt,182,Vegetables,+20-1160297407
+Charity_1143,Alexandria,92,Dairy,+20-1405171866
+Charity_1144,Cairo,228,Vegetables,+20-1573314481
+Charity_1145,Alexandria,70,Fruits,+20-1199767426
+Charity_1146,Giza,172,Dairy,+20-1938567330
+Charity_1147,Delta,442,Vegetables,+20-1576890143
+Charity_1148,Mansoura,457,Dairy,+20-1896242483
+Charity_1149,Delta,444,Bakery,+20-1580272553
+Charity_1150,Mansoura,323,Meat,+20-1898372491
+Charity_1151,Upper Egypt,242,Meat,+20-1999240165
+Charity_1152,Delta,213,Fruits,+20-1633010273
+Charity_1153,Cairo,463,Dairy,+20-1423388093
+Charity_1154,Delta,386,Meat,+20-1958927485
+Charity_1155,Alexandria,316,Fruits,+20-1760756019
+Charity_1156,Upper Egypt,250,Bakery,+20-1646684841
+Charity_1157,Cairo,190,Fruits,+20-1731607974
+Charity_1158,Delta,67,Bakery,+20-1162612110
+Charity_1159,Giza,469,Fruits,+20-1640431176
+Charity_1160,Mansoura,137,Fruits,+20-1888632665
+Charity_1161,Cairo,395,Fruits,+20-1576965484
+Charity_1162,Alexandria,185,Fruits,+20-1128786144
+Charity_1163,Delta,366,Bakery,+20-1698977301
+Charity_1164,Mansoura,157,Vegetables,+20-1377494675
+Charity_1165,Alexandria,441,Vegetables,+20-1440739012
+Charity_1166,Giza,275,Bakery,+20-1217338853
+Charity_1167,Cairo,109,Meat,+20-1842465031
+Charity_1168,Cairo,408,Bakery,+20-1499372690
+Charity_1169,Upper Egypt,491,Meat,+20-1673627381
+Charity_1170,Alexandria,260,Dairy,+20-1649410704
+Charity_1171,Delta,333,Fruits,+20-1740437920
+Charity_1172,Giza,469,Vegetables,+20-1182006134
+Charity_1173,Giza,232,Bakery,+20-1542435192
+Charity_1174,Cairo,306,Vegetables,+20-1156173148
+Charity_1175,Upper Egypt,282,Vegetables,+20-1798828107
+Charity_1176,Alexandria,404,Bakery,+20-1108927217
+Charity_1177,Cairo,129,Vegetables,+20-1805062913
+Charity_1178,Mansoura,185,Vegetables,+20-1471692249
+Charity_1179,Delta,303,Vegetables,+20-1109289909
+Charity_1180,Alexandria,485,Fruits,+20-1418371648
+Charity_1181,Delta,473,Vegetables,+20-1983298638
+Charity_1182,Delta,314,Dairy,+20-1950065142
+Charity_1183,Delta,492,Meat,+20-1871227566
+Charity_1184,Delta,122,Meat,+20-1914643804
+Charity_1185,Alexandria,290,Fruits,+20-1753747953
+Charity_1186,Upper Egypt,326,Fruits,+20-1579808455
+Charity_1187,Alexandria,247,Meat,+20-1416418203
+Charity_1188,Giza,348,Vegetables,+20-1589268942
+Charity_1189,Cairo,296,Bakery,+20-1370658070
+Charity_1190,Upper Egypt,292,Vegetables,+20-1186547952
+Charity_1191,Alexandria,270,Meat,+20-1591785784
+Charity_1192,Giza,305,Fruits,+20-1674811956
+Charity_1193,Cairo,464,Fruits,+20-1469514401
+Charity_1194,Giza,368,Vegetables,+20-1555076781
+Charity_1195,Mansoura,492,Dairy,+20-1765369356
+Charity_1196,Delta,315,Bakery,+20-1588548259
+Charity_1197,Delta,327,Bakery,+20-1595020938
+Charity_1198,Mansoura,219,Fruits,+20-1399338479
+Charity_1199,Alexandria,312,Fruits,+20-1585244416
+Charity_1200,Alexandria,85,Vegetables,+20-1398108229
+Charity_1201,Cairo,109,Bakery,+20-1246235673
+Charity_1202,Upper Egypt,347,Vegetables,+20-1546621678
+Charity_1203,Cairo,403,Fruits,+20-1746464434
+Charity_1204,Mansoura,143,Dairy,+20-1457417883
+Charity_1205,Upper Egypt,82,Bakery,+20-1324191775
+Charity_1206,Alexandria,242,Vegetables,+20-1653978289
+Charity_1207,Delta,63,Meat,+20-1264487807
+Charity_1208,Alexandria,480,Bakery,+20-1407458194
+Charity_1209,Alexandria,295,Bakery,+20-1360276232
+Charity_1210,Mansoura,418,Fruits,+20-1537145597
+Charity_1211,Cairo,85,Fruits,+20-1539793388
+Charity_1212,Delta,461,Dairy,+20-1246139635
+Charity_1213,Upper Egypt,117,Vegetables,+20-1166682009
+Charity_1214,Mansoura,64,Dairy,+20-1460012610
+Charity_1215,Delta,179,Bakery,+20-1132487123
+Charity_1216,Alexandria,168,Meat,+20-1506698367
+Charity_1217,Cairo,117,Vegetables,+20-1582658418
+Charity_1218,Upper Egypt,203,Vegetables,+20-1366369351
+Charity_1219,Cairo,159,Dairy,+20-1824976810
+Charity_1220,Giza,463,Dairy,+20-1172376400
+Charity_1221,Delta,261,Vegetables,+20-1405231319
+Charity_1222,Alexandria,283,Fruits,+20-1549221166
+Charity_1223,Giza,491,Meat,+20-1958779506
+Charity_1224,Cairo,116,Meat,+20-1325171093
+Charity_1225,Delta,407,Meat,+20-1627789987
+Charity_1226,Delta,483,Vegetables,+20-1698719149
+Charity_1227,Mansoura,326,Meat,+20-1524227692
+Charity_1228,Mansoura,89,Fruits,+20-1848349161
+Charity_1229,Alexandria,227,Bakery,+20-1648313850
+Charity_1230,Alexandria,312,Dairy,+20-1504488188
+Charity_1231,Giza,231,Dairy,+20-1450150925
+Charity_1232,Upper Egypt,476,Fruits,+20-1185797204
+Charity_1233,Delta,64,Vegetables,+20-1774823933
+Charity_1234,Delta,398,Bakery,+20-1289000670
+Charity_1235,Alexandria,121,Meat,+20-1283991931
+Charity_1236,Upper Egypt,317,Bakery,+20-1509338013
+Charity_1237,Mansoura,349,Meat,+20-1439408512
+Charity_1238,Delta,189,Dairy,+20-1732790363
+Charity_1239,Upper Egypt,360,Bakery,+20-1917310639
+Charity_1240,Alexandria,139,Bakery,+20-1638483167
+Charity_1241,Giza,404,Bakery,+20-1407689822
+Charity_1242,Mansoura,68,Fruits,+20-1265480176
+Charity_1243,Cairo,174,Meat,+20-1819244714
+Charity_1244,Giza,479,Vegetables,+20-1974553363
+Charity_1245,Delta,326,Bakery,+20-1594212835
+Charity_1246,Cairo,455,Vegetables,+20-1325065070
+Charity_1247,Upper Egypt,131,Meat,+20-1323322360
+Charity_1248,Mansoura,245,Bakery,+20-1568665534
+Charity_1249,Alexandria,114,Dairy,+20-1904202650
+Charity_1250,Mansoura,329,Dairy,+20-1246226482
+Charity_1251,Mansoura,327,Fruits,+20-1299879835
+Charity_1252,Mansoura,123,Bakery,+20-1596893814
+Charity_1253,Upper Egypt,243,Meat,+20-1875644496
+Charity_1254,Giza,126,Meat,+20-1643118976
+Charity_1255,Mansoura,279,Bakery,+20-1343198972
+Charity_1256,Alexandria,274,Meat,+20-1898197811
+Charity_1257,Cairo,258,Vegetables,+20-1814938199
+Charity_1258,Delta,166,Vegetables,+20-1385572146
+Charity_1259,Upper Egypt,374,Fruits,+20-1973237528
+Charity_1260,Upper Egypt,410,Fruits,+20-1615759706
+Charity_1261,Giza,225,Dairy,+20-1286277308
+Charity_1262,Giza,382,Vegetables,+20-1963524623
+Charity_1263,Mansoura,305,Meat,+20-1160059396
+Charity_1264,Alexandria,219,Vegetables,+20-1464703805
+Charity_1265,Delta,232,Bakery,+20-1604461375
+Charity_1266,Giza,81,Vegetables,+20-1933169036
+Charity_1267,Mansoura,162,Vegetables,+20-1282767261
+Charity_1268,Delta,226,Dairy,+20-1124315093
+Charity_1269,Alexandria,413,Vegetables,+20-1946816526
+Charity_1270,Alexandria,71,Vegetables,+20-1455480893
+Charity_1271,Alexandria,222,Fruits,+20-1540818891
+Charity_1272,Delta,359,Vegetables,+20-1721532517
+Charity_1273,Mansoura,284,Meat,+20-1414790703
+Charity_1274,Cairo,103,Dairy,+20-1611827084
+Charity_1275,Delta,325,Meat,+20-1486208946
+Charity_1276,Delta,265,Fruits,+20-1529207799
+Charity_1277,Upper Egypt,285,Vegetables,+20-1666552821
+Charity_1278,Mansoura,480,Fruits,+20-1508143904
+Charity_1279,Delta,55,Fruits,+20-1399077338
+Charity_1280,Delta,393,Fruits,+20-1901148728
+Charity_1281,Upper Egypt,270,Dairy,+20-1901130413
+Charity_1282,Giza,156,Vegetables,+20-1864155748
+Charity_1283,Giza,369,Meat,+20-1840649545
+Charity_1284,Giza,195,Bakery,+20-1746701448
+Charity_1285,Alexandria,230,Bakery,+20-1599552956
+Charity_1286,Upper Egypt,274,Meat,+20-1111346704
+Charity_1287,Upper Egypt,484,Dairy,+20-1273603528
+Charity_1288,Giza,396,Bakery,+20-1381073809
+Charity_1289,Alexandria,348,Bakery,+20-1827448454
+Charity_1290,Alexandria,131,Dairy,+20-1394835452
+Charity_1291,Cairo,299,Dairy,+20-1125801420
+Charity_1292,Upper Egypt,334,Bakery,+20-1446851840
+Charity_1293,Giza,80,Meat,+20-1238269514
+Charity_1294,Upper Egypt,74,Vegetables,+20-1363001297
+Charity_1295,Delta,311,Meat,+20-1844971832
+Charity_1296,Cairo,173,Bakery,+20-1635581394
+Charity_1297,Cairo,493,Dairy,+20-1254383400
+Charity_1298,Delta,164,Vegetables,+20-1482095014
+Charity_1299,Mansoura,331,Bakery,+20-1157274509
+Charity_1300,Alexandria,330,Meat,+20-1141007199
+Charity_1301,Delta,394,Meat,+20-1225593408
+Charity_1302,Alexandria,469,Vegetables,+20-1321948928
+Charity_1303,Mansoura,193,Vegetables,+20-1450122924
+Charity_1304,Mansoura,284,Meat,+20-1238835263
+Charity_1305,Upper Egypt,385,Dairy,+20-1627209566
+Charity_1306,Giza,311,Dairy,+20-1176104413
+Charity_1307,Alexandria,245,Fruits,+20-1752999241
+Charity_1308,Mansoura,387,Bakery,+20-1495234576
+Charity_1309,Mansoura,406,Bakery,+20-1817029618
+Charity_1310,Alexandria,230,Dairy,+20-1465745031
+Charity_1311,Delta,225,Bakery,+20-1712078334
+Charity_1312,Alexandria,238,Meat,+20-1467867499
+Charity_1313,Alexandria,382,Vegetables,+20-1839087567
+Charity_1314,Upper Egypt,248,Vegetables,+20-1704672358
+Charity_1315,Upper Egypt,373,Meat,+20-1575786219
+Charity_1316,Cairo,203,Bakery,+20-1491432441
+Charity_1317,Alexandria,88,Bakery,+20-1340793210
+Charity_1318,Delta,226,Vegetables,+20-1840536977
+Charity_1319,Alexandria,117,Fruits,+20-1253987655
+Charity_1320,Cairo,282,Bakery,+20-1792818734
+Charity_1321,Delta,133,Meat,+20-1523438238
+Charity_1322,Upper Egypt,210,Meat,+20-1172049234
+Charity_1323,Delta,372,Vegetables,+20-1199354801
+Charity_1324,Alexandria,476,Fruits,+20-1627664684
+Charity_1325,Alexandria,413,Fruits,+20-1443242455
+Charity_1326,Giza,80,Vegetables,+20-1143336417
+Charity_1327,Upper Egypt,119,Dairy,+20-1777182184
+Charity_1328,Mansoura,441,Bakery,+20-1381403107
+Charity_1329,Mansoura,153,Meat,+20-1650712378
+Charity_1330,Upper Egypt,446,Bakery,+20-1251930765
+Charity_1331,Alexandria,79,Vegetables,+20-1983189473
+Charity_1332,Upper Egypt,235,Vegetables,+20-1285008797
+Charity_1333,Upper Egypt,96,Vegetables,+20-1892235363
+Charity_1334,Alexandria,499,Fruits,+20-1110315353
+Charity_1335,Upper Egypt,409,Vegetables,+20-1725722562
+Charity_1336,Giza,445,Dairy,+20-1350774106
+Charity_1337,Alexandria,379,Meat,+20-1718340557
+Charity_1338,Alexandria,96,Vegetables,+20-1956005151
+Charity_1339,Upper Egypt,95,Bakery,+20-1141645293
+Charity_1340,Alexandria,417,Vegetables,+20-1479655681
+Charity_1341,Mansoura,342,Fruits,+20-1725985668
+Charity_1342,Delta,81,Meat,+20-1403131401
+Charity_1343,Mansoura,361,Fruits,+20-1195069781
+Charity_1344,Giza,459,Vegetables,+20-1265209439
+Charity_1345,Alexandria,204,Dairy,+20-1108762888
+Charity_1346,Cairo,333,Bakery,+20-1193373011
+Charity_1347,Cairo,154,Fruits,+20-1895658237
+Charity_1348,Upper Egypt,169,Fruits,+20-1960115159
+Charity_1349,Delta,413,Fruits,+20-1607870785
+Charity_1350,Cairo,153,Vegetables,+20-1745132650
+Charity_1351,Upper Egypt,369,Dairy,+20-1842926843
+Charity_1352,Giza,286,Dairy,+20-1687191522
+Charity_1353,Mansoura,94,Vegetables,+20-1629965483
+Charity_1354,Giza,198,Vegetables,+20-1224526710
+Charity_1355,Cairo,127,Meat,+20-1930294596
+Charity_1356,Giza,367,Meat,+20-1847115468
+Charity_1357,Upper Egypt,154,Bakery,+20-1189746566
+Charity_1358,Giza,70,Meat,+20-1411384221
+Charity_1359,Delta,489,Fruits,+20-1701814533
+Charity_1360,Cairo,133,Bakery,+20-1664404345
+Charity_1361,Delta,75,Bakery,+20-1685227651
+Charity_1362,Upper Egypt,320,Meat,+20-1721047638
+Charity_1363,Mansoura,396,Dairy,+20-1424289971
+Charity_1364,Alexandria,130,Vegetables,+20-1225646279
+Charity_1365,Delta,105,Bakery,+20-1733603458
+Charity_1366,Cairo,312,Vegetables,+20-1175273206
+Charity_1367,Upper Egypt,161,Vegetables,+20-1444599659
+Charity_1368,Mansoura,337,Vegetables,+20-1201039298
+Charity_1369,Mansoura,127,Vegetables,+20-1916446801
+Charity_1370,Mansoura,491,Dairy,+20-1625119993
+Charity_1371,Cairo,203,Meat,+20-1619962837
+Charity_1372,Cairo,55,Vegetables,+20-1841721188
+Charity_1373,Delta,338,Meat,+20-1763981171
+Charity_1374,Cairo,309,Dairy,+20-1411988793
+Charity_1375,Cairo,214,Meat,+20-1220274666
+Charity_1376,Giza,419,Vegetables,+20-1939367135
+Charity_1377,Giza,61,Vegetables,+20-1392520382
+Charity_1378,Alexandria,353,Fruits,+20-1561555795
+Charity_1379,Cairo,302,Meat,+20-1374987205
+Charity_1380,Delta,293,Dairy,+20-1470379056
+Charity_1381,Cairo,473,Dairy,+20-1587244650
+Charity_1382,Alexandria,434,Vegetables,+20-1484513349
+Charity_1383,Upper Egypt,490,Dairy,+20-1263234339
+Charity_1384,Giza,88,Dairy,+20-1911644273
+Charity_1385,Upper Egypt,156,Meat,+20-1523455793
+Charity_1386,Cairo,477,Vegetables,+20-1810964209
+Charity_1387,Mansoura,378,Bakery,+20-1881779940
+Charity_1388,Cairo,97,Meat,+20-1438719638
+Charity_1389,Upper Egypt,436,Dairy,+20-1133261229
+Charity_1390,Giza,438,Bakery,+20-1757185306
+Charity_1391,Mansoura,490,Vegetables,+20-1164882944
+Charity_1392,Mansoura,254,Dairy,+20-1124384586
+Charity_1393,Cairo,226,Bakery,+20-1752336251
+Charity_1394,Alexandria,256,Bakery,+20-1999041400
+Charity_1395,Mansoura,253,Bakery,+20-1363672771
+Charity_1396,Upper Egypt,120,Vegetables,+20-1334290508
+Charity_1397,Upper Egypt,286,Meat,+20-1131437203
+Charity_1398,Mansoura,105,Fruits,+20-1661475648
+Charity_1399,Cairo,450,Meat,+20-1722767866
+Charity_1400,Mansoura,493,Meat,+20-1394579205
+Charity_1401,Upper Egypt,74,Bakery,+20-1551890899
+Charity_1402,Giza,177,Vegetables,+20-1332145821
+Charity_1403,Alexandria,160,Meat,+20-1958007157
+Charity_1404,Mansoura,222,Bakery,+20-1935710643
+Charity_1405,Mansoura,200,Fruits,+20-1847157584
+Charity_1406,Delta,405,Bakery,+20-1692769282
+Charity_1407,Giza,369,Vegetables,+20-1361355022
+Charity_1408,Mansoura,221,Bakery,+20-1886202807
+Charity_1409,Cairo,480,Bakery,+20-1629233933
+Charity_1410,Giza,122,Bakery,+20-1448990246
+Charity_1411,Delta,479,Vegetables,+20-1836476019
+Charity_1412,Alexandria,331,Fruits,+20-1897462170
+Charity_1413,Alexandria,232,Fruits,+20-1220870786
+Charity_1414,Giza,367,Meat,+20-1718591586
+Charity_1415,Mansoura,450,Meat,+20-1330608862
+Charity_1416,Alexandria,315,Vegetables,+20-1935677684
+Charity_1417,Giza,269,Dairy,+20-1682677786
+Charity_1418,Delta,155,Bakery,+20-1862823431
+Charity_1419,Mansoura,150,Dairy,+20-1704078870
+Charity_1420,Upper Egypt,148,Vegetables,+20-1358257050
+Charity_1421,Delta,58,Meat,+20-1377130207
+Charity_1422,Upper Egypt,170,Dairy,+20-1374165113
+Charity_1423,Mansoura,236,Bakery,+20-1434149462
+Charity_1424,Mansoura,265,Fruits,+20-1655404401
+Charity_1425,Mansoura,427,Dairy,+20-1864194130
+Charity_1426,Alexandria,100,Dairy,+20-1347914405
+Charity_1427,Mansoura,442,Meat,+20-1239875725
+Charity_1428,Cairo,254,Vegetables,+20-1213439922
+Charity_1429,Mansoura,220,Fruits,+20-1281094025
+Charity_1430,Delta,276,Dairy,+20-1529105729
+Charity_1431,Cairo,112,Fruits,+20-1484775654
+Charity_1432,Delta,204,Meat,+20-1650691040
+Charity_1433,Cairo,106,Fruits,+20-1371722511
+Charity_1434,Cairo,239,Dairy,+20-1291408020
+Charity_1435,Delta,107,Fruits,+20-1863794729
+Charity_1436,Giza,409,Dairy,+20-1173488996
+Charity_1437,Cairo,262,Bakery,+20-1509320217
+Charity_1438,Cairo,102,Fruits,+20-1515227197
+Charity_1439,Cairo,490,Vegetables,+20-1502709141
+Charity_1440,Cairo,95,Bakery,+20-1752375264
+Charity_1441,Giza,254,Meat,+20-1940411395
+Charity_1442,Alexandria,224,Fruits,+20-1861580663
+Charity_1443,Upper Egypt,188,Dairy,+20-1476490558
+Charity_1444,Alexandria,139,Dairy,+20-1637704376
+Charity_1445,Giza,244,Bakery,+20-1908591578
+Charity_1446,Alexandria,484,Vegetables,+20-1636690382
+Charity_1447,Mansoura,95,Fruits,+20-1966461099
+Charity_1448,Cairo,151,Fruits,+20-1958237376
+Charity_1449,Upper Egypt,189,Fruits,+20-1401517204
+Charity_1450,Alexandria,483,Bakery,+20-1480289631
+Charity_1451,Upper Egypt,260,Dairy,+20-1130775818
+Charity_1452,Cairo,168,Meat,+20-1192592004
+Charity_1453,Cairo,357,Dairy,+20-1790983826
+Charity_1454,Giza,127,Dairy,+20-1932618405
+Charity_1455,Giza,162,Bakery,+20-1504164214
+Charity_1456,Delta,291,Fruits,+20-1837648840
+Charity_1457,Giza,403,Meat,+20-1799685659
+Charity_1458,Upper Egypt,442,Dairy,+20-1898589697
+Charity_1459,Giza,249,Bakery,+20-1348844022
+Charity_1460,Delta,238,Meat,+20-1723768627
+Charity_1461,Alexandria,478,Dairy,+20-1123059753
+Charity_1462,Delta,149,Fruits,+20-1131542946
+Charity_1463,Upper Egypt,359,Bakery,+20-1191304242
+Charity_1464,Mansoura,399,Fruits,+20-1135590590
+Charity_1465,Delta,108,Meat,+20-1302911326
+Charity_1466,Mansoura,461,Fruits,+20-1909190079
+Charity_1467,Cairo,173,Fruits,+20-1976437994
+Charity_1468,Delta,371,Fruits,+20-1703413829
+Charity_1469,Alexandria,146,Dairy,+20-1972900572
+Charity_1470,Mansoura,67,Meat,+20-1841984974
+Charity_1471,Mansoura,138,Dairy,+20-1712475733
+Charity_1472,Alexandria,414,Bakery,+20-1460115833
+Charity_1473,Upper Egypt,113,Fruits,+20-1971127871
+Charity_1474,Giza,354,Fruits,+20-1373893329
+Charity_1475,Alexandria,363,Dairy,+20-1559289592
+Charity_1476,Delta,218,Fruits,+20-1248378419
+Charity_1477,Cairo,429,Dairy,+20-1846586528
+Charity_1478,Upper Egypt,231,Dairy,+20-1240048805
+Charity_1479,Mansoura,225,Vegetables,+20-1637396778
+Charity_1480,Cairo,56,Meat,+20-1545501949
+Charity_1481,Upper Egypt,417,Meat,+20-1796172300
+Charity_1482,Mansoura,154,Fruits,+20-1428600406
+Charity_1483,Mansoura,346,Fruits,+20-1848524398
+Charity_1484,Alexandria,349,Vegetables,+20-1351507806
+Charity_1485,Alexandria,395,Meat,+20-1976296466
+Charity_1486,Mansoura,414,Vegetables,+20-1691420012
+Charity_1487,Giza,471,Vegetables,+20-1553723136
+Charity_1488,Alexandria,424,Bakery,+20-1750729877
+Charity_1489,Mansoura,417,Meat,+20-1837501242
+Charity_1490,Upper Egypt,486,Meat,+20-1156930671
+Charity_1491,Cairo,277,Meat,+20-1599422344
+Charity_1492,Delta,102,Vegetables,+20-1833460244
+Charity_1493,Upper Egypt,368,Fruits,+20-1783176771
+Charity_1494,Upper Egypt,222,Dairy,+20-1534903775
+Charity_1495,Cairo,427,Vegetables,+20-1143974140
+Charity_1496,Alexandria,497,Bakery,+20-1423986104
+Charity_1497,Delta,194,Meat,+20-1850385412
+Charity_1498,Alexandria,138,Vegetables,+20-1436488400
+Charity_1499,Upper Egypt,229,Vegetables,+20-1945223230
+Charity_1500,Delta,153,Vegetables,+20-1619039546
+Charity_1501,Giza,395,Bakery,+20-1969384973
+Charity_1502,Mansoura,415,Fruits,+20-1535277120
+Charity_1503,Upper Egypt,301,Bakery,+20-1695706629
+Charity_1504,Cairo,387,Vegetables,+20-1151837905
+Charity_1505,Giza,262,Fruits,+20-1506257861
+Charity_1506,Alexandria,376,Dairy,+20-1863403941
+Charity_1507,Mansoura,99,Meat,+20-1466845344
+Charity_1508,Delta,336,Vegetables,+20-1882499937
+Charity_1509,Upper Egypt,83,Bakery,+20-1603309832
+Charity_1510,Cairo,395,Bakery,+20-1948681365
+Charity_1511,Delta,192,Meat,+20-1874740032
+Charity_1512,Cairo,299,Bakery,+20-1229730805
+Charity_1513,Cairo,263,Meat,+20-1181675877
+Charity_1514,Alexandria,255,Fruits,+20-1373351693
+Charity_1515,Mansoura,414,Meat,+20-1210671759
+Charity_1516,Delta,488,Bakery,+20-1358897885
+Charity_1517,Cairo,438,Bakery,+20-1591211693
+Charity_1518,Alexandria,459,Fruits,+20-1285179537
+Charity_1519,Upper Egypt,442,Fruits,+20-1625567351
+Charity_1520,Giza,424,Bakery,+20-1686928850
+Charity_1521,Upper Egypt,441,Fruits,+20-1862838044
+Charity_1522,Giza,173,Dairy,+20-1874825001
+Charity_1523,Upper Egypt,297,Fruits,+20-1700831409
+Charity_1524,Upper Egypt,479,Dairy,+20-1592301175
+Charity_1525,Cairo,78,Dairy,+20-1701636318
+Charity_1526,Delta,111,Vegetables,+20-1465756137
+Charity_1527,Giza,138,Fruits,+20-1201798023
+Charity_1528,Giza,94,Bakery,+20-1989393590
+Charity_1529,Cairo,331,Vegetables,+20-1910623204
+Charity_1530,Giza,257,Dairy,+20-1713913227
+Charity_1531,Delta,80,Bakery,+20-1539267296
+Charity_1532,Upper Egypt,257,Dairy,+20-1881697876
+Charity_1533,Cairo,125,Bakery,+20-1562114582
+Charity_1534,Alexandria,418,Vegetables,+20-1689821200
+Charity_1535,Giza,474,Bakery,+20-1794267742
+Charity_1536,Alexandria,285,Meat,+20-1540091547
+Charity_1537,Alexandria,256,Bakery,+20-1243448901
+Charity_1538,Cairo,443,Meat,+20-1990248550
+Charity_1539,Cairo,146,Dairy,+20-1110336124
+Charity_1540,Upper Egypt,353,Meat,+20-1579981898
+Charity_1541,Cairo,465,Vegetables,+20-1623361256
+Charity_1542,Delta,447,Meat,+20-1666645512
+Charity_1543,Upper Egypt,312,Dairy,+20-1866216026
+Charity_1544,Upper Egypt,441,Dairy,+20-1906874162
+Charity_1545,Delta,165,Vegetables,+20-1139282259
+Charity_1546,Mansoura,459,Meat,+20-1712718970
+Charity_1547,Delta,170,Fruits,+20-1641817695
+Charity_1548,Alexandria,354,Vegetables,+20-1821969537
+Charity_1549,Upper Egypt,404,Dairy,+20-1627967333
+Charity_1550,Upper Egypt,205,Bakery,+20-1572723510
+Charity_1551,Mansoura,400,Vegetables,+20-1761092866
+Charity_1552,Mansoura,227,Meat,+20-1609782492
+Charity_1553,Alexandria,394,Fruits,+20-1971957926
+Charity_1554,Alexandria,252,Fruits,+20-1574209248
+Charity_1555,Giza,268,Dairy,+20-1524307581
+Charity_1556,Alexandria,396,Fruits,+20-1196435175
+Charity_1557,Delta,311,Vegetables,+20-1639174216
+Charity_1558,Cairo,278,Bakery,+20-1391463210
+Charity_1559,Mansoura,294,Bakery,+20-1475836459
+Charity_1560,Cairo,489,Meat,+20-1308124438
+Charity_1561,Alexandria,220,Vegetables,+20-1910456080
+Charity_1562,Giza,81,Vegetables,+20-1569722645
+Charity_1563,Giza,253,Bakery,+20-1342416647
+Charity_1564,Cairo,160,Vegetables,+20-1897996017
+Charity_1565,Mansoura,389,Fruits,+20-1470777296
+Charity_1566,Giza,240,Dairy,+20-1339101436
+Charity_1567,Giza,55,Bakery,+20-1868527743
+Charity_1568,Cairo,286,Fruits,+20-1932750670
+Charity_1569,Cairo,425,Dairy,+20-1343847080
+Charity_1570,Alexandria,94,Dairy,+20-1652913101
+Charity_1571,Alexandria,125,Vegetables,+20-1391803243
+Charity_1572,Mansoura,254,Dairy,+20-1495240051
+Charity_1573,Cairo,114,Fruits,+20-1860306066
+Charity_1574,Delta,152,Dairy,+20-1916104265
+Charity_1575,Upper Egypt,344,Bakery,+20-1126546318
+Charity_1576,Cairo,418,Fruits,+20-1325422934
+Charity_1577,Mansoura,420,Dairy,+20-1744759560
+Charity_1578,Giza,149,Vegetables,+20-1628889725
+Charity_1579,Mansoura,168,Vegetables,+20-1376887926
+Charity_1580,Giza,126,Bakery,+20-1481127235
+Charity_1581,Upper Egypt,254,Vegetables,+20-1930357371
+Charity_1582,Delta,168,Dairy,+20-1250122898
+Charity_1583,Giza,304,Vegetables,+20-1299972109
+Charity_1584,Alexandria,434,Bakery,+20-1323228405
+Charity_1585,Cairo,68,Vegetables,+20-1969637561
+Charity_1586,Giza,417,Dairy,+20-1985356111
+Charity_1587,Upper Egypt,407,Meat,+20-1107414852
+Charity_1588,Delta,404,Bakery,+20-1435215832
+Charity_1589,Giza,385,Vegetables,+20-1369491264
+Charity_1590,Cairo,154,Dairy,+20-1111962073
+Charity_1591,Alexandria,151,Vegetables,+20-1350419748
+Charity_1592,Giza,399,Meat,+20-1778879427
+Charity_1593,Upper Egypt,325,Bakery,+20-1326067875
+Charity_1594,Delta,193,Fruits,+20-1528018905
+Charity_1595,Upper Egypt,442,Meat,+20-1237312945
+Charity_1596,Alexandria,380,Dairy,+20-1687793318
+Charity_1597,Upper Egypt,56,Fruits,+20-1599010785
+Charity_1598,Giza,275,Meat,+20-1736129543
+Charity_1599,Delta,460,Fruits,+20-1908249565
+Charity_1600,Upper Egypt,396,Meat,+20-1612731589
+Charity_1601,Mansoura,342,Dairy,+20-1680200438
+Charity_1602,Cairo,384,Dairy,+20-1417604667
+Charity_1603,Alexandria,482,Fruits,+20-1429813964
+Charity_1604,Alexandria,422,Vegetables,+20-1202927908
+Charity_1605,Alexandria,300,Bakery,+20-1949920704
+Charity_1606,Giza,287,Bakery,+20-1818029650
+Charity_1607,Giza,272,Fruits,+20-1132338342
+Charity_1608,Alexandria,155,Vegetables,+20-1775640214
+Charity_1609,Mansoura,151,Bakery,+20-1560287875
+Charity_1610,Delta,321,Fruits,+20-1762219898
+Charity_1611,Giza,184,Vegetables,+20-1664973986
+Charity_1612,Delta,159,Bakery,+20-1140819526
+Charity_1613,Giza,358,Dairy,+20-1758857798
+Charity_1614,Delta,289,Bakery,+20-1333745915
+Charity_1615,Upper Egypt,158,Meat,+20-1844517280
+Charity_1616,Alexandria,61,Vegetables,+20-1277146842
+Charity_1617,Cairo,354,Bakery,+20-1501720022
+Charity_1618,Delta,472,Dairy,+20-1470919112
+Charity_1619,Alexandria,449,Meat,+20-1831148751
+Charity_1620,Upper Egypt,422,Meat,+20-1237188533
+Charity_1621,Alexandria,55,Dairy,+20-1568056824
+Charity_1622,Mansoura,498,Bakery,+20-1534635966
+Charity_1623,Upper Egypt,393,Meat,+20-1533010470
+Charity_1624,Upper Egypt,284,Vegetables,+20-1419614644
+Charity_1625,Mansoura,263,Dairy,+20-1200524037
+Charity_1626,Alexandria,474,Bakery,+20-1719555530
+Charity_1627,Upper Egypt,322,Dairy,+20-1364798825
+Charity_1628,Giza,336,Bakery,+20-1484802096
+Charity_1629,Upper Egypt,365,Meat,+20-1884597284
+Charity_1630,Cairo,168,Bakery,+20-1459648840
+Charity_1631,Giza,208,Vegetables,+20-1604339497
+Charity_1632,Mansoura,136,Vegetables,+20-1210770824
+Charity_1633,Alexandria,230,Bakery,+20-1915369999
+Charity_1634,Mansoura,173,Dairy,+20-1416707013
+Charity_1635,Giza,343,Dairy,+20-1344654366
+Charity_1636,Delta,359,Fruits,+20-1760444339
+Charity_1637,Alexandria,355,Fruits,+20-1107755294
+Charity_1638,Giza,334,Bakery,+20-1473518639
+Charity_1639,Alexandria,453,Fruits,+20-1545343160
+Charity_1640,Alexandria,272,Fruits,+20-1313015750
+Charity_1641,Cairo,290,Meat,+20-1651417634
+Charity_1642,Mansoura,161,Meat,+20-1157526117
+Charity_1643,Giza,428,Meat,+20-1116857943
+Charity_1644,Upper Egypt,124,Dairy,+20-1319068996
+Charity_1645,Mansoura,393,Dairy,+20-1337777259
+Charity_1646,Upper Egypt,430,Vegetables,+20-1476801784
+Charity_1647,Upper Egypt,249,Dairy,+20-1319996555
+Charity_1648,Upper Egypt,410,Vegetables,+20-1282548833
+Charity_1649,Upper Egypt,154,Fruits,+20-1642231175
+Charity_1650,Mansoura,187,Bakery,+20-1329595074
+Charity_1651,Delta,83,Dairy,+20-1816756779
+Charity_1652,Mansoura,52,Meat,+20-1723049761
+Charity_1653,Cairo,67,Bakery,+20-1111141705
+Charity_1654,Alexandria,330,Bakery,+20-1562558731
+Charity_1655,Mansoura,418,Meat,+20-1902933277
+Charity_1656,Mansoura,156,Vegetables,+20-1543831544
+Charity_1657,Alexandria,205,Dairy,+20-1930592387
+Charity_1658,Delta,342,Vegetables,+20-1813473052
+Charity_1659,Mansoura,313,Fruits,+20-1759317972
+Charity_1660,Alexandria,372,Fruits,+20-1198103184
+Charity_1661,Mansoura,270,Meat,+20-1944918864
+Charity_1662,Delta,393,Meat,+20-1743676136
+Charity_1663,Giza,303,Meat,+20-1545424233
+Charity_1664,Alexandria,444,Fruits,+20-1785584809
+Charity_1665,Delta,105,Meat,+20-1406622147
+Charity_1666,Alexandria,434,Dairy,+20-1974680458
+Charity_1667,Giza,416,Fruits,+20-1549325412
+Charity_1668,Mansoura,344,Fruits,+20-1373741451
+Charity_1669,Mansoura,455,Vegetables,+20-1839449654
+Charity_1670,Giza,326,Dairy,+20-1924755606
+Charity_1671,Delta,79,Fruits,+20-1240411008
+Charity_1672,Delta,343,Meat,+20-1807790100
+Charity_1673,Alexandria,249,Dairy,+20-1470194526
+Charity_1674,Cairo,333,Vegetables,+20-1575132962
+Charity_1675,Delta,459,Fruits,+20-1894730104
+Charity_1676,Mansoura,276,Meat,+20-1737174525
+Charity_1677,Delta,435,Bakery,+20-1639508937
+Charity_1678,Giza,277,Fruits,+20-1363616056
+Charity_1679,Alexandria,231,Meat,+20-1750934690
+Charity_1680,Mansoura,310,Fruits,+20-1764613594
+Charity_1681,Giza,307,Meat,+20-1524204655
+Charity_1682,Giza,432,Fruits,+20-1162017009
+Charity_1683,Giza,172,Meat,+20-1649223228
+Charity_1684,Delta,380,Bakery,+20-1989807897
+Charity_1685,Upper Egypt,249,Fruits,+20-1522282537
+Charity_1686,Delta,377,Vegetables,+20-1384775347
+Charity_1687,Giza,202,Vegetables,+20-1484750773
+Charity_1688,Alexandria,320,Dairy,+20-1738731034
+Charity_1689,Alexandria,140,Meat,+20-1300429687
+Charity_1690,Cairo,401,Fruits,+20-1517552319
+Charity_1691,Cairo,471,Vegetables,+20-1641599563
+Charity_1692,Mansoura,82,Meat,+20-1659540826
+Charity_1693,Delta,73,Vegetables,+20-1454460937
+Charity_1694,Alexandria,264,Bakery,+20-1412176902
+Charity_1695,Mansoura,268,Meat,+20-1421752044
+Charity_1696,Delta,460,Meat,+20-1327566219
+Charity_1697,Mansoura,256,Fruits,+20-1573838084
+Charity_1698,Alexandria,285,Dairy,+20-1888830120
+Charity_1699,Delta,112,Meat,+20-1557445416
+Charity_1700,Cairo,145,Vegetables,+20-1224331092
+Charity_1701,Alexandria,72,Vegetables,+20-1880636663
+Charity_1702,Delta,467,Dairy,+20-1850279813
+Charity_1703,Alexandria,229,Bakery,+20-1946807959
+Charity_1704,Mansoura,413,Bakery,+20-1863384306
+Charity_1705,Upper Egypt,85,Bakery,+20-1785939036
+Charity_1706,Cairo,71,Fruits,+20-1231665667
+Charity_1707,Alexandria,316,Bakery,+20-1337952893
+Charity_1708,Giza,160,Fruits,+20-1240683954
+Charity_1709,Delta,262,Dairy,+20-1101363076
+Charity_1710,Cairo,467,Vegetables,+20-1653648045
+Charity_1711,Alexandria,211,Meat,+20-1922937328
+Charity_1712,Cairo,135,Bakery,+20-1463714985
+Charity_1713,Mansoura,148,Bakery,+20-1112414296
+Charity_1714,Cairo,498,Meat,+20-1173637121
+Charity_1715,Giza,488,Fruits,+20-1970425349
+Charity_1716,Alexandria,488,Dairy,+20-1201658540
+Charity_1717,Delta,97,Fruits,+20-1700153583
+Charity_1718,Cairo,247,Meat,+20-1741815664
+Charity_1719,Alexandria,361,Bakery,+20-1927560011
+Charity_1720,Delta,109,Vegetables,+20-1530755030
+Charity_1721,Upper Egypt,451,Fruits,+20-1138850168
+Charity_1722,Alexandria,222,Meat,+20-1718031620
+Charity_1723,Cairo,393,Bakery,+20-1339026974
+Charity_1724,Delta,260,Bakery,+20-1570322745
+Charity_1725,Cairo,306,Dairy,+20-1953574680
+Charity_1726,Upper Egypt,302,Meat,+20-1618646472
+Charity_1727,Cairo,324,Meat,+20-1789353414
+Charity_1728,Alexandria,362,Vegetables,+20-1741502374
+Charity_1729,Giza,412,Vegetables,+20-1906609429
+Charity_1730,Delta,416,Fruits,+20-1118546302
+Charity_1731,Mansoura,409,Meat,+20-1744419648
+Charity_1732,Mansoura,92,Vegetables,+20-1734572353
+Charity_1733,Giza,156,Vegetables,+20-1179699319
+Charity_1734,Giza,193,Bakery,+20-1479046305
+Charity_1735,Giza,119,Meat,+20-1704020141
+Charity_1736,Alexandria,71,Meat,+20-1987816714
+Charity_1737,Giza,294,Meat,+20-1605930665
+Charity_1738,Mansoura,235,Bakery,+20-1696647539
+Charity_1739,Alexandria,247,Vegetables,+20-1869172831
+Charity_1740,Mansoura,180,Bakery,+20-1107414240
+Charity_1741,Mansoura,254,Meat,+20-1173329348
+Charity_1742,Upper Egypt,142,Dairy,+20-1947175016
+Charity_1743,Upper Egypt,117,Meat,+20-1797574141
+Charity_1744,Giza,80,Dairy,+20-1735557446
+Charity_1745,Alexandria,87,Dairy,+20-1441450856
+Charity_1746,Mansoura,394,Meat,+20-1280408313
+Charity_1747,Cairo,110,Bakery,+20-1563450220
+Charity_1748,Cairo,475,Meat,+20-1682013608
+Charity_1749,Cairo,112,Vegetables,+20-1817447075
+Charity_1750,Upper Egypt,380,Vegetables,+20-1829658251
+Charity_1751,Delta,482,Bakery,+20-1337997028
+Charity_1752,Giza,80,Vegetables,+20-1448478747
+Charity_1753,Alexandria,348,Bakery,+20-1925692627
+Charity_1754,Mansoura,347,Vegetables,+20-1163960242
+Charity_1755,Mansoura,453,Vegetables,+20-1337470604
+Charity_1756,Cairo,454,Fruits,+20-1976167010
+Charity_1757,Upper Egypt,224,Bakery,+20-1562218803
+Charity_1758,Delta,386,Bakery,+20-1852815284
+Charity_1759,Delta,483,Meat,+20-1121650791
+Charity_1760,Delta,410,Dairy,+20-1779964047
+Charity_1761,Cairo,342,Dairy,+20-1687951964
+Charity_1762,Cairo,197,Fruits,+20-1133115847
+Charity_1763,Alexandria,133,Meat,+20-1169902951
+Charity_1764,Giza,436,Meat,+20-1333165562
+Charity_1765,Mansoura,53,Bakery,+20-1231478769
+Charity_1766,Mansoura,452,Fruits,+20-1933195802
+Charity_1767,Cairo,402,Bakery,+20-1925363146
+Charity_1768,Cairo,179,Fruits,+20-1902247530
+Charity_1769,Mansoura,479,Meat,+20-1681018176
+Charity_1770,Upper Egypt,88,Bakery,+20-1636401866
+Charity_1771,Cairo,181,Meat,+20-1963763388
+Charity_1772,Delta,480,Vegetables,+20-1393319570
+Charity_1773,Mansoura,338,Fruits,+20-1383051320
+Charity_1774,Alexandria,339,Fruits,+20-1132037354
+Charity_1775,Mansoura,55,Bakery,+20-1830256660
+Charity_1776,Upper Egypt,220,Bakery,+20-1137292677
+Charity_1777,Mansoura,473,Vegetables,+20-1843363083
+Charity_1778,Mansoura,184,Fruits,+20-1527751643
+Charity_1779,Mansoura,354,Bakery,+20-1336694122
+Charity_1780,Upper Egypt,366,Bakery,+20-1994524052
+Charity_1781,Alexandria,342,Meat,+20-1623032066
+Charity_1782,Alexandria,122,Bakery,+20-1394398117
+Charity_1783,Cairo,206,Vegetables,+20-1814205375
+Charity_1784,Delta,386,Meat,+20-1411767255
+Charity_1785,Delta,233,Dairy,+20-1798514635
+Charity_1786,Mansoura,270,Vegetables,+20-1439512928
+Charity_1787,Giza,395,Bakery,+20-1408866953
+Charity_1788,Mansoura,257,Dairy,+20-1749420211
+Charity_1789,Cairo,499,Bakery,+20-1965889148
+Charity_1790,Alexandria,149,Meat,+20-1202785243
+Charity_1791,Mansoura,488,Fruits,+20-1631898487
+Charity_1792,Giza,318,Dairy,+20-1232567157
+Charity_1793,Mansoura,200,Dairy,+20-1657006412
+Charity_1794,Alexandria,348,Meat,+20-1244687445
+Charity_1795,Upper Egypt,248,Vegetables,+20-1753640664
+Charity_1796,Mansoura,248,Meat,+20-1229879483
+Charity_1797,Mansoura,248,Vegetables,+20-1925415450
+Charity_1798,Upper Egypt,326,Dairy,+20-1567492430
+Charity_1799,Cairo,443,Vegetables,+20-1431186552
+Charity_1800,Delta,317,Vegetables,+20-1389983642
+Charity_1801,Mansoura,498,Bakery,+20-1738335244
+Charity_1802,Upper Egypt,452,Dairy,+20-1618742769
+Charity_1803,Upper Egypt,73,Meat,+20-1525023557
+Charity_1804,Alexandria,243,Vegetables,+20-1634333282
+Charity_1805,Upper Egypt,301,Fruits,+20-1148109234
+Charity_1806,Giza,82,Fruits,+20-1982465279
+Charity_1807,Mansoura,117,Vegetables,+20-1193133084
+Charity_1808,Upper Egypt,125,Fruits,+20-1258869891
+Charity_1809,Alexandria,141,Vegetables,+20-1465289946
+Charity_1810,Giza,224,Dairy,+20-1992432275
+Charity_1811,Cairo,50,Bakery,+20-1444702357
+Charity_1812,Upper Egypt,478,Bakery,+20-1999458190
+Charity_1813,Delta,208,Bakery,+20-1519273564
+Charity_1814,Cairo,281,Vegetables,+20-1215964646
+Charity_1815,Alexandria,484,Meat,+20-1464513008
+Charity_1816,Giza,54,Fruits,+20-1886141104
+Charity_1817,Giza,219,Vegetables,+20-1924142012
+Charity_1818,Cairo,146,Meat,+20-1653015181
+Charity_1819,Alexandria,240,Dairy,+20-1117886681
+Charity_1820,Alexandria,363,Bakery,+20-1346891401
+Charity_1821,Alexandria,389,Vegetables,+20-1360060699
+Charity_1822,Giza,114,Meat,+20-1107117563
+Charity_1823,Delta,93,Vegetables,+20-1721323101
+Charity_1824,Alexandria,182,Vegetables,+20-1879039937
+Charity_1825,Cairo,455,Fruits,+20-1849846818
+Charity_1826,Upper Egypt,458,Meat,+20-1401761622
+Charity_1827,Cairo,463,Bakery,+20-1948275471
+Charity_1828,Mansoura,312,Vegetables,+20-1384798407
+Charity_1829,Upper Egypt,459,Vegetables,+20-1831125753
+Charity_1830,Upper Egypt,288,Dairy,+20-1735376927
+Charity_1831,Delta,127,Fruits,+20-1148460572
+Charity_1832,Giza,99,Meat,+20-1558578054
+Charity_1833,Delta,125,Vegetables,+20-1199567576
+Charity_1834,Giza,301,Bakery,+20-1707576317
+Charity_1835,Upper Egypt,431,Bakery,+20-1186769461
+Charity_1836,Delta,105,Meat,+20-1145778616
+Charity_1837,Upper Egypt,340,Dairy,+20-1261709601
+Charity_1838,Alexandria,133,Dairy,+20-1469156341
+Charity_1839,Mansoura,315,Bakery,+20-1910482394
+Charity_1840,Mansoura,465,Vegetables,+20-1829374234
+Charity_1841,Alexandria,235,Bakery,+20-1608386027
+Charity_1842,Mansoura,194,Fruits,+20-1236898431
+Charity_1843,Mansoura,159,Fruits,+20-1639306845
+Charity_1844,Delta,322,Vegetables,+20-1309832426
+Charity_1845,Upper Egypt,437,Dairy,+20-1984725686
+Charity_1846,Upper Egypt,126,Fruits,+20-1433736563
+Charity_1847,Alexandria,432,Vegetables,+20-1237719754
+Charity_1848,Upper Egypt,214,Vegetables,+20-1451044421
+Charity_1849,Cairo,84,Dairy,+20-1665203355
+Charity_1850,Upper Egypt,335,Vegetables,+20-1694357540
+Charity_1851,Cairo,219,Meat,+20-1367928645
+Charity_1852,Alexandria,222,Fruits,+20-1347391500
+Charity_1853,Delta,426,Bakery,+20-1300454611
+Charity_1854,Delta,291,Vegetables,+20-1107640041
+Charity_1855,Alexandria,275,Dairy,+20-1607681366
+Charity_1856,Mansoura,244,Dairy,+20-1860844120
+Charity_1857,Cairo,322,Vegetables,+20-1680180973
+Charity_1858,Delta,303,Fruits,+20-1444620557
+Charity_1859,Upper Egypt,406,Bakery,+20-1579689983
+Charity_1860,Cairo,420,Vegetables,+20-1159716751
+Charity_1861,Upper Egypt,291,Fruits,+20-1322916535
+Charity_1862,Cairo,400,Vegetables,+20-1869639577
+Charity_1863,Mansoura,334,Fruits,+20-1748730383
+Charity_1864,Giza,102,Fruits,+20-1934442983
+Charity_1865,Upper Egypt,119,Dairy,+20-1237862641
+Charity_1866,Cairo,386,Meat,+20-1616217145
+Charity_1867,Alexandria,414,Meat,+20-1375870677
+Charity_1868,Alexandria,162,Meat,+20-1782438456
+Charity_1869,Cairo,57,Dairy,+20-1187638308
+Charity_1870,Alexandria,196,Fruits,+20-1252832776
+Charity_1871,Delta,453,Bakery,+20-1510116995
+Charity_1872,Alexandria,230,Dairy,+20-1434887732
+Charity_1873,Alexandria,154,Vegetables,+20-1174225122
+Charity_1874,Delta,457,Bakery,+20-1614134324
+Charity_1875,Cairo,465,Meat,+20-1833929537
+Charity_1876,Alexandria,166,Vegetables,+20-1979059360
+Charity_1877,Giza,191,Bakery,+20-1584175538
+Charity_1878,Giza,368,Dairy,+20-1760634809
+Charity_1879,Mansoura,64,Meat,+20-1127005199
+Charity_1880,Cairo,432,Vegetables,+20-1950213945
+Charity_1881,Upper Egypt,204,Vegetables,+20-1416209254
+Charity_1882,Alexandria,357,Bakery,+20-1632935024
+Charity_1883,Alexandria,428,Bakery,+20-1852710120
+Charity_1884,Alexandria,466,Bakery,+20-1869809710
+Charity_1885,Mansoura,370,Meat,+20-1887763282
+Charity_1886,Delta,318,Bakery,+20-1199128157
+Charity_1887,Mansoura,312,Dairy,+20-1157646346
+Charity_1888,Upper Egypt,464,Vegetables,+20-1224128440
+Charity_1889,Alexandria,343,Bakery,+20-1264761807
+Charity_1890,Mansoura,360,Fruits,+20-1333378196
+Charity_1891,Mansoura,273,Vegetables,+20-1652943832
+Charity_1892,Giza,301,Fruits,+20-1726390372
+Charity_1893,Cairo,157,Vegetables,+20-1226191404
+Charity_1894,Giza,135,Vegetables,+20-1346006893
+Charity_1895,Delta,214,Fruits,+20-1697803422
+Charity_1896,Cairo,500,Dairy,+20-1114796240
+Charity_1897,Alexandria,280,Vegetables,+20-1836331693
+Charity_1898,Cairo,209,Bakery,+20-1334444328
+Charity_1899,Mansoura,334,Dairy,+20-1432488404
+Charity_1900,Mansoura,291,Dairy,+20-1374704306
+Charity_1901,Cairo,285,Meat,+20-1337490289
+Charity_1902,Mansoura,247,Dairy,+20-1918535069
+Charity_1903,Alexandria,255,Meat,+20-1104007017
+Charity_1904,Upper Egypt,280,Dairy,+20-1869925101
+Charity_1905,Giza,132,Bakery,+20-1266059657
+Charity_1906,Cairo,493,Vegetables,+20-1945511204
+Charity_1907,Upper Egypt,380,Bakery,+20-1236428660
+Charity_1908,Cairo,347,Vegetables,+20-1640570280
+Charity_1909,Mansoura,492,Bakery,+20-1277202879
+Charity_1910,Mansoura,334,Fruits,+20-1918789948
+Charity_1911,Mansoura,118,Dairy,+20-1380706183
+Charity_1912,Upper Egypt,454,Vegetables,+20-1742845741
+Charity_1913,Giza,151,Meat,+20-1421440018
+Charity_1914,Upper Egypt,448,Fruits,+20-1791325424
+Charity_1915,Delta,479,Dairy,+20-1711947172
+Charity_1916,Giza,389,Meat,+20-1531962380
+Charity_1917,Mansoura,387,Dairy,+20-1134855314
+Charity_1918,Alexandria,328,Fruits,+20-1348692663
+Charity_1919,Cairo,143,Vegetables,+20-1370985081
+Charity_1920,Upper Egypt,185,Vegetables,+20-1465127753
+Charity_1921,Delta,465,Fruits,+20-1720921314
+Charity_1922,Delta,96,Meat,+20-1659263525
+Charity_1923,Upper Egypt,208,Dairy,+20-1477403243
+Charity_1924,Cairo,128,Fruits,+20-1294686143
+Charity_1925,Cairo,64,Dairy,+20-1904620767
+Charity_1926,Giza,289,Bakery,+20-1832516703
+Charity_1927,Cairo,292,Meat,+20-1429563277
+Charity_1928,Delta,413,Vegetables,+20-1947487880
+Charity_1929,Mansoura,179,Bakery,+20-1201841703
+Charity_1930,Cairo,402,Dairy,+20-1880193053
+Charity_1931,Alexandria,346,Fruits,+20-1488082117
+Charity_1932,Upper Egypt,469,Bakery,+20-1965962558
+Charity_1933,Upper Egypt,413,Fruits,+20-1714949278
+Charity_1934,Alexandria,135,Meat,+20-1768581293
+Charity_1935,Giza,305,Bakery,+20-1910358883
+Charity_1936,Giza,103,Vegetables,+20-1919331987
+Charity_1937,Mansoura,149,Dairy,+20-1461264615
+Charity_1938,Delta,304,Vegetables,+20-1624910662
+Charity_1939,Mansoura,286,Dairy,+20-1657987921
+Charity_1940,Mansoura,293,Dairy,+20-1493104652
+Charity_1941,Delta,157,Fruits,+20-1946444638
+Charity_1942,Delta,267,Meat,+20-1324002562
+Charity_1943,Alexandria,95,Dairy,+20-1375778405
+Charity_1944,Delta,87,Bakery,+20-1471564066
+Charity_1945,Giza,446,Bakery,+20-1125218799
+Charity_1946,Delta,384,Bakery,+20-1958400060
+Charity_1947,Alexandria,141,Dairy,+20-1944629857
+Charity_1948,Mansoura,487,Vegetables,+20-1306146200
+Charity_1949,Giza,361,Bakery,+20-1113943678
+Charity_1950,Upper Egypt,465,Dairy,+20-1535984609
+Charity_1951,Cairo,236,Meat,+20-1135603000
+Charity_1952,Cairo,88,Meat,+20-1340457857
+Charity_1953,Delta,104,Fruits,+20-1430656913
+Charity_1954,Delta,50,Fruits,+20-1403932132
+Charity_1955,Giza,433,Vegetables,+20-1543131261
+Charity_1956,Alexandria,305,Bakery,+20-1267808516
+Charity_1957,Cairo,183,Bakery,+20-1748227472
+Charity_1958,Cairo,94,Meat,+20-1879667809
+Charity_1959,Delta,251,Meat,+20-1959238248
+Charity_1960,Mansoura,447,Fruits,+20-1986393789
+Charity_1961,Mansoura,410,Bakery,+20-1119915944
+Charity_1962,Alexandria,479,Bakery,+20-1712770282
+Charity_1963,Cairo,225,Dairy,+20-1340702580
+Charity_1964,Delta,388,Meat,+20-1509546962
+Charity_1965,Mansoura,363,Bakery,+20-1508977587
+Charity_1966,Mansoura,391,Vegetables,+20-1515650285
+Charity_1967,Mansoura,142,Meat,+20-1727101008
+Charity_1968,Upper Egypt,251,Meat,+20-1148376919
+Charity_1969,Giza,439,Vegetables,+20-1591848093
+Charity_1970,Giza,271,Fruits,+20-1340218578
+Charity_1971,Upper Egypt,138,Meat,+20-1490663165
+Charity_1972,Delta,458,Dairy,+20-1709470701
+Charity_1973,Delta,274,Vegetables,+20-1386643311
+Charity_1974,Alexandria,367,Dairy,+20-1211194892
+Charity_1975,Upper Egypt,482,Fruits,+20-1488599931
+Charity_1976,Upper Egypt,277,Bakery,+20-1309883512
+Charity_1977,Giza,443,Dairy,+20-1601335540
+Charity_1978,Cairo,110,Meat,+20-1831530122
+Charity_1979,Alexandria,207,Bakery,+20-1202944918
+Charity_1980,Mansoura,396,Dairy,+20-1320763393
+Charity_1981,Upper Egypt,463,Vegetables,+20-1884000589
+Charity_1982,Mansoura,52,Bakery,+20-1555277845
+Charity_1983,Delta,224,Dairy,+20-1645875443
+Charity_1984,Delta,402,Bakery,+20-1788108468
+Charity_1985,Upper Egypt,331,Dairy,+20-1909950008
+Charity_1986,Cairo,67,Bakery,+20-1468317491
+Charity_1987,Upper Egypt,359,Dairy,+20-1315249324
+Charity_1988,Alexandria,306,Dairy,+20-1614160608
+Charity_1989,Delta,200,Vegetables,+20-1848248891
+Charity_1990,Giza,487,Dairy,+20-1393997658
+Charity_1991,Alexandria,304,Meat,+20-1280620796
+Charity_1992,Mansoura,152,Vegetables,+20-1626135892
+Charity_1993,Mansoura,479,Dairy,+20-1806364187
+Charity_1994,Mansoura,460,Fruits,+20-1738369591
+Charity_1995,Mansoura,463,Fruits,+20-1889578075
+Charity_1996,Alexandria,315,Dairy,+20-1804184200
+Charity_1997,Upper Egypt,248,Dairy,+20-1764668199
+Charity_1998,Alexandria,469,Bakery,+20-1779692793
+Charity_1999,Alexandria,276,Meat,+20-1474596821
+Charity_2000,Alexandria,481,Vegetables,+20-1395360851
+Charity_2001,Mansoura,179,Fruits,+20-1795542553
+Charity_2002,Cairo,417,Vegetables,+20-1371858281
+Charity_2003,Cairo,446,Fruits,+20-1359134204
+Charity_2004,Mansoura,303,Vegetables,+20-1744798912
+Charity_2005,Upper Egypt,52,Bakery,+20-1878436027
+Charity_2006,Alexandria,397,Bakery,+20-1756208102
+Charity_2007,Mansoura,211,Vegetables,+20-1789001620
+Charity_2008,Delta,182,Fruits,+20-1128975523
+Charity_2009,Giza,275,Fruits,+20-1400280185
+Charity_2010,Delta,493,Meat,+20-1929843781
+Charity_2011,Mansoura,318,Meat,+20-1502221001
+Charity_2012,Giza,322,Vegetables,+20-1313375756
+Charity_2013,Upper Egypt,323,Fruits,+20-1532625167
+Charity_2014,Delta,146,Vegetables,+20-1874828821
+Charity_2015,Delta,111,Vegetables,+20-1537100685
+Charity_2016,Delta,244,Fruits,+20-1894926418
+Charity_2017,Delta,71,Fruits,+20-1971258200
+Charity_2018,Cairo,293,Vegetables,+20-1592415918
+Charity_2019,Giza,78,Fruits,+20-1193803294
+Charity_2020,Alexandria,50,Dairy,+20-1334530351
+Charity_2021,Giza,465,Fruits,+20-1131475764
+Charity_2022,Alexandria,102,Meat,+20-1961318748
+Charity_2023,Upper Egypt,500,Vegetables,+20-1537669307
+Charity_2024,Alexandria,314,Vegetables,+20-1672264692
+Charity_2025,Mansoura,373,Bakery,+20-1563728969
+Charity_2026,Giza,153,Fruits,+20-1523664360
+Charity_2027,Mansoura,193,Dairy,+20-1386128436
+Charity_2028,Upper Egypt,453,Dairy,+20-1563731500
+Charity_2029,Upper Egypt,69,Vegetables,+20-1334516508
+Charity_2030,Giza,298,Vegetables,+20-1982869265
+Charity_2031,Delta,367,Dairy,+20-1383957809
+Charity_2032,Cairo,221,Bakery,+20-1257449852
+Charity_2033,Cairo,412,Bakery,+20-1404596020
+Charity_2034,Cairo,77,Meat,+20-1122707819
+Charity_2035,Giza,371,Dairy,+20-1568377604
+Charity_2036,Cairo,297,Bakery,+20-1218299514
+Charity_2037,Upper Egypt,497,Bakery,+20-1452077712
+Charity_2038,Cairo,250,Fruits,+20-1655928004
+Charity_2039,Alexandria,353,Dairy,+20-1610861207
+Charity_2040,Delta,374,Dairy,+20-1317094052
+Charity_2041,Delta,150,Vegetables,+20-1996066327
+Charity_2042,Cairo,268,Meat,+20-1383023047
+Charity_2043,Alexandria,160,Fruits,+20-1580163611
+Charity_2044,Upper Egypt,240,Fruits,+20-1857862554
+Charity_2045,Mansoura,320,Bakery,+20-1325886802
+Charity_2046,Alexandria,61,Fruits,+20-1817991230
+Charity_2047,Upper Egypt,401,Vegetables,+20-1540120739
+Charity_2048,Cairo,145,Dairy,+20-1131131342
+Charity_2049,Upper Egypt,256,Bakery,+20-1605057218
+Charity_2050,Alexandria,271,Dairy,+20-1164921188
+Charity_2051,Mansoura,93,Bakery,+20-1830359257
+Charity_2052,Cairo,131,Bakery,+20-1295779013
+Charity_2053,Giza,418,Dairy,+20-1201847444
+Charity_2054,Giza,341,Meat,+20-1236768932
+Charity_2055,Giza,301,Dairy,+20-1372251119
+Charity_2056,Alexandria,356,Bakery,+20-1659330677
+Charity_2057,Alexandria,394,Meat,+20-1851493339
+Charity_2058,Upper Egypt,156,Vegetables,+20-1634969738
+Charity_2059,Mansoura,306,Dairy,+20-1109643879
+Charity_2060,Alexandria,405,Bakery,+20-1935909564
+Charity_2061,Cairo,300,Bakery,+20-1171015321
+Charity_2062,Cairo,371,Dairy,+20-1788461671
+Charity_2063,Alexandria,110,Meat,+20-1979040076
+Charity_2064,Mansoura,186,Meat,+20-1632530820
+Charity_2065,Cairo,282,Bakery,+20-1320100899
+Charity_2066,Delta,398,Fruits,+20-1573914701
+Charity_2067,Delta,424,Fruits,+20-1650067540
+Charity_2068,Giza,462,Meat,+20-1344811018
+Charity_2069,Alexandria,314,Fruits,+20-1596541318
+Charity_2070,Giza,271,Fruits,+20-1808598901
+Charity_2071,Alexandria,403,Meat,+20-1412516853
+Charity_2072,Alexandria,367,Vegetables,+20-1614546594
+Charity_2073,Giza,313,Meat,+20-1759641615
+Charity_2074,Cairo,146,Meat,+20-1584994407
+Charity_2075,Delta,494,Bakery,+20-1362914413
+Charity_2076,Upper Egypt,452,Dairy,+20-1962846719
+Charity_2077,Alexandria,175,Meat,+20-1559585814
+Charity_2078,Mansoura,431,Bakery,+20-1449633985
+Charity_2079,Upper Egypt,369,Bakery,+20-1989734253
+Charity_2080,Alexandria,183,Fruits,+20-1144717075
+Charity_2081,Delta,337,Bakery,+20-1438712661
+Charity_2082,Upper Egypt,350,Vegetables,+20-1125721464
+Charity_2083,Giza,145,Meat,+20-1595174981
+Charity_2084,Upper Egypt,240,Dairy,+20-1105453392
+Charity_2085,Upper Egypt,472,Fruits,+20-1265909311
+Charity_2086,Mansoura,367,Bakery,+20-1938847816
+Charity_2087,Cairo,113,Fruits,+20-1270675188
+Charity_2088,Giza,476,Meat,+20-1239939262
+Charity_2089,Delta,356,Bakery,+20-1531864810
+Charity_2090,Mansoura,150,Vegetables,+20-1122903758
+Charity_2091,Delta,471,Vegetables,+20-1364019916
+Charity_2092,Alexandria,485,Dairy,+20-1478627379
+Charity_2093,Alexandria,51,Vegetables,+20-1131516053
+Charity_2094,Mansoura,355,Bakery,+20-1225992264
+Charity_2095,Alexandria,190,Meat,+20-1963621889
+Charity_2096,Giza,399,Dairy,+20-1323854091
+Charity_2097,Giza,63,Meat,+20-1256733548
+Charity_2098,Upper Egypt,361,Fruits,+20-1330856469
+Charity_2099,Cairo,335,Fruits,+20-1104702087
+Charity_2100,Cairo,199,Vegetables,+20-1315261524
+Charity_2101,Cairo,390,Bakery,+20-1250357683
+Charity_2102,Upper Egypt,69,Dairy,+20-1655316573
+Charity_2103,Giza,463,Meat,+20-1423149526
+Charity_2104,Delta,497,Meat,+20-1939410721
+Charity_2105,Upper Egypt,66,Bakery,+20-1355028540
+Charity_2106,Cairo,227,Fruits,+20-1669820476
+Charity_2107,Alexandria,412,Dairy,+20-1333554434
+Charity_2108,Delta,233,Dairy,+20-1912271919
+Charity_2109,Mansoura,357,Dairy,+20-1319659153
+Charity_2110,Delta,465,Bakery,+20-1903662635
+Charity_2111,Giza,188,Fruits,+20-1785138280
+Charity_2112,Upper Egypt,217,Vegetables,+20-1665074570
+Charity_2113,Cairo,241,Meat,+20-1675293821
+Charity_2114,Giza,298,Vegetables,+20-1828524454
+Charity_2115,Giza,441,Bakery,+20-1248265722
+Charity_2116,Mansoura,190,Vegetables,+20-1730159262
+Charity_2117,Alexandria,494,Meat,+20-1641641847
+Charity_2118,Alexandria,144,Fruits,+20-1492055030
+Charity_2119,Upper Egypt,289,Dairy,+20-1931081780
+Charity_2120,Delta,451,Bakery,+20-1810154992
+Charity_2121,Upper Egypt,90,Fruits,+20-1463405541
+Charity_2122,Delta,71,Vegetables,+20-1157592937
+Charity_2123,Delta,113,Bakery,+20-1554431067
+Charity_2124,Upper Egypt,422,Bakery,+20-1452557533
+Charity_2125,Alexandria,184,Bakery,+20-1586923264
+Charity_2126,Mansoura,102,Fruits,+20-1115991195
+Charity_2127,Upper Egypt,440,Fruits,+20-1650291347
+Charity_2128,Delta,194,Bakery,+20-1893979483
+Charity_2129,Cairo,415,Fruits,+20-1891448888
+Charity_2130,Cairo,311,Bakery,+20-1246276162
+Charity_2131,Upper Egypt,180,Fruits,+20-1537251165
+Charity_2132,Upper Egypt,198,Meat,+20-1354828019
+Charity_2133,Alexandria,63,Dairy,+20-1543426711
+Charity_2134,Delta,234,Fruits,+20-1941657139
+Charity_2135,Alexandria,357,Vegetables,+20-1495423998
+Charity_2136,Alexandria,310,Bakery,+20-1183540336
+Charity_2137,Cairo,309,Vegetables,+20-1813015216
+Charity_2138,Giza,278,Dairy,+20-1933185188
+Charity_2139,Alexandria,203,Dairy,+20-1924246267
+Charity_2140,Mansoura,371,Dairy,+20-1629526782
+Charity_2141,Alexandria,240,Bakery,+20-1293187264
+Charity_2142,Alexandria,195,Meat,+20-1235496587
+Charity_2143,Giza,313,Dairy,+20-1259326927
+Charity_2144,Alexandria,427,Bakery,+20-1972129535
+Charity_2145,Giza,297,Bakery,+20-1604591191
+Charity_2146,Delta,69,Meat,+20-1629848444
+Charity_2147,Cairo,413,Fruits,+20-1455337604
+Charity_2148,Alexandria,357,Fruits,+20-1687786861
+Charity_2149,Alexandria,341,Dairy,+20-1595902417
+Charity_2150,Alexandria,418,Meat,+20-1568556116
+Charity_2151,Mansoura,117,Vegetables,+20-1827722519
+Charity_2152,Delta,224,Dairy,+20-1807586230
+Charity_2153,Mansoura,110,Vegetables,+20-1454218960
+Charity_2154,Alexandria,350,Vegetables,+20-1468836836
+Charity_2155,Cairo,136,Dairy,+20-1562703036
+Charity_2156,Mansoura,184,Bakery,+20-1888381573
+Charity_2157,Cairo,242,Fruits,+20-1233063359
+Charity_2158,Giza,447,Vegetables,+20-1627012964
+Charity_2159,Giza,397,Dairy,+20-1526598480
+Charity_2160,Alexandria,151,Meat,+20-1403897701
+Charity_2161,Alexandria,107,Vegetables,+20-1396680269
+Charity_2162,Cairo,304,Meat,+20-1160003016
+Charity_2163,Alexandria,194,Fruits,+20-1461195998
+Charity_2164,Delta,173,Fruits,+20-1479237246
+Charity_2165,Alexandria,368,Fruits,+20-1992042734
+Charity_2166,Alexandria,272,Vegetables,+20-1232098182
+Charity_2167,Mansoura,335,Vegetables,+20-1318546542
+Charity_2168,Alexandria,456,Dairy,+20-1850927218
+Charity_2169,Mansoura,262,Bakery,+20-1157948254
+Charity_2170,Delta,470,Bakery,+20-1482382409
+Charity_2171,Cairo,204,Bakery,+20-1198416831
+Charity_2172,Cairo,307,Dairy,+20-1915112141
+Charity_2173,Upper Egypt,76,Fruits,+20-1315739477
+Charity_2174,Cairo,292,Meat,+20-1497882322
+Charity_2175,Alexandria,398,Dairy,+20-1700388561
+Charity_2176,Alexandria,442,Vegetables,+20-1200383823
+Charity_2177,Upper Egypt,417,Bakery,+20-1590476272
+Charity_2178,Delta,168,Vegetables,+20-1519799812
+Charity_2179,Delta,246,Meat,+20-1935839699
+Charity_2180,Delta,399,Vegetables,+20-1173623398
+Charity_2181,Upper Egypt,398,Dairy,+20-1138704973
+Charity_2182,Delta,344,Bakery,+20-1643508113
+Charity_2183,Delta,229,Meat,+20-1194484018
+Charity_2184,Cairo,238,Fruits,+20-1948315395
+Charity_2185,Delta,150,Bakery,+20-1184051322
+Charity_2186,Cairo,105,Fruits,+20-1319697500
+Charity_2187,Giza,72,Vegetables,+20-1535828833
+Charity_2188,Alexandria,74,Meat,+20-1756152013
+Charity_2189,Upper Egypt,147,Vegetables,+20-1859795666
+Charity_2190,Giza,342,Dairy,+20-1360912577
+Charity_2191,Mansoura,350,Meat,+20-1298578853
+Charity_2192,Cairo,390,Vegetables,+20-1683410319
+Charity_2193,Delta,375,Dairy,+20-1657014275
+Charity_2194,Giza,385,Meat,+20-1700863437
+Charity_2195,Delta,364,Vegetables,+20-1667164753
+Charity_2196,Alexandria,195,Dairy,+20-1658059192
+Charity_2197,Cairo,435,Dairy,+20-1929921717
+Charity_2198,Mansoura,271,Dairy,+20-1366788179
+Charity_2199,Upper Egypt,189,Vegetables,+20-1893654376
+Charity_2200,Cairo,328,Vegetables,+20-1421024800
+Charity_2201,Delta,408,Meat,+20-1299280254
+Charity_2202,Alexandria,145,Dairy,+20-1567039904
+Charity_2203,Alexandria,296,Fruits,+20-1259879402
+Charity_2204,Upper Egypt,467,Dairy,+20-1429589436
+Charity_2205,Alexandria,484,Meat,+20-1376657292
+Charity_2206,Mansoura,381,Bakery,+20-1308439479
+Charity_2207,Upper Egypt,441,Vegetables,+20-1917789110
+Charity_2208,Mansoura,356,Dairy,+20-1536438553
+Charity_2209,Giza,276,Bakery,+20-1942775211
+Charity_2210,Upper Egypt,217,Bakery,+20-1199776782
+Charity_2211,Upper Egypt,404,Bakery,+20-1609352524
+Charity_2212,Mansoura,472,Fruits,+20-1392730106
+Charity_2213,Delta,340,Vegetables,+20-1434041171
+Charity_2214,Mansoura,319,Dairy,+20-1812697648
+Charity_2215,Cairo,206,Fruits,+20-1512340708
+Charity_2216,Delta,161,Bakery,+20-1762074048
+Charity_2217,Upper Egypt,221,Vegetables,+20-1198624754
+Charity_2218,Alexandria,219,Dairy,+20-1533120998
+Charity_2219,Alexandria,384,Vegetables,+20-1310436437
+Charity_2220,Delta,192,Meat,+20-1263849042
+Charity_2221,Upper Egypt,243,Bakery,+20-1914974761
+Charity_2222,Cairo,483,Bakery,+20-1707035905
+Charity_2223,Mansoura,187,Bakery,+20-1517257102
+Charity_2224,Mansoura,264,Bakery,+20-1168586794
+Charity_2225,Cairo,388,Bakery,+20-1295487269
+Charity_2226,Giza,345,Vegetables,+20-1360911992
+Charity_2227,Upper Egypt,445,Vegetables,+20-1385926365
+Charity_2228,Mansoura,336,Dairy,+20-1247500885
+Charity_2229,Giza,76,Vegetables,+20-1602200219
+Charity_2230,Giza,167,Dairy,+20-1859138222
+Charity_2231,Delta,446,Fruits,+20-1157159306
+Charity_2232,Mansoura,395,Meat,+20-1318777716
+Charity_2233,Delta,261,Dairy,+20-1422983306
+Charity_2234,Upper Egypt,316,Fruits,+20-1632331549
+Charity_2235,Delta,175,Meat,+20-1385073461
+Charity_2236,Alexandria,217,Bakery,+20-1513435872
+Charity_2237,Upper Egypt,459,Fruits,+20-1825612731
+Charity_2238,Mansoura,389,Dairy,+20-1799785602
+Charity_2239,Upper Egypt,454,Fruits,+20-1986561461
+Charity_2240,Mansoura,307,Dairy,+20-1703037523
+Charity_2241,Upper Egypt,51,Meat,+20-1478560273
+Charity_2242,Alexandria,84,Vegetables,+20-1524771233
+Charity_2243,Upper Egypt,433,Dairy,+20-1799713028
+Charity_2244,Mansoura,183,Fruits,+20-1746021462
+Charity_2245,Alexandria,159,Dairy,+20-1340723659
+Charity_2246,Giza,289,Meat,+20-1494755870
+Charity_2247,Mansoura,104,Fruits,+20-1566425998
+Charity_2248,Alexandria,148,Fruits,+20-1958602751
+Charity_2249,Alexandria,140,Meat,+20-1165983313
+Charity_2250,Alexandria,127,Meat,+20-1835510545
+Charity_2251,Delta,270,Dairy,+20-1368499883
+Charity_2252,Mansoura,416,Meat,+20-1495844223
+Charity_2253,Giza,75,Vegetables,+20-1449822007
+Charity_2254,Cairo,373,Bakery,+20-1199523272
+Charity_2255,Delta,320,Fruits,+20-1820126282
+Charity_2256,Upper Egypt,61,Fruits,+20-1538997106
+Charity_2257,Alexandria,371,Meat,+20-1352793653
+Charity_2258,Giza,212,Bakery,+20-1443065359
+Charity_2259,Cairo,328,Meat,+20-1772063546
+Charity_2260,Alexandria,146,Vegetables,+20-1994379338
+Charity_2261,Giza,413,Bakery,+20-1637627113
+Charity_2262,Mansoura,266,Dairy,+20-1862590242
+Charity_2263,Giza,145,Dairy,+20-1821144550
+Charity_2264,Delta,404,Meat,+20-1936890958
+Charity_2265,Alexandria,115,Vegetables,+20-1319532141
+Charity_2266,Delta,99,Meat,+20-1531871563
+Charity_2267,Cairo,430,Bakery,+20-1760998359
+Charity_2268,Cairo,427,Dairy,+20-1146404720
+Charity_2269,Cairo,236,Vegetables,+20-1236268199
+Charity_2270,Delta,91,Bakery,+20-1386980332
+Charity_2271,Alexandria,285,Fruits,+20-1723176987
+Charity_2272,Mansoura,235,Bakery,+20-1742739685
+Charity_2273,Cairo,220,Vegetables,+20-1607967437
+Charity_2274,Cairo,410,Vegetables,+20-1477256159
+Charity_2275,Delta,367,Dairy,+20-1202738319
+Charity_2276,Cairo,460,Fruits,+20-1331465225
+Charity_2277,Alexandria,307,Vegetables,+20-1148046962
+Charity_2278,Alexandria,494,Meat,+20-1773784978
+Charity_2279,Mansoura,295,Fruits,+20-1232610028
+Charity_2280,Giza,70,Dairy,+20-1182474879
+Charity_2281,Cairo,354,Vegetables,+20-1250252624
+Charity_2282,Cairo,255,Bakery,+20-1731010131
+Charity_2283,Mansoura,197,Fruits,+20-1962833461
+Charity_2284,Giza,471,Dairy,+20-1218359728
+Charity_2285,Alexandria,278,Vegetables,+20-1995900984
+Charity_2286,Giza,72,Fruits,+20-1363957019
+Charity_2287,Cairo,362,Vegetables,+20-1576171971
+Charity_2288,Alexandria,177,Meat,+20-1292860384
+Charity_2289,Mansoura,267,Dairy,+20-1477302161
+Charity_2290,Mansoura,488,Meat,+20-1288477998
+Charity_2291,Giza,153,Dairy,+20-1192822736
+Charity_2292,Mansoura,232,Fruits,+20-1647815072
+Charity_2293,Cairo,264,Vegetables,+20-1369022481
+Charity_2294,Mansoura,216,Fruits,+20-1463324283
+Charity_2295,Giza,265,Dairy,+20-1249084654
+Charity_2296,Cairo,395,Vegetables,+20-1535061395
+Charity_2297,Upper Egypt,292,Meat,+20-1254590257
+Charity_2298,Mansoura,420,Fruits,+20-1221047874
+Charity_2299,Cairo,53,Fruits,+20-1903509269
+Charity_2300,Upper Egypt,273,Bakery,+20-1623372086
+Charity_2301,Cairo,268,Bakery,+20-1102942451
+Charity_2302,Alexandria,286,Meat,+20-1929574436
+Charity_2303,Cairo,141,Meat,+20-1849283114
+Charity_2304,Delta,96,Dairy,+20-1587092224
+Charity_2305,Upper Egypt,356,Vegetables,+20-1969938028
+Charity_2306,Giza,173,Fruits,+20-1958390158
+Charity_2307,Giza,344,Vegetables,+20-1916302219
+Charity_2308,Upper Egypt,168,Meat,+20-1776074916
+Charity_2309,Alexandria,189,Bakery,+20-1402662149
+Charity_2310,Upper Egypt,348,Fruits,+20-1187940157
+Charity_2311,Mansoura,219,Dairy,+20-1977998133
+Charity_2312,Cairo,276,Bakery,+20-1418686567
+Charity_2313,Giza,124,Meat,+20-1858344898
+Charity_2314,Delta,166,Meat,+20-1258812489
+Charity_2315,Alexandria,140,Dairy,+20-1833799600
+Charity_2316,Alexandria,261,Bakery,+20-1941943846
+Charity_2317,Alexandria,371,Fruits,+20-1893726677
+Charity_2318,Cairo,343,Meat,+20-1253206309
+Charity_2319,Upper Egypt,67,Fruits,+20-1173899194
+Charity_2320,Upper Egypt,83,Fruits,+20-1862458552
+Charity_2321,Alexandria,328,Bakery,+20-1135194199
+Charity_2322,Alexandria,100,Meat,+20-1751537654
+Charity_2323,Giza,147,Fruits,+20-1520209632
+Charity_2324,Alexandria,420,Vegetables,+20-1340808551
+Charity_2325,Mansoura,153,Vegetables,+20-1106993484
+Charity_2326,Alexandria,296,Fruits,+20-1851514753
+Charity_2327,Alexandria,149,Dairy,+20-1852217595
+Charity_2328,Cairo,51,Bakery,+20-1980072894
+Charity_2329,Delta,194,Meat,+20-1535531619
+Charity_2330,Alexandria,169,Dairy,+20-1582081424
+Charity_2331,Cairo,377,Vegetables,+20-1202963381
+Charity_2332,Mansoura,55,Fruits,+20-1573344197
+Charity_2333,Cairo,106,Vegetables,+20-1466155656
+Charity_2334,Upper Egypt,408,Bakery,+20-1282124849
+Charity_2335,Delta,398,Vegetables,+20-1327815260
+Charity_2336,Upper Egypt,469,Bakery,+20-1899776651
+Charity_2337,Mansoura,97,Dairy,+20-1789281905
+Charity_2338,Delta,241,Dairy,+20-1668209271
+Charity_2339,Cairo,282,Dairy,+20-1749753522
+Charity_2340,Mansoura,241,Meat,+20-1480755261
+Charity_2341,Delta,98,Dairy,+20-1894028551
+Charity_2342,Giza,402,Bakery,+20-1356602580
+Charity_2343,Cairo,440,Meat,+20-1161423701
+Charity_2344,Upper Egypt,227,Fruits,+20-1986166857
+Charity_2345,Delta,92,Dairy,+20-1751305602
+Charity_2346,Delta,146,Vegetables,+20-1870382324
+Charity_2347,Upper Egypt,87,Dairy,+20-1732281475
+Charity_2348,Giza,242,Fruits,+20-1791042149
+Charity_2349,Mansoura,64,Bakery,+20-1746562405
+Charity_2350,Upper Egypt,468,Fruits,+20-1875974646
+Charity_2351,Alexandria,72,Dairy,+20-1476223587
+Charity_2352,Upper Egypt,417,Fruits,+20-1481117417
+Charity_2353,Giza,428,Fruits,+20-1713035587
+Charity_2354,Giza,480,Fruits,+20-1601528241
+Charity_2355,Cairo,389,Dairy,+20-1510381500
+Charity_2356,Alexandria,53,Bakery,+20-1380203379
+Charity_2357,Mansoura,142,Meat,+20-1603556843
+Charity_2358,Delta,500,Fruits,+20-1556746825
+Charity_2359,Giza,384,Vegetables,+20-1583362893
+Charity_2360,Cairo,347,Vegetables,+20-1540953467
+Charity_2361,Cairo,439,Vegetables,+20-1991414827
+Charity_2362,Upper Egypt,386,Dairy,+20-1945717592
+Charity_2363,Upper Egypt,469,Meat,+20-1230224536
+Charity_2364,Delta,273,Bakery,+20-1121439797
+Charity_2365,Upper Egypt,110,Meat,+20-1751078311
+Charity_2366,Giza,273,Meat,+20-1730968306
+Charity_2367,Upper Egypt,84,Bakery,+20-1398863300
+Charity_2368,Delta,51,Bakery,+20-1172201764
+Charity_2369,Upper Egypt,289,Meat,+20-1152601697
+Charity_2370,Giza,119,Dairy,+20-1841198297
+Charity_2371,Mansoura,391,Vegetables,+20-1666271752
+Charity_2372,Cairo,226,Bakery,+20-1595888581
+Charity_2373,Mansoura,471,Dairy,+20-1632322473
+Charity_2374,Cairo,93,Fruits,+20-1820507157
+Charity_2375,Delta,287,Vegetables,+20-1849107417
+Charity_2376,Mansoura,309,Vegetables,+20-1207971947
+Charity_2377,Cairo,338,Fruits,+20-1558275646
+Charity_2378,Upper Egypt,385,Bakery,+20-1530819813
+Charity_2379,Alexandria,272,Meat,+20-1627053793
+Charity_2380,Mansoura,153,Fruits,+20-1738474936
+Charity_2381,Alexandria,249,Bakery,+20-1836422279
+Charity_2382,Cairo,353,Vegetables,+20-1260305783
+Charity_2383,Cairo,231,Meat,+20-1319743713
+Charity_2384,Alexandria,255,Vegetables,+20-1883115248
+Charity_2385,Delta,428,Dairy,+20-1955858759
+Charity_2386,Alexandria,424,Bakery,+20-1940133991
+Charity_2387,Upper Egypt,362,Vegetables,+20-1477641261
+Charity_2388,Cairo,74,Dairy,+20-1483244697
+Charity_2389,Cairo,267,Dairy,+20-1902093254
+Charity_2390,Alexandria,500,Bakery,+20-1546746768
+Charity_2391,Upper Egypt,292,Vegetables,+20-1489882236
+Charity_2392,Delta,111,Bakery,+20-1240357059
+Charity_2393,Upper Egypt,107,Dairy,+20-1880544094
+Charity_2394,Mansoura,184,Bakery,+20-1582404928
+Charity_2395,Alexandria,305,Dairy,+20-1751989782
+Charity_2396,Giza,241,Bakery,+20-1768888999
+Charity_2397,Upper Egypt,397,Fruits,+20-1802877148
+Charity_2398,Delta,207,Vegetables,+20-1676649804
+Charity_2399,Giza,240,Dairy,+20-1748980793
+Charity_2400,Delta,352,Dairy,+20-1907159544
+Charity_2401,Cairo,140,Fruits,+20-1255258045
+Charity_2402,Cairo,481,Meat,+20-1756737058
+Charity_2403,Giza,81,Dairy,+20-1372915857
+Charity_2404,Mansoura,377,Bakery,+20-1232165502
+Charity_2405,Giza,245,Dairy,+20-1220190287
+Charity_2406,Delta,95,Bakery,+20-1551217125
+Charity_2407,Delta,344,Vegetables,+20-1326365033
+Charity_2408,Alexandria,172,Meat,+20-1328586232
+Charity_2409,Upper Egypt,89,Vegetables,+20-1921042556
+Charity_2410,Delta,294,Bakery,+20-1332733057
+Charity_2411,Cairo,214,Dairy,+20-1669479799
+Charity_2412,Giza,313,Dairy,+20-1501483933
+Charity_2413,Giza,170,Fruits,+20-1455926974
+Charity_2414,Giza,266,Vegetables,+20-1157191022
+Charity_2415,Giza,356,Fruits,+20-1932742662
+Charity_2416,Delta,301,Fruits,+20-1615454579
+Charity_2417,Delta,113,Meat,+20-1300034401
+Charity_2418,Delta,130,Dairy,+20-1734463608
+Charity_2419,Upper Egypt,351,Vegetables,+20-1411796187
+Charity_2420,Upper Egypt,238,Meat,+20-1585393193
+Charity_2421,Giza,342,Vegetables,+20-1959684476
+Charity_2422,Giza,120,Bakery,+20-1337327342
+Charity_2423,Cairo,275,Dairy,+20-1648341923
+Charity_2424,Mansoura,221,Meat,+20-1951708968
+Charity_2425,Giza,340,Fruits,+20-1836221915
+Charity_2426,Upper Egypt,465,Dairy,+20-1501065836
+Charity_2427,Upper Egypt,381,Meat,+20-1439587839
+Charity_2428,Alexandria,296,Dairy,+20-1878216445
+Charity_2429,Mansoura,449,Bakery,+20-1184694178
+Charity_2430,Mansoura,203,Vegetables,+20-1179633102
+Charity_2431,Giza,392,Fruits,+20-1327292798
+Charity_2432,Alexandria,378,Fruits,+20-1321615848
+Charity_2433,Alexandria,176,Bakery,+20-1846967238
+Charity_2434,Cairo,85,Fruits,+20-1631452495
+Charity_2435,Alexandria,66,Bakery,+20-1251099676
+Charity_2436,Mansoura,130,Meat,+20-1764539775
+Charity_2437,Alexandria,313,Meat,+20-1887131008
+Charity_2438,Giza,244,Bakery,+20-1853583670
+Charity_2439,Alexandria,280,Fruits,+20-1548507720
+Charity_2440,Giza,363,Fruits,+20-1311612119
+Charity_2441,Giza,345,Meat,+20-1536944898
+Charity_2442,Delta,243,Dairy,+20-1105115137
+Charity_2443,Delta,324,Fruits,+20-1448443276
+Charity_2444,Cairo,254,Bakery,+20-1914988338
+Charity_2445,Alexandria,166,Bakery,+20-1790648233
+Charity_2446,Alexandria,186,Meat,+20-1164900517
+Charity_2447,Upper Egypt,84,Meat,+20-1421952849
+Charity_2448,Giza,489,Dairy,+20-1937005173
+Charity_2449,Upper Egypt,353,Dairy,+20-1379648060
+Charity_2450,Delta,148,Fruits,+20-1398935205
+Charity_2451,Delta,126,Meat,+20-1101499865
+Charity_2452,Cairo,485,Bakery,+20-1958667355
+Charity_2453,Cairo,308,Bakery,+20-1787597007
+Charity_2454,Delta,262,Bakery,+20-1768352481
+Charity_2455,Upper Egypt,108,Vegetables,+20-1267099517
+Charity_2456,Upper Egypt,350,Vegetables,+20-1496974086
+Charity_2457,Mansoura,214,Vegetables,+20-1667654420
+Charity_2458,Alexandria,457,Bakery,+20-1780925120
+Charity_2459,Cairo,101,Meat,+20-1448913231
+Charity_2460,Upper Egypt,305,Meat,+20-1302563717
+Charity_2461,Alexandria,284,Fruits,+20-1524795463
+Charity_2462,Cairo,379,Meat,+20-1998846555
+Charity_2463,Mansoura,196,Vegetables,+20-1512690815
+Charity_2464,Giza,204,Fruits,+20-1447177631
+Charity_2465,Alexandria,263,Vegetables,+20-1103485892
+Charity_2466,Giza,113,Vegetables,+20-1466878903
+Charity_2467,Upper Egypt,178,Dairy,+20-1768923460
+Charity_2468,Upper Egypt,406,Vegetables,+20-1254711184
+Charity_2469,Upper Egypt,177,Bakery,+20-1405469657
+Charity_2470,Cairo,300,Meat,+20-1906110841
+Charity_2471,Mansoura,176,Fruits,+20-1345966210
+Charity_2472,Alexandria,247,Dairy,+20-1166635256
+Charity_2473,Delta,224,Fruits,+20-1607111542
+Charity_2474,Upper Egypt,75,Meat,+20-1547879820
+Charity_2475,Cairo,457,Vegetables,+20-1712763459
+Charity_2476,Delta,486,Meat,+20-1155266930
+Charity_2477,Mansoura,345,Fruits,+20-1216346121
+Charity_2478,Mansoura,147,Fruits,+20-1243303362
+Charity_2479,Cairo,182,Meat,+20-1894797387
+Charity_2480,Giza,50,Vegetables,+20-1277659036
+Charity_2481,Alexandria,374,Meat,+20-1623561345
+Charity_2482,Alexandria,254,Meat,+20-1511210646
+Charity_2483,Delta,71,Bakery,+20-1462318028
+Charity_2484,Mansoura,179,Meat,+20-1667774897
+Charity_2485,Upper Egypt,221,Fruits,+20-1230831595
+Charity_2486,Giza,161,Vegetables,+20-1566809840
+Charity_2487,Mansoura,234,Meat,+20-1250837560
+Charity_2488,Delta,224,Bakery,+20-1959126849
+Charity_2489,Cairo,218,Dairy,+20-1848014095
+Charity_2490,Alexandria,332,Meat,+20-1571635511
+Charity_2491,Upper Egypt,363,Meat,+20-1816167261
+Charity_2492,Alexandria,422,Dairy,+20-1689274093
+Charity_2493,Giza,339,Meat,+20-1855795980
+Charity_2494,Alexandria,140,Fruits,+20-1736351722
+Charity_2495,Giza,137,Meat,+20-1974498214
+Charity_2496,Delta,491,Meat,+20-1790550239
+Charity_2497,Upper Egypt,102,Fruits,+20-1271833466
+Charity_2498,Delta,348,Bakery,+20-1390269685
+Charity_2499,Delta,107,Fruits,+20-1218281816
+Charity_2500,Alexandria,53,Meat,+20-1332356772
+Charity_2501,Delta,235,Dairy,+20-1719813611
+Charity_2502,Delta,147,Bakery,+20-1229919670
+Charity_2503,Alexandria,487,Vegetables,+20-1542583515
+Charity_2504,Alexandria,128,Meat,+20-1229607386
+Charity_2505,Giza,470,Meat,+20-1216042108
+Charity_2506,Mansoura,204,Meat,+20-1263366396
+Charity_2507,Cairo,367,Bakery,+20-1794283736
+Charity_2508,Alexandria,409,Fruits,+20-1567979423
+Charity_2509,Delta,307,Bakery,+20-1658959902
+Charity_2510,Mansoura,256,Fruits,+20-1770274012
+Charity_2511,Alexandria,328,Meat,+20-1841989647
+Charity_2512,Delta,125,Dairy,+20-1300379297
+Charity_2513,Delta,113,Vegetables,+20-1810896886
+Charity_2514,Mansoura,284,Fruits,+20-1751408004
+Charity_2515,Cairo,263,Fruits,+20-1393250351
+Charity_2516,Upper Egypt,377,Bakery,+20-1232879937
+Charity_2517,Alexandria,147,Vegetables,+20-1872367248
+Charity_2518,Cairo,336,Meat,+20-1202116304
+Charity_2519,Cairo,147,Meat,+20-1655535099
+Charity_2520,Alexandria,120,Vegetables,+20-1209887826
+Charity_2521,Alexandria,256,Bakery,+20-1924099582
+Charity_2522,Giza,170,Fruits,+20-1296527777
+Charity_2523,Delta,178,Meat,+20-1880895991
+Charity_2524,Giza,125,Fruits,+20-1523629829
+Charity_2525,Giza,251,Dairy,+20-1995104281
+Charity_2526,Cairo,372,Vegetables,+20-1937903461
+Charity_2527,Giza,55,Vegetables,+20-1436225854
+Charity_2528,Giza,477,Fruits,+20-1270645484
+Charity_2529,Giza,324,Dairy,+20-1573532393
+Charity_2530,Cairo,466,Dairy,+20-1609046922
+Charity_2531,Mansoura,65,Fruits,+20-1929742518
+Charity_2532,Giza,366,Vegetables,+20-1799878663
+Charity_2533,Upper Egypt,388,Bakery,+20-1906696156
+Charity_2534,Delta,302,Dairy,+20-1860561707
+Charity_2535,Mansoura,290,Fruits,+20-1155629472
+Charity_2536,Delta,408,Dairy,+20-1622691997
+Charity_2537,Giza,88,Meat,+20-1581918216
+Charity_2538,Upper Egypt,223,Vegetables,+20-1952005232
+Charity_2539,Alexandria,481,Meat,+20-1121973223
+Charity_2540,Giza,476,Vegetables,+20-1850500429
+Charity_2541,Cairo,455,Fruits,+20-1178428868
+Charity_2542,Cairo,402,Bakery,+20-1867386884
+Charity_2543,Mansoura,124,Fruits,+20-1957145340
+Charity_2544,Mansoura,461,Vegetables,+20-1470081565
+Charity_2545,Alexandria,143,Dairy,+20-1471896077
+Charity_2546,Alexandria,83,Dairy,+20-1899874728
+Charity_2547,Upper Egypt,322,Bakery,+20-1820386148
+Charity_2548,Giza,353,Vegetables,+20-1621190094
+Charity_2549,Mansoura,435,Vegetables,+20-1723768951
+Charity_2550,Delta,213,Vegetables,+20-1335719022
+Charity_2551,Delta,386,Meat,+20-1964295451
+Charity_2552,Delta,136,Bakery,+20-1719074632
+Charity_2553,Giza,245,Vegetables,+20-1820070303
+Charity_2554,Upper Egypt,135,Dairy,+20-1689785600
+Charity_2555,Upper Egypt,268,Bakery,+20-1122915519
+Charity_2556,Mansoura,427,Meat,+20-1394417023
+Charity_2557,Giza,383,Vegetables,+20-1478259678
+Charity_2558,Mansoura,445,Vegetables,+20-1184904245
+Charity_2559,Delta,364,Bakery,+20-1494294887
+Charity_2560,Delta,170,Meat,+20-1981132564
+Charity_2561,Cairo,421,Dairy,+20-1831961371
+Charity_2562,Delta,353,Vegetables,+20-1824198177
+Charity_2563,Cairo,383,Vegetables,+20-1442253579
+Charity_2564,Giza,209,Dairy,+20-1873002691
+Charity_2565,Cairo,227,Meat,+20-1975202434
+Charity_2566,Mansoura,487,Meat,+20-1632166023
+Charity_2567,Mansoura,241,Meat,+20-1876545398
+Charity_2568,Delta,332,Fruits,+20-1708105497
+Charity_2569,Alexandria,387,Bakery,+20-1754361499
+Charity_2570,Delta,455,Dairy,+20-1312407358
+Charity_2571,Alexandria,283,Dairy,+20-1641776595
+Charity_2572,Mansoura,410,Dairy,+20-1234481609
+Charity_2573,Cairo,171,Bakery,+20-1112331653
+Charity_2574,Alexandria,346,Fruits,+20-1178339470
+Charity_2575,Delta,449,Fruits,+20-1693183260
+Charity_2576,Alexandria,428,Fruits,+20-1398397126
+Charity_2577,Upper Egypt,137,Vegetables,+20-1498129834
+Charity_2578,Delta,220,Fruits,+20-1208256395
+Charity_2579,Giza,468,Vegetables,+20-1860189923
+Charity_2580,Cairo,430,Fruits,+20-1757488292
+Charity_2581,Cairo,229,Fruits,+20-1203366356
+Charity_2582,Delta,261,Vegetables,+20-1808076008
+Charity_2583,Upper Egypt,231,Meat,+20-1902792566
+Charity_2584,Upper Egypt,100,Meat,+20-1740648423
+Charity_2585,Mansoura,304,Fruits,+20-1467890673
+Charity_2586,Cairo,394,Vegetables,+20-1966173516
+Charity_2587,Mansoura,167,Dairy,+20-1912081485
+Charity_2588,Alexandria,425,Bakery,+20-1110540297
+Charity_2589,Alexandria,425,Meat,+20-1370377672
+Charity_2590,Cairo,301,Vegetables,+20-1633249769
+Charity_2591,Giza,122,Vegetables,+20-1380047812
+Charity_2592,Giza,264,Dairy,+20-1639370802
+Charity_2593,Mansoura,494,Meat,+20-1861680312
+Charity_2594,Giza,472,Vegetables,+20-1332442897
+Charity_2595,Upper Egypt,472,Bakery,+20-1220298685
+Charity_2596,Giza,314,Meat,+20-1573894145
+Charity_2597,Cairo,455,Bakery,+20-1976181583
+Charity_2598,Delta,384,Bakery,+20-1905431729
+Charity_2599,Giza,230,Fruits,+20-1824502504
+Charity_2600,Mansoura,429,Fruits,+20-1249280131
+Charity_2601,Cairo,86,Vegetables,+20-1573773345
+Charity_2602,Upper Egypt,212,Bakery,+20-1554312613
+Charity_2603,Giza,437,Dairy,+20-1976970789
+Charity_2604,Giza,86,Meat,+20-1428364437
+Charity_2605,Delta,480,Vegetables,+20-1356200732
+Charity_2606,Cairo,58,Bakery,+20-1641024787
+Charity_2607,Mansoura,132,Vegetables,+20-1157808297
+Charity_2608,Mansoura,424,Fruits,+20-1939096588
+Charity_2609,Delta,182,Meat,+20-1128723725
+Charity_2610,Giza,466,Bakery,+20-1202568954
+Charity_2611,Delta,460,Meat,+20-1361406986
+Charity_2612,Upper Egypt,263,Fruits,+20-1687488867
+Charity_2613,Alexandria,416,Meat,+20-1827471080
+Charity_2614,Cairo,72,Vegetables,+20-1172716246
+Charity_2615,Delta,128,Fruits,+20-1181392562
+Charity_2616,Upper Egypt,179,Meat,+20-1684086952
+Charity_2617,Cairo,279,Meat,+20-1244650169
+Charity_2618,Delta,184,Dairy,+20-1167303380
+Charity_2619,Mansoura,374,Bakery,+20-1605283661
+Charity_2620,Delta,278,Vegetables,+20-1297264372
+Charity_2621,Cairo,194,Bakery,+20-1751312841
+Charity_2622,Delta,294,Meat,+20-1325082540
+Charity_2623,Upper Egypt,115,Meat,+20-1400759695
+Charity_2624,Giza,379,Fruits,+20-1813277645
+Charity_2625,Mansoura,180,Vegetables,+20-1877643355
+Charity_2626,Giza,207,Fruits,+20-1239274301
+Charity_2627,Cairo,72,Dairy,+20-1487860500
+Charity_2628,Cairo,495,Meat,+20-1964136241
+Charity_2629,Cairo,200,Dairy,+20-1102087668
+Charity_2630,Cairo,56,Fruits,+20-1218675429
+Charity_2631,Giza,112,Vegetables,+20-1461022228
+Charity_2632,Alexandria,220,Dairy,+20-1713347848
+Charity_2633,Alexandria,118,Meat,+20-1873901203
+Charity_2634,Mansoura,439,Vegetables,+20-1835118578
+Charity_2635,Upper Egypt,115,Vegetables,+20-1740804839
+Charity_2636,Alexandria,266,Dairy,+20-1240098464
+Charity_2637,Upper Egypt,93,Dairy,+20-1505630519
+Charity_2638,Cairo,413,Bakery,+20-1959785328
+Charity_2639,Delta,438,Bakery,+20-1724976541
+Charity_2640,Delta,304,Bakery,+20-1983873553
+Charity_2641,Mansoura,301,Dairy,+20-1611231014
+Charity_2642,Upper Egypt,274,Fruits,+20-1168255263
+Charity_2643,Giza,306,Dairy,+20-1598988532
+Charity_2644,Upper Egypt,89,Vegetables,+20-1948077743
+Charity_2645,Giza,360,Bakery,+20-1190220701
+Charity_2646,Delta,343,Vegetables,+20-1760054987
+Charity_2647,Mansoura,379,Vegetables,+20-1144796232
+Charity_2648,Alexandria,309,Dairy,+20-1341403652
+Charity_2649,Cairo,190,Fruits,+20-1225530174
+Charity_2650,Delta,179,Fruits,+20-1466771507
+Charity_2651,Upper Egypt,306,Dairy,+20-1647399963
+Charity_2652,Cairo,380,Dairy,+20-1989379503
+Charity_2653,Upper Egypt,164,Fruits,+20-1221836641
+Charity_2654,Delta,334,Meat,+20-1635401161
+Charity_2655,Delta,386,Dairy,+20-1936294113
+Charity_2656,Alexandria,422,Meat,+20-1366261199
+Charity_2657,Upper Egypt,374,Meat,+20-1473486027
+Charity_2658,Mansoura,462,Fruits,+20-1647607014
+Charity_2659,Alexandria,367,Vegetables,+20-1710666938
+Charity_2660,Cairo,442,Bakery,+20-1784574911
+Charity_2661,Alexandria,172,Dairy,+20-1873408373
+Charity_2662,Giza,66,Fruits,+20-1399496306
+Charity_2663,Alexandria,357,Vegetables,+20-1923782647
+Charity_2664,Giza,348,Vegetables,+20-1581098931
+Charity_2665,Cairo,395,Bakery,+20-1439517299
+Charity_2666,Alexandria,65,Dairy,+20-1344709823
+Charity_2667,Delta,210,Dairy,+20-1589719277
+Charity_2668,Cairo,121,Meat,+20-1893368025
+Charity_2669,Mansoura,375,Meat,+20-1924341941
+Charity_2670,Alexandria,150,Dairy,+20-1700138035
+Charity_2671,Upper Egypt,192,Vegetables,+20-1159238136
+Charity_2672,Upper Egypt,227,Fruits,+20-1832766012
+Charity_2673,Upper Egypt,228,Fruits,+20-1911492871
+Charity_2674,Giza,394,Fruits,+20-1386667664
+Charity_2675,Alexandria,438,Meat,+20-1583372357
+Charity_2676,Delta,412,Bakery,+20-1827493287
+Charity_2677,Mansoura,283,Dairy,+20-1850055508
+Charity_2678,Delta,497,Bakery,+20-1677723166
+Charity_2679,Delta,498,Vegetables,+20-1791859606
+Charity_2680,Upper Egypt,423,Vegetables,+20-1957981052
+Charity_2681,Cairo,440,Meat,+20-1894855849
+Charity_2682,Cairo,283,Vegetables,+20-1829217078
+Charity_2683,Upper Egypt,54,Fruits,+20-1123261690
+Charity_2684,Delta,208,Dairy,+20-1915844516
+Charity_2685,Cairo,113,Vegetables,+20-1416802330
+Charity_2686,Mansoura,104,Dairy,+20-1494128762
+Charity_2687,Upper Egypt,301,Bakery,+20-1843942612
+Charity_2688,Cairo,193,Meat,+20-1124680689
+Charity_2689,Upper Egypt,209,Bakery,+20-1559049713
+Charity_2690,Mansoura,297,Meat,+20-1660296368
+Charity_2691,Mansoura,181,Fruits,+20-1259917600
+Charity_2692,Mansoura,114,Fruits,+20-1422787203
+Charity_2693,Mansoura,80,Fruits,+20-1704463984
+Charity_2694,Delta,262,Dairy,+20-1188223176
+Charity_2695,Cairo,462,Meat,+20-1226132783
+Charity_2696,Delta,287,Dairy,+20-1936002765
+Charity_2697,Cairo,168,Vegetables,+20-1268609868
+Charity_2698,Alexandria,287,Meat,+20-1844036666
+Charity_2699,Alexandria,387,Fruits,+20-1340656528
+Charity_2700,Cairo,287,Vegetables,+20-1244529727
+Charity_2701,Alexandria,480,Dairy,+20-1808032900
+Charity_2702,Mansoura,445,Bakery,+20-1708054280
+Charity_2703,Delta,497,Dairy,+20-1805736708
+Charity_2704,Alexandria,357,Meat,+20-1910420270
+Charity_2705,Giza,377,Meat,+20-1380012613
+Charity_2706,Giza,312,Meat,+20-1961998885
+Charity_2707,Mansoura,276,Bakery,+20-1738662864
+Charity_2708,Upper Egypt,306,Bakery,+20-1715700359
+Charity_2709,Giza,183,Dairy,+20-1715909450
+Charity_2710,Giza,195,Dairy,+20-1123977994
+Charity_2711,Alexandria,487,Bakery,+20-1230150374
+Charity_2712,Cairo,398,Vegetables,+20-1163552476
+Charity_2713,Cairo,311,Dairy,+20-1924423055
+Charity_2714,Alexandria,175,Vegetables,+20-1365708729
+Charity_2715,Cairo,466,Fruits,+20-1483619073
+Charity_2716,Upper Egypt,244,Fruits,+20-1204042745
+Charity_2717,Delta,453,Meat,+20-1278296026
+Charity_2718,Mansoura,238,Bakery,+20-1186622790
+Charity_2719,Mansoura,79,Meat,+20-1363851115
+Charity_2720,Alexandria,173,Dairy,+20-1390781985
+Charity_2721,Giza,423,Vegetables,+20-1480211687
+Charity_2722,Mansoura,462,Dairy,+20-1417846954
+Charity_2723,Cairo,466,Fruits,+20-1325469608
+Charity_2724,Mansoura,120,Fruits,+20-1198150302
+Charity_2725,Upper Egypt,393,Vegetables,+20-1320659150
+Charity_2726,Cairo,87,Fruits,+20-1376847654
+Charity_2727,Cairo,376,Meat,+20-1221915485
+Charity_2728,Delta,478,Meat,+20-1787278212
+Charity_2729,Giza,64,Dairy,+20-1112434255
+Charity_2730,Mansoura,102,Vegetables,+20-1891353474
+Charity_2731,Mansoura,382,Bakery,+20-1318938990
+Charity_2732,Cairo,451,Meat,+20-1487063356
+Charity_2733,Giza,140,Meat,+20-1824664932
+Charity_2734,Alexandria,185,Vegetables,+20-1794419951
+Charity_2735,Mansoura,451,Dairy,+20-1802211936
+Charity_2736,Giza,433,Fruits,+20-1976497758
+Charity_2737,Giza,336,Fruits,+20-1819165136
+Charity_2738,Giza,211,Dairy,+20-1228762167
+Charity_2739,Cairo,476,Dairy,+20-1216681129
+Charity_2740,Upper Egypt,210,Bakery,+20-1712972809
+Charity_2741,Upper Egypt,362,Fruits,+20-1390054897
+Charity_2742,Upper Egypt,122,Dairy,+20-1950517555
+Charity_2743,Upper Egypt,93,Bakery,+20-1395506798
+Charity_2744,Alexandria,211,Vegetables,+20-1570930629
+Charity_2745,Alexandria,324,Vegetables,+20-1531081661
+Charity_2746,Delta,115,Bakery,+20-1495935863
+Charity_2747,Cairo,323,Meat,+20-1389600534
+Charity_2748,Delta,347,Fruits,+20-1133714900
+Charity_2749,Giza,459,Vegetables,+20-1243415845
+Charity_2750,Giza,227,Bakery,+20-1497754896
+Charity_2751,Delta,167,Fruits,+20-1648871140
+Charity_2752,Cairo,405,Vegetables,+20-1819045286
+Charity_2753,Upper Egypt,371,Fruits,+20-1792391102
+Charity_2754,Giza,310,Bakery,+20-1132491246
+Charity_2755,Alexandria,64,Dairy,+20-1439465903
+Charity_2756,Cairo,496,Dairy,+20-1868875862
+Charity_2757,Upper Egypt,310,Meat,+20-1729115325
+Charity_2758,Upper Egypt,372,Dairy,+20-1967900379
+Charity_2759,Giza,234,Fruits,+20-1946497861
+Charity_2760,Alexandria,117,Fruits,+20-1294169144
+Charity_2761,Alexandria,410,Dairy,+20-1628646747
+Charity_2762,Mansoura,297,Fruits,+20-1406310864
+Charity_2763,Alexandria,339,Dairy,+20-1384051216
+Charity_2764,Delta,175,Meat,+20-1428692923
+Charity_2765,Mansoura,194,Meat,+20-1152408092
+Charity_2766,Mansoura,54,Dairy,+20-1710207521
+Charity_2767,Delta,497,Bakery,+20-1245724739
+Charity_2768,Mansoura,202,Bakery,+20-1566422980
+Charity_2769,Giza,429,Dairy,+20-1491007852
+Charity_2770,Alexandria,460,Vegetables,+20-1633476907
+Charity_2771,Mansoura,353,Vegetables,+20-1943056284
+Charity_2772,Delta,230,Fruits,+20-1801394655
+Charity_2773,Mansoura,60,Bakery,+20-1208099870
+Charity_2774,Giza,112,Meat,+20-1372906197
+Charity_2775,Cairo,289,Vegetables,+20-1487042532
+Charity_2776,Alexandria,464,Fruits,+20-1885054493
+Charity_2777,Giza,358,Dairy,+20-1146732921
+Charity_2778,Cairo,436,Dairy,+20-1164904013
+Charity_2779,Delta,476,Bakery,+20-1974304306
+Charity_2780,Giza,122,Fruits,+20-1603300072
+Charity_2781,Cairo,275,Bakery,+20-1253892910
+Charity_2782,Mansoura,119,Fruits,+20-1817719981
+Charity_2783,Cairo,411,Dairy,+20-1418524165
+Charity_2784,Giza,113,Dairy,+20-1930916697
+Charity_2785,Cairo,161,Vegetables,+20-1499145226
+Charity_2786,Cairo,382,Vegetables,+20-1904790296
+Charity_2787,Upper Egypt,404,Bakery,+20-1419059086
+Charity_2788,Giza,395,Bakery,+20-1646014388
+Charity_2789,Delta,182,Fruits,+20-1265951968
+Charity_2790,Mansoura,335,Bakery,+20-1483849368
+Charity_2791,Giza,401,Vegetables,+20-1558895501
+Charity_2792,Cairo,452,Dairy,+20-1735150858
+Charity_2793,Alexandria,341,Dairy,+20-1879438544
+Charity_2794,Alexandria,222,Fruits,+20-1749073655
+Charity_2795,Upper Egypt,433,Fruits,+20-1863703626
+Charity_2796,Delta,231,Dairy,+20-1887102117
+Charity_2797,Delta,498,Meat,+20-1286080234
+Charity_2798,Mansoura,421,Vegetables,+20-1879158412
+Charity_2799,Cairo,302,Fruits,+20-1831276146
+Charity_2800,Upper Egypt,491,Vegetables,+20-1571854641
+Charity_2801,Upper Egypt,104,Bakery,+20-1345437817
+Charity_2802,Giza,485,Vegetables,+20-1833124199
+Charity_2803,Alexandria,62,Vegetables,+20-1329004714
+Charity_2804,Delta,156,Dairy,+20-1814747520
+Charity_2805,Giza,293,Dairy,+20-1209910401
+Charity_2806,Mansoura,259,Fruits,+20-1862885079
+Charity_2807,Cairo,442,Fruits,+20-1143416673
+Charity_2808,Alexandria,422,Dairy,+20-1461159950
+Charity_2809,Upper Egypt,237,Meat,+20-1186724931
+Charity_2810,Giza,332,Dairy,+20-1348470589
+Charity_2811,Delta,90,Meat,+20-1117081325
+Charity_2812,Alexandria,53,Vegetables,+20-1859510732
+Charity_2813,Giza,322,Bakery,+20-1273876663
+Charity_2814,Cairo,294,Fruits,+20-1829254247
+Charity_2815,Upper Egypt,223,Bakery,+20-1482796651
+Charity_2816,Giza,456,Bakery,+20-1871126089
+Charity_2817,Giza,276,Dairy,+20-1626528785
+Charity_2818,Mansoura,456,Fruits,+20-1296022734
+Charity_2819,Giza,369,Vegetables,+20-1441820953
+Charity_2820,Upper Egypt,185,Vegetables,+20-1907462968
+Charity_2821,Giza,469,Dairy,+20-1307797296
+Charity_2822,Upper Egypt,453,Vegetables,+20-1868210277
+Charity_2823,Mansoura,316,Vegetables,+20-1752739701
+Charity_2824,Mansoura,444,Bakery,+20-1300904498
+Charity_2825,Cairo,472,Fruits,+20-1228520130
+Charity_2826,Cairo,56,Vegetables,+20-1507329799
+Charity_2827,Cairo,300,Dairy,+20-1912382694
+Charity_2828,Giza,84,Fruits,+20-1307994571
+Charity_2829,Upper Egypt,370,Fruits,+20-1848299458
+Charity_2830,Delta,247,Bakery,+20-1815630609
+Charity_2831,Mansoura,454,Fruits,+20-1332546789
+Charity_2832,Mansoura,84,Fruits,+20-1482760663
+Charity_2833,Mansoura,177,Meat,+20-1128288345
+Charity_2834,Alexandria,142,Meat,+20-1701633687
+Charity_2835,Delta,336,Vegetables,+20-1170322942
+Charity_2836,Delta,282,Vegetables,+20-1132557140
+Charity_2837,Upper Egypt,464,Bakery,+20-1487997990
+Charity_2838,Cairo,293,Bakery,+20-1325048217
+Charity_2839,Giza,289,Dairy,+20-1990777943
+Charity_2840,Giza,103,Vegetables,+20-1757452945
+Charity_2841,Mansoura,148,Fruits,+20-1191949852
+Charity_2842,Upper Egypt,209,Bakery,+20-1464949280
+Charity_2843,Cairo,442,Vegetables,+20-1834830088
+Charity_2844,Upper Egypt,282,Fruits,+20-1751264353
+Charity_2845,Upper Egypt,474,Meat,+20-1664235653
+Charity_2846,Giza,260,Bakery,+20-1868994358
+Charity_2847,Cairo,50,Bakery,+20-1163127598
+Charity_2848,Mansoura,127,Vegetables,+20-1129548509
+Charity_2849,Delta,385,Dairy,+20-1191688425
+Charity_2850,Giza,435,Meat,+20-1660972848
+Charity_2851,Delta,482,Fruits,+20-1472770515
+Charity_2852,Giza,175,Bakery,+20-1790609782
+Charity_2853,Upper Egypt,215,Bakery,+20-1544020970
+Charity_2854,Cairo,117,Vegetables,+20-1325169043
+Charity_2855,Cairo,466,Fruits,+20-1970472892
+Charity_2856,Delta,449,Bakery,+20-1654152115
+Charity_2857,Upper Egypt,287,Fruits,+20-1223467212
+Charity_2858,Mansoura,234,Dairy,+20-1947783448
+Charity_2859,Delta,65,Vegetables,+20-1279690621
+Charity_2860,Giza,57,Bakery,+20-1664546412
+Charity_2861,Delta,79,Dairy,+20-1103248317
+Charity_2862,Delta,194,Meat,+20-1599136365
+Charity_2863,Alexandria,56,Vegetables,+20-1953941730
+Charity_2864,Upper Egypt,193,Meat,+20-1337334607
+Charity_2865,Cairo,74,Dairy,+20-1651083896
+Charity_2866,Upper Egypt,329,Dairy,+20-1630025708
+Charity_2867,Upper Egypt,228,Bakery,+20-1852336395
+Charity_2868,Mansoura,216,Fruits,+20-1833120615
+Charity_2869,Delta,223,Meat,+20-1731039133
+Charity_2870,Alexandria,344,Meat,+20-1426053278
+Charity_2871,Alexandria,72,Fruits,+20-1764230655
+Charity_2872,Mansoura,140,Vegetables,+20-1519646802
+Charity_2873,Mansoura,368,Fruits,+20-1827089220
+Charity_2874,Mansoura,115,Dairy,+20-1291106070
+Charity_2875,Delta,269,Fruits,+20-1212081462
+Charity_2876,Delta,113,Fruits,+20-1923744727
+Charity_2877,Upper Egypt,118,Meat,+20-1431211225
+Charity_2878,Giza,383,Bakery,+20-1390329289
+Charity_2879,Upper Egypt,215,Meat,+20-1832269381
+Charity_2880,Upper Egypt,182,Dairy,+20-1257020326
+Charity_2881,Cairo,299,Dairy,+20-1380021480
+Charity_2882,Upper Egypt,149,Fruits,+20-1749371281
+Charity_2883,Giza,489,Bakery,+20-1407664963
+Charity_2884,Cairo,267,Dairy,+20-1582252333
+Charity_2885,Alexandria,67,Dairy,+20-1696906785
+Charity_2886,Upper Egypt,336,Dairy,+20-1705203653
+Charity_2887,Delta,426,Fruits,+20-1672195337
+Charity_2888,Alexandria,278,Fruits,+20-1766357953
+Charity_2889,Cairo,434,Meat,+20-1158627795
+Charity_2890,Mansoura,380,Dairy,+20-1591484105
+Charity_2891,Upper Egypt,127,Dairy,+20-1411059680
+Charity_2892,Cairo,308,Dairy,+20-1770889189
+Charity_2893,Giza,384,Bakery,+20-1583201686
+Charity_2894,Delta,362,Fruits,+20-1332600757
+Charity_2895,Mansoura,292,Meat,+20-1177824019
+Charity_2896,Giza,192,Bakery,+20-1328450502
+Charity_2897,Cairo,270,Fruits,+20-1482653788
+Charity_2898,Upper Egypt,393,Bakery,+20-1659996115
+Charity_2899,Giza,182,Vegetables,+20-1570878505
+Charity_2900,Delta,57,Fruits,+20-1572871465
+Charity_2901,Cairo,199,Meat,+20-1618051282
+Charity_2902,Upper Egypt,351,Vegetables,+20-1517662235
+Charity_2903,Alexandria,84,Bakery,+20-1999798660
+Charity_2904,Mansoura,241,Dairy,+20-1944356404
+Charity_2905,Delta,141,Dairy,+20-1848658069
+Charity_2906,Delta,121,Meat,+20-1995156385
+Charity_2907,Giza,392,Vegetables,+20-1604253804
+Charity_2908,Giza,225,Dairy,+20-1226497335
+Charity_2909,Giza,236,Dairy,+20-1619441141
+Charity_2910,Giza,87,Vegetables,+20-1367542202
+Charity_2911,Cairo,63,Bakery,+20-1937978705
+Charity_2912,Alexandria,284,Bakery,+20-1718590452
+Charity_2913,Alexandria,453,Bakery,+20-1223629469
+Charity_2914,Alexandria,169,Vegetables,+20-1857674461
+Charity_2915,Alexandria,142,Fruits,+20-1932786773
+Charity_2916,Mansoura,244,Meat,+20-1107416561
+Charity_2917,Delta,326,Meat,+20-1458247947
+Charity_2918,Mansoura,465,Bakery,+20-1328553891
+Charity_2919,Mansoura,384,Bakery,+20-1149582966
+Charity_2920,Upper Egypt,155,Meat,+20-1317094088
+Charity_2921,Alexandria,87,Vegetables,+20-1982416447
+Charity_2922,Upper Egypt,257,Fruits,+20-1802480485
+Charity_2923,Giza,114,Bakery,+20-1653602768
+Charity_2924,Alexandria,272,Bakery,+20-1386654264
+Charity_2925,Delta,397,Bakery,+20-1576535677
+Charity_2926,Upper Egypt,460,Dairy,+20-1976567475
+Charity_2927,Cairo,427,Dairy,+20-1960355113
+Charity_2928,Cairo,268,Meat,+20-1126729712
+Charity_2929,Mansoura,189,Dairy,+20-1206636688
+Charity_2930,Alexandria,453,Vegetables,+20-1365773174
+Charity_2931,Mansoura,66,Meat,+20-1941742802
+Charity_2932,Alexandria,425,Bakery,+20-1185195899
+Charity_2933,Upper Egypt,494,Dairy,+20-1431648951
+Charity_2934,Alexandria,150,Dairy,+20-1701101447
+Charity_2935,Mansoura,92,Dairy,+20-1355938795
+Charity_2936,Delta,409,Dairy,+20-1568863284
+Charity_2937,Giza,497,Meat,+20-1484171280
+Charity_2938,Mansoura,412,Dairy,+20-1958983505
+Charity_2939,Alexandria,476,Meat,+20-1893552486
+Charity_2940,Alexandria,180,Fruits,+20-1994792066
+Charity_2941,Delta,273,Dairy,+20-1230931104
+Charity_2942,Delta,126,Fruits,+20-1916379797
+Charity_2943,Delta,420,Dairy,+20-1430289619
+Charity_2944,Cairo,190,Vegetables,+20-1625095007
+Charity_2945,Delta,235,Vegetables,+20-1774060037
+Charity_2946,Cairo,178,Meat,+20-1879314292
+Charity_2947,Upper Egypt,359,Bakery,+20-1637482820
+Charity_2948,Mansoura,138,Dairy,+20-1322522150
+Charity_2949,Upper Egypt,182,Bakery,+20-1284710646
+Charity_2950,Cairo,374,Vegetables,+20-1246407881
+Charity_2951,Giza,415,Vegetables,+20-1718734932
+Charity_2952,Delta,477,Bakery,+20-1977449023
+Charity_2953,Giza,112,Fruits,+20-1704717348
+Charity_2954,Cairo,57,Dairy,+20-1850198268
+Charity_2955,Cairo,158,Vegetables,+20-1810620728
+Charity_2956,Upper Egypt,53,Fruits,+20-1871348872
+Charity_2957,Alexandria,311,Fruits,+20-1938126575
+Charity_2958,Alexandria,264,Dairy,+20-1953698475
+Charity_2959,Mansoura,86,Fruits,+20-1991256967
+Charity_2960,Upper Egypt,186,Meat,+20-1888221188
+Charity_2961,Mansoura,382,Dairy,+20-1519390434
+Charity_2962,Cairo,201,Fruits,+20-1548490966
+Charity_2963,Delta,351,Vegetables,+20-1719259403
+Charity_2964,Cairo,100,Dairy,+20-1836181230
+Charity_2965,Upper Egypt,208,Fruits,+20-1572630212
+Charity_2966,Upper Egypt,255,Dairy,+20-1944938577
+Charity_2967,Upper Egypt,280,Dairy,+20-1499907353
+Charity_2968,Mansoura,418,Dairy,+20-1513247671
+Charity_2969,Mansoura,490,Fruits,+20-1616102523
+Charity_2970,Mansoura,73,Bakery,+20-1478803887
+Charity_2971,Giza,54,Bakery,+20-1820710834
+Charity_2972,Upper Egypt,225,Vegetables,+20-1729336745
+Charity_2973,Mansoura,209,Fruits,+20-1444300978
+Charity_2974,Giza,86,Dairy,+20-1490580868
+Charity_2975,Cairo,197,Bakery,+20-1769161348
+Charity_2976,Delta,315,Dairy,+20-1668245372
+Charity_2977,Giza,353,Bakery,+20-1638244493
+Charity_2978,Mansoura,123,Dairy,+20-1487183599
+Charity_2979,Alexandria,429,Fruits,+20-1252195596
+Charity_2980,Giza,52,Dairy,+20-1182683475
+Charity_2981,Upper Egypt,408,Bakery,+20-1488496298
+Charity_2982,Upper Egypt,70,Dairy,+20-1752109446
+Charity_2983,Giza,354,Bakery,+20-1601881098
+Charity_2984,Upper Egypt,168,Bakery,+20-1563635865
+Charity_2985,Upper Egypt,191,Meat,+20-1166253594
+Charity_2986,Mansoura,459,Dairy,+20-1249993823
+Charity_2987,Alexandria,262,Dairy,+20-1317077577
+Charity_2988,Delta,69,Vegetables,+20-1274190018
+Charity_2989,Cairo,181,Vegetables,+20-1159710478
+Charity_2990,Giza,95,Bakery,+20-1847643940
+Charity_2991,Giza,340,Vegetables,+20-1359646275
+Charity_2992,Cairo,90,Meat,+20-1220300209
+Charity_2993,Delta,184,Meat,+20-1530016072
+Charity_2994,Alexandria,178,Bakery,+20-1670991282
+Charity_2995,Alexandria,225,Bakery,+20-1634887354
+Charity_2996,Alexandria,240,Vegetables,+20-1847892913
+Charity_2997,Alexandria,232,Vegetables,+20-1711510123
+Charity_2998,Mansoura,103,Fruits,+20-1180337073
+Charity_2999,Alexandria,148,Dairy,+20-1753493004
+Charity_3000,Mansoura,179,Fruits,+20-1588362204
